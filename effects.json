@@ -1,0 +1,576 @@
+{
+  "version": 1,
+  "baseURL": "https://github.com/Joejibobo/audioscape-music/releases/download/v1/",
+  "effects": [
+    {
+      "id": "thunder-short-mid",
+      "kind": "thunder",
+      "file": "thunder-short-mid.m4a",
+      "duration": 6.636,
+      "peakOffset": 1.088,
+      "gain": 0.0,
+      "sha256": "16e06153c0a16af7b222d1dc0d1d635db00177d79a9ffdad2ce5c451a2ad1679",
+      "bytes": 64208,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/SholeColtis/sounds/683421/",
+        "download": "https://cdn.freesound.org/previews/683/683421_14670263-hq.mp3",
+        "author": "SholeColtis",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/thunder-short-mid.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "thunder-07",
+      "kind": "thunder",
+      "file": "thunder-07.m4a",
+      "duration": 6.524,
+      "peakOffset": 4.169,
+      "gain": 0.0,
+      "sha256": "8db58b01c9fade5c2f52f0d6d7ffbc6573c2fee8a0da77bd60140c44641566f4",
+      "bytes": 68189,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/Emulius/sounds/744722/",
+        "download": "https://cdn.freesound.org/previews/744/744722_10934718-hq.mp3",
+        "author": "Emulius",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/thunder-07.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "thunder-distant-rain",
+      "kind": "thunder",
+      "file": "thunder-distant-rain.m4a",
+      "duration": 13.909,
+      "peakOffset": 5.106,
+      "gain": 0.0,
+      "sha256": "fb6c54cfc553024b3fff7f7ddaa6ec30a6f8b318a37ef618901e4d964fdc6537",
+      "bytes": 173505,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/BlondPanda/sounds/778374/",
+        "download": "https://cdn.freesound.org/previews/778/778374_8927049-hq.mp3",
+        "author": "BlondPanda",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/thunder-distant-rain.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "lightning-dry-crack",
+      "kind": "lightning",
+      "file": "lightning-dry-crack.m4a",
+      "duration": 6.0,
+      "peakOffset": 0.845,
+      "gain": 0.0,
+      "sha256": "b653822bc37282fb4592c2e80ce69ef042d2db080028c1d0ae435df779753eac",
+      "bytes": 73544,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/cognito%20perceptu/sounds/721072/",
+        "download": "https://cdn.freesound.org/previews/721/721072_57789-hq.mp3",
+        "author": "cognito perceptu",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/lightning-dry-crack.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "rain-heavy-loop",
+      "kind": "rainStarts",
+      "file": "rain-heavy-loop.m4a",
+      "duration": 15.5,
+      "peakOffset": 1.001,
+      "gain": 0.0,
+      "sha256": "68aad635c9063257c9fbe3271240b4caee0b6398060e001c7051ff72701513e5",
+      "bytes": 191109,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/Rubaoliva/sounds/624645/",
+        "download": "https://cdn.freesound.org/previews/624/624645_12956617-hq.mp3",
+        "author": "Rubaoliva",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/rain-heavy-loop.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "rain-short-loop",
+      "kind": "rainStarts",
+      "file": "rain-short-loop.m4a",
+      "duration": 9.66,
+      "peakOffset": 5.591,
+      "gain": 0.0,
+      "sha256": "e101884eb07cff2f11b8b3aca2f74b425832b40af92411b94fc11349df4355b1",
+      "bytes": 120388,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/dmk67/sounds/392980/",
+        "download": "https://cdn.freesound.org/previews/392/392980_5183830-hq.mp3",
+        "author": "dmk67",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/rain-short-loop.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "wind-gust",
+      "kind": "windGust",
+      "file": "wind-gust.m4a",
+      "duration": 3.774,
+      "peakOffset": 0.156,
+      "gain": -3.5,
+      "sha256": "6e979317ecb4b2639be2a0f4c7983df9dd1ac02edacc915a4ddc5df8fc9a9db4",
+      "bytes": 29636,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/phuonglamb/sounds/738085/",
+        "download": "https://cdn.freesound.org/previews/738/738085_9523513-hq.mp3",
+        "author": "phuonglamb",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/wind-gust.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "door-open-old",
+      "kind": "doorOpen",
+      "file": "door-open-old.m4a",
+      "duration": 1.81,
+      "peakOffset": 0.459,
+      "gain": 0.0,
+      "sha256": "78591b8bc4901ba80f4adf51a296d57db2c70c59d643aa348a510b23109603a5",
+      "bytes": 24878,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/kaszapatrik/sounds/361474/",
+        "download": "https://cdn.freesound.org/previews/361/361474_2537137-hq.mp3",
+        "author": "kaszapatrik",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/door-open-old.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "door-close-old",
+      "kind": "doorClose",
+      "file": "door-close-old.m4a",
+      "duration": 1.541,
+      "peakOffset": 0.684,
+      "gain": 0.0,
+      "sha256": "b1b56fa9a9ed9be85927a0c4a1f2f51ffef24fd07197d06731b322b58f59d113",
+      "bytes": 22042,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/kaszapatrik/sounds/361476/",
+        "download": "https://cdn.freesound.org/previews/361/361476_2537137-hq.mp3",
+        "author": "kaszapatrik",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/door-close-old.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "door-knock-wood",
+      "kind": "doorKnock",
+      "file": "door-knock-wood.m4a",
+      "duration": 2.997,
+      "peakOffset": 0.042,
+      "gain": 0.0,
+      "sha256": "600a413e02fcc71a50474299b2659e12baf7716117603167ad89accd872a8d44",
+      "bytes": 20369,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/Ligidium/sounds/193873/",
+        "download": "https://cdn.freesound.org/previews/193/193873_3276562-hq.mp3",
+        "author": "Ligidium",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/door-knock-wood.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "footsteps-wood",
+      "kind": "footsteps",
+      "file": "footsteps-wood.m4a",
+      "duration": 10.821,
+      "peakOffset": 1.433,
+      "gain": 0.0,
+      "sha256": "377e6515e2fc2acda7dc2d75e6d556790d716459f03fe15d973bc110312668f8",
+      "bytes": 131992,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/mrh4hn/sounds/426620/",
+        "download": "https://cdn.freesound.org/previews/426/426620_8238671-hq.mp3",
+        "author": "mrh4hn",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/footsteps-wood.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "footsteps-stone",
+      "kind": "footsteps",
+      "file": "footsteps-stone.m4a",
+      "duration": 4.189,
+      "peakOffset": 1.238,
+      "gain": 0.0,
+      "sha256": "852e19628fb5d689d1803f9585e18275759e502c3278c74d842987fcdad106ef",
+      "bytes": 51472,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/HenKonen/sounds/757207/",
+        "download": "https://cdn.freesound.org/previews/757/757207_10938187-hq.mp3",
+        "author": "HenKonen",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/footsteps-stone.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "running-wood",
+      "kind": "running",
+      "file": "running-wood.m4a",
+      "duration": 13.904,
+      "peakOffset": 1.739,
+      "gain": 0.0,
+      "sha256": "04c09a1f5cd7a5e45f7ee9587a336131732395f1518c60abf9bf957d007a4d4c",
+      "bytes": 174383,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/thomasanthony321/sounds/682772/",
+        "download": "https://cdn.freesound.org/previews/682/682772_14662423-hq.mp3",
+        "author": "thomasanthony321",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/running-wood.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "sword-clash-1",
+      "kind": "swordClash",
+      "file": "sword-clash-1.m4a",
+      "duration": 1.865,
+      "peakOffset": 0.049,
+      "gain": -2.7,
+      "sha256": "a4cb6ae4ccf637515c16c0211d89859c798851d47a4759e61868361894fdd540",
+      "bytes": 21450,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/Christopherderp/sounds/364530/",
+        "download": "https://cdn.freesound.org/previews/364/364530_3908740-hq.mp3",
+        "author": "Christopherderp",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/sword-clash-1.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "sword-clash-2",
+      "kind": "swordClash",
+      "file": "sword-clash-2.m4a",
+      "duration": 1.17,
+      "peakOffset": 0.034,
+      "gain": 0.0,
+      "sha256": "ed18cef531f7e05f3739f1bf4ac013fe5a4fc812d7270190819d570294c78a6a",
+      "bytes": 17336,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/JohnBuhr/sounds/326868/",
+        "download": "https://cdn.freesound.org/previews/326/326868_4077311-hq.mp3",
+        "author": "JohnBuhr",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/sword-clash-2.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "gunshot-woods",
+      "kind": "gunshot",
+      "file": "gunshot-woods.m4a",
+      "duration": 2.612,
+      "peakOffset": 0.033,
+      "gain": -3.1,
+      "sha256": "d75ab7b04c09d255bcc311731e23545a7a5faf27c2bdcc58212443954c8f8763",
+      "bytes": 33146,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/florianreichelt/sounds/563015/",
+        "download": "https://cdn.freesound.org/previews/563/563015_6253486-hq.mp3",
+        "author": "florianreichelt",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/gunshot-woods.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "explosion-distant",
+      "kind": "explosion",
+      "file": "explosion-distant.m4a",
+      "duration": 8.55,
+      "peakOffset": 0.108,
+      "gain": 0.0,
+      "sha256": "33243629c5737ecdf897ff9841b5408c8da42e944488d3e01b3c34dbeddcf712",
+      "bytes": 94798,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/Kostrava/sounds/324277/",
+        "download": "https://cdn.freesound.org/previews/324/324277_1134415-hq.mp3",
+        "author": "Kostrava",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/explosion-distant.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "fire-crackle-loop",
+      "kind": "fireCrackle",
+      "file": "fire-crackle-loop.m4a",
+      "duration": 35.0,
+      "peakOffset": 1.564,
+      "gain": 0.0,
+      "sha256": "9f6c59e477d0c4dc82c341130bf6716f42edbb677a1613465fbda5df908b1b01",
+      "bytes": 431196,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/NickTayloe/sounds/813328/",
+        "download": "https://cdn.freesound.org/previews/813/813328_11606594-hq.mp3",
+        "author": "NickTayloe",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/fire-crackle-loop.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "bell-church",
+      "kind": "bell",
+      "file": "bell-church.m4a",
+      "duration": 16.313,
+      "peakOffset": 2.493,
+      "gain": 0.0,
+      "sha256": "a65e5f6d29ea56286cae708c8d82e289afc557e9820a4de5c3aac8d8e5b4a3a6",
+      "bytes": 202766,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/suonidigenova/sounds/55044/",
+        "download": "https://cdn.freesound.org/previews/55/55044_680310-hq.mp3",
+        "author": "suonidigenova",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/bell-church.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "bell-small",
+      "kind": "bell",
+      "file": "bell-small.m4a",
+      "duration": 1.938,
+      "peakOffset": 0.002,
+      "gain": -4.3,
+      "sha256": "6a2185f9fea1c322263cfae3303b824624c7e7939f8e613b38ffddd8331fc6b6",
+      "bytes": 19172,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/steffcaffrey/sounds/452379/",
+        "download": "https://cdn.freesound.org/previews/452/452379_1844073-hq.mp3",
+        "author": "steffcaffrey",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/bell-small.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "clock-tick-loop",
+      "kind": "clock",
+      "file": "clock-tick-loop.m4a",
+      "duration": 3.964,
+      "peakOffset": 0.057,
+      "gain": 0.0,
+      "sha256": "5786ed41d0943a8fe69e83ac3d03042b92533cafd518f41387ff9457b0315bc1",
+      "bytes": 51352,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/se2001/sounds/511967/",
+        "download": "https://cdn.freesound.org/previews/511/511967_8472935-hq.mp3",
+        "author": "se2001",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/clock-tick-loop.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "clock-chime",
+      "kind": "clock",
+      "file": "clock-chime.m4a",
+      "duration": 19.908,
+      "peakOffset": 3.652,
+      "gain": 0.0,
+      "sha256": "32cd0f9f17629d89c484fe197abac615d9c55a8a18423ba61df6b2f6b31bacb9",
+      "bytes": 249255,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/dianegray26/sounds/724190/",
+        "download": "https://cdn.freesound.org/previews/724/724190_5583942-hq.mp3",
+        "author": "dianegray26",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/clock-chime.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "horse-gallop",
+      "kind": "horse",
+      "file": "horse-gallop.m4a",
+      "duration": 11.818,
+      "peakOffset": 5.857,
+      "gain": 0.0,
+      "sha256": "2c3014e9d7de35946e1f6cc22b885b1ef03c5c539f6b0f4c55252189f888ce96",
+      "bytes": 150129,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/telezon/sounds/368583/",
+        "download": "https://cdn.freesound.org/previews/368/368583_5492735-hq.mp3",
+        "author": "telezon",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/horse-gallop.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "crowd-cheer",
+      "kind": "crowdCheer",
+      "file": "crowd-cheer.m4a",
+      "duration": 13.981,
+      "peakOffset": 1.124,
+      "gain": 0.0,
+      "sha256": "fd7bc82d1009cb6fee197d4618a8d65e46e2b6c59d803e2914fcc5ee564c4f8c",
+      "bytes": 177081,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/mglennsound/sounds/678543/",
+        "download": "https://cdn.freesound.org/previews/678/678543_14787385-hq.mp3",
+        "author": "mglennsound",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/crowd-cheer.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "scream-short",
+      "kind": "scream",
+      "file": "scream-short.m4a",
+      "duration": 1.906,
+      "peakOffset": 0.154,
+      "gain": -4.7,
+      "sha256": "c0e74c01c9e274a45c9a4e6f6faa4bace9f64fc2aea4bcbdaf399c24a4ad8538",
+      "bytes": 16939,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/NiGo.13/sounds/697439/",
+        "download": "https://cdn.freesound.org/previews/697/697439_15129210-hq.mp3",
+        "author": "NiGo.13",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/scream-short.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "glass-break",
+      "kind": "glassBreak",
+      "file": "glass-break.m4a",
+      "duration": 0.558,
+      "peakOffset": 0.02,
+      "gain": 0.0,
+      "sha256": "233ade17d6a22669b28f9100b94489843cc62652fde4c65e16b672167281f314",
+      "bytes": 11475,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/Bricklover/sounds/560767/",
+        "download": "https://cdn.freesound.org/previews/560/560767_8919922-hq.mp3",
+        "author": "Bricklover",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/glass-break.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "water-splash",
+      "kind": "waterSplash",
+      "file": "water-splash.m4a",
+      "duration": 2.283,
+      "peakOffset": 0.702,
+      "gain": 0.0,
+      "sha256": "a1c7cc121fbd4bb5047728240c27324173ab8584c01a09ed563a36bbe038a9c6",
+      "bytes": 33825,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/vero.marengere/sounds/524524/",
+        "download": "https://cdn.freesound.org/previews/524/524524_6605732-hq.mp3",
+        "author": "vero.marengere",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/water-splash.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "bird-song",
+      "kind": "bird",
+      "file": "bird-song.m4a",
+      "duration": 15.0,
+      "peakOffset": 0.111,
+      "gain": 0.0,
+      "sha256": "6e3bc271f444067546d4355ce4fbab1e022f6f729413db483d7d5fa82fb76912",
+      "bytes": 191424,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/AMichaelWilson/sounds/338706/",
+        "download": "https://cdn.freesound.org/previews/338/338706_6021810-hq.mp3",
+        "author": "AMichaelWilson",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/bird-song.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "wolf-howl",
+      "kind": "wolfHowl",
+      "file": "wolf-howl.m4a",
+      "duration": 10.199,
+      "peakOffset": 2.636,
+      "gain": -6.0,
+      "sha256": "cfcdbbb4d6eeb4887ba16cf38ea4a369881d10d9eedd4392354be82aec4bae22",
+      "bytes": 128192,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/betchkal/sounds/500646/",
+        "download": "https://cdn.freesound.org/previews/500/500646_339183-hq.mp3",
+        "author": "betchkal",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/wolf-howl.html",
+        "retrieved": "2026-11-24"
+      }
+    },
+    {
+      "id": "heartbeat-loop",
+      "kind": "heartbeat",
+      "file": "heartbeat-loop.m4a",
+      "duration": 19.143,
+      "peakOffset": 0.112,
+      "gain": -2.0,
+      "sha256": "bd544a0eac09c693bbe135d609b6c52889782696f6c8ea778bb365a00e3e9ca3",
+      "bytes": 166782,
+      "licence": "CC0-1.0",
+      "source": {
+        "url": "https://freesound.org/people/RavenWolfProds/sounds/547434/",
+        "download": "https://cdn.freesound.org/previews/547/547434_9619518-hq.mp3",
+        "author": "RavenWolfProds",
+        "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/heartbeat-loop.html",
+        "retrieved": "2026-11-24"
+      }
+    }
+  ]
+}
