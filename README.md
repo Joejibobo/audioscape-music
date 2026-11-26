@@ -4,11 +4,11 @@ Free music and sound effects that [AudioScape](https://github.com/Joejibobo) pla
 
 ## What's here
 
-- `catalog.json`: the music catalog AudioScape reads (version 2: 160 tracks, about 9 hours, 535 MB, across 16 styles and 5 moods). For each track it lists the title, artist, duration, the styles, moods and kinds of scene it suits, a loudness correction (`gainDB`), an analysis made in advance (tempo, key, loudness, energy, a loudness curve at one value a second), the licence and where it came from, and the file's address, size and SHA-256.
+- `catalog.json`: the music catalog AudioScape reads (version 3: 195 tracks, about 11 hours, 645 MB, across 16 of its 17 styles and 5 moods). For each track it lists the title, artist, duration, the styles, moods and kinds of scene it suits, a loudness correction (`gainDB`), an analysis made in advance (tempo, key, loudness, energy, a loudness curve at one value a second), the licence and where it came from, and the file's address, size and SHA-256.
 - `effects.json`: 30 sound effects (thunder, rain, doors, footsteps, swords, bells, clocks, a wolf and more) with their kind, length, the time of their loudest moment (`peakOffset`), level trim, SHA-256, licence and source.
 - `LICENSES.md`: every item with its author, source page, the licence wording on that page, the date it was read and a link to the saved page.
 - `evidence/`: the source pages as they were downloaded, kept as proof of the licence at the time (with the sites’ own map keys blanked out).
-- The audio is attached to releases (AAC in `.m4a`: music at 128 kbps, effects mono at 96 kbps): the 17 first tracks and the effects to [v1](https://github.com/Joejibobo/audioscape-music/releases/tag/v1), the 143 tracks added in version 2 to [v2](https://github.com/Joejibobo/audioscape-music/releases/tag/v2). `catalog.json`'s `baseURL` is the v2 release and the v1 tracks carry absolute v1 URLs; `effects.json` points at v1.
+- The audio is attached to releases (AAC in `.m4a`: music at 128 kbps, effects mono at 96 kbps): the 17 first tracks and the effects to [v1](https://github.com/Joejibobo/audioscape-music/releases/tag/v1), the 143 tracks added in version 2 to [v2](https://github.com/Joejibobo/audioscape-music/releases/tag/v2), the 35 added in version 3 to [v3](https://github.com/Joejibobo/audioscape-music/releases/tag/v3). `catalog.json`'s `baseURL` is the v3 release and the v1 and v2 tracks carry absolute URLs to their own releases; `effects.json` points at v1.
 
 ## Licences in short
 
@@ -26,6 +26,12 @@ Free music and sound effects that [AudioScape](https://github.com/Joejibobo) pla
 Freesound originals need an account to download, so the Freesound items were made from the high-quality previews each page offers publicly. Files were trimmed of long silences, converted to AAC and, for effects, normalised to −3 dBFS; quiet music was raised once before encoding, and loud music carries a negative `gainDB` the player applies (target −18 LUFS).
 
 CC0 and public domain need no credit, but Musopen and neolein ask for one as a courtesy: thank you to them and to every artist listed in `LICENSES.md`.
+
+### Added in version 3
+
+- Wikimedia Commons: Grieg's Holberg Suite by the United States Marine Chamber Orchestra and Holst's Mercury and Uranus by the US Air Force Heritage of America Band (federal works), Norwegian Hardanger fiddle and Swedish nyckelharpa and fiddle recordings from Svenskt visarkiv (CC0), Lucas Gonze (CC0), The Rogue Bluegrass Band (released into the public domain by the band), and two recordings published before 1926, public domain in the US by age: Imdad Khan's sitar (1904) and Gilliland and Robertson's Arkansaw Traveler (1922).
+- Free Music Archive: CC0 tracks by John Bartmann (Western Skies, Underwater Wonders), HoliznaCC0, Ondrosik and TRG Banks.
+- Every new file was also run through Apple's sound classifier to keep out speech and singing. Not taken: synthesizer and MIDI renderings of medieval and other pieces, 1901–1903 field cylinders too noisy to play under narration, and a 1942 Scheherazade marked CC0 by an uploader who could not own it.
 
 ## Ambience
 
