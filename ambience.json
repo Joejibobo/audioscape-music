@@ -1,0 +1,576 @@
+{
+  "version": 1,
+  "baseURL": null,
+  "beds": [
+    {
+      "id": "thunderstorm-after-hot-summer-day-17-minutes-3",
+      "bed": "rain",
+      "title": "Thunderstorm with heavy rain",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/thunderstorm-after-hot-summer-day-17-minutes-3.m4a",
+        "sha256": "ec75ccdad78727b89b5b772b2c513eeeb8779238feeedeb3e047874dd16f11a4",
+        "bytes": 3882943
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://commons.wikimedia.org/wiki/File:Thunderstorm_after_hot_summer_day_17_minutes_03_of_04.ogg",
+        "author": "stephan",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-thunderstorm-after-hot-summer-day-17-minutes-3.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "rain-against-the-window",
+      "bed": "rain",
+      "title": "Rain against a window",
+      "duration": 74.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/rain-against-the-window.m4a",
+        "sha256": "298fd4ef039162ea64414cb9e629effcae316cbe3c82485926ab5d0c874917b9",
+        "bytes": 1206634
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://commons.wikimedia.org/wiki/File:Rain_against_the_window.ogg",
+        "author": "cori",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-rain-against-the-window.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "urban-street-on-a-rainy-afternoon",
+      "bed": "rain",
+      "title": "Rain on a quiet street",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/urban-street-on-a-rainy-afternoon.m4a",
+        "sha256": "8f1f8184bd7dd8329c810e6e799d632a4bfc2d4c81d537a49c75b3bd15894acb",
+        "bytes": 3882965
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Urban_Street_on_a_Rainy_Afternoon.flac",
+        "author": "Extemporalist",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-urban-street-on-a-rainy-afternoon.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "storm-in-quebec-on-august-10-2023",
+      "bed": "wind",
+      "title": "Storm wind",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/storm-in-quebec-on-august-10-2023.m4a",
+        "sha256": "49daaa5409833eb1577b93b1df134e39c4d319bcc0b12068f0dfd4da8b4d2dc7",
+        "bytes": 3883250
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Storm_in_Quebec_on_August_10,_2023.flac",
+        "author": "Wilfredor",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-storm-in-quebec-on-august-10-2023.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "twentynine-palms-california-windstorm-at-bas",
+      "bed": "wind",
+      "title": "Desert windstorm",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/twentynine-palms-california-windstorm-at-bas.m4a",
+        "sha256": "7c530bd0d18a1625576ec83313bd784caea1ad607d78fc4ad628aa72824967e4",
+        "bytes": 3883161
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_13596_15863",
+        "author": "Steven Rowell",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-twentynine-palms-california-windstorm-at-bas.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "abbotsbury-dorset-uk-strong-wind-in-trees",
+      "bed": "wind",
+      "title": "Strong wind in trees",
+      "duration": 194.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/abbotsbury-dorset-uk-strong-wind-in-trees.m4a",
+        "sha256": "9ed77576b774eef33ac4630f288911ae7f4d0c94714f890258db09cf885b18c8",
+        "bytes": 3147208
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_21474_24981",
+        "author": "radio aporee contributor",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-abbotsbury-dorset-uk-strong-wind-in-trees.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "kostrena-croatia-sea-waves-massive-sea-waves",
+      "bed": "sea",
+      "title": "Heavy sea waves",
+      "duration": 123.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/kostrena-croatia-sea-waves-massive-sea-waves.m4a",
+        "sha256": "eb48358eb95b489808fc00846ff085ebc5bfd0062aff679973210a48f3df2de3",
+        "bytes": 1999522
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_21454_24936",
+        "author": "radio aporee contributor",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-kostrena-croatia-sea-waves-massive-sea-waves.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "ocean-waves-on-a-tropical-beach",
+      "bed": "sea",
+      "title": "Waves on a beach",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/ocean-waves-on-a-tropical-beach.m4a",
+        "sha256": "45b052082836c52ef8651db300f005881764de95bfaa739a59e1d0bf0c600148",
+        "bytes": 3882852
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ocean_Waves_on_a_Tropical_Beach.ogg",
+        "author": "Jarrod stanley",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-ocean-waves-on-a-tropical-beach.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "silver-strand-coronado-ca-usa-glassy-winter",
+      "bed": "sea",
+      "title": "Calm surf",
+      "duration": 84.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/silver-strand-coronado-ca-usa-glassy-winter.m4a",
+        "sha256": "25579c4c1d26d5242768f0d44932f0a9109c7f25c4120f7a5aaf96233b3493df",
+        "bytes": 1368343
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_15707_18266",
+        "author": "Rolf Yngve",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-silver-strand-coronado-ca-usa-glassy-winter.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "royal-national-park-nsw-australia-campfire-b",
+      "bed": "fire",
+      "title": "Campfire",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/royal-national-park-nsw-australia-campfire-b.m4a",
+        "sha256": "c7255b66d277a326cd54c9657a23fe4f550ec20a5528adc721685c5fb4b7b2de",
+        "bytes": 3883264
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_40321_46050",
+        "author": "Jeremy Hegge",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-royal-national-park-nsw-australia-campfire-b.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "spadelsberg-72639-neuffen-deutschland-firepl",
+      "bed": "fire",
+      "title": "Fireplace",
+      "duration": 99.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/spadelsberg-72639-neuffen-deutschland-firepl.m4a",
+        "sha256": "967de7a704a4366a74c4e447e6ee8a7235d5ca3aaa99b45de2732a4cacb2726b",
+        "bytes": 1610945
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_51595_58873",
+        "author": "Hoerma",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-spadelsberg-72639-neuffen-deutschland-firepl.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "lithuania-stabulankiai-fireplace",
+      "bed": "fire",
+      "title": "Quiet fireplace",
+      "duration": 140.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/lithuania-stabulankiai-fireplace.m4a",
+        "sha256": "243d2ea656dd3bbc73f0d0b1d37580660a1b260aee49cebc54b7b1dbe5b2831d",
+        "bytes": 2273760
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_19997_23285",
+        "author": "alas23/sala",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-lithuania-stabulankiai-fireplace.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "cafe-ambiance",
+      "bed": "crowd",
+      "title": "Café murmur",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/cafe-ambiance.m4a",
+        "sha256": "118ea8340bec2cd4a38d019fa15d74f4c34458e355951e0a6398ee1c39a993ab",
+        "bytes": 3883459
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cafe_ambiance.ogg",
+        "author": "Marble Toast",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-cafe-ambiance.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "taipei-in-the-restaurant",
+      "bed": "crowd",
+      "title": "Busy restaurant",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/taipei-in-the-restaurant.m4a",
+        "sha256": "1d95da57f258aadfda21028b4c7ef54ed93f76a29562b17d8e7ecd0945c07ce3",
+        "bytes": 3883276
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_19284_22402",
+        "author": "Wu,Tsan-Cheng",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-taipei-in-the-restaurant.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "sunday-in-the-city-street-noise1",
+      "bed": "city",
+      "title": "Town street with gulls",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/sunday-in-the-city-street-noise1.m4a",
+        "sha256": "7cf2350b50fcef6684d7d4af70b5ceae189dcf014136e546c384d10df7bc6277",
+        "bytes": 3882929
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://commons.wikimedia.org/wiki/File:Sunday_in_the_city_street_noise1.ogg",
+        "author": "cori",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-sunday-in-the-city-street-noise1.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "sagetyrtle-citystreet3-cc0-freesound",
+      "bed": "city",
+      "title": "Busy city street",
+      "duration": 191.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/sagetyrtle-citystreet3-cc0-freesound.m4a",
+        "sha256": "901539f45a0b907445831494511eb1702fc02fc75123ced9f82f86d0abe65ea1",
+        "bytes": 3098740
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sagetyrtle_-_citystreet3_(cc0)_(freesound).mp3",
+        "author": "sagetyrtle",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-sagetyrtle-citystreet3-cc0-freesound.html",
+        "retrieved": "2026-11-26T18:50:15Z"
+      }
+    },
+    {
+      "id": "184809-qubodup-first-day-of-urban-spring-in",
+      "bed": "city",
+      "title": "City traffic and trams",
+      "duration": 104.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/184809-qubodup-first-day-of-urban-spring-in.m4a",
+        "sha256": "af5e29dc96a51c6905fabf313ec1ac0a1832c31979d8697d4ceac5e6ddd26927",
+        "bytes": 1692134
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:184809_qubodup_first-day-of-urban-spring-in-berlin-2013-04-14.flac",
+        "author": "qubodup",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-184809-qubodup-first-day-of-urban-spring-in.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "wharton-state-forst-nj-usa-bogs-of-friendshi",
+      "bed": "night",
+      "title": "Crickets and frogs by a bog",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/wharton-state-forst-nj-usa-bogs-of-friendshi.m4a",
+        "sha256": "d844b702f35a2d03e11cee13e553f6881962eaca8b33daa91ac9ca1c123dec1c",
+        "bytes": 3882835
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_27462_31648",
+        "author": "radio aporee contributor",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-wharton-state-forst-nj-usa-bogs-of-friendshi.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "grills-diferents-collserola",
+      "bed": "night",
+      "title": "Crickets in a pine wood",
+      "duration": 220.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/grills-diferents-collserola.m4a",
+        "sha256": "a56740da2f1697ee657fb30b9d761078f03e7c961b47b235b0fef0e0a0ccdea7",
+        "bytes": 3567856
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://archive.org/details/grills-diferents-collserola",
+        "author": "Albert Murillo",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-grills-diferents-collserola.ia.json",
+        "retrieved": "2026-11-26T19:22:51Z"
+      }
+    },
+    {
+      "id": "cicadas-northeast-indiana-usa-2011-08-18",
+      "bed": "night",
+      "title": "Summer evening insects",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/cicadas-northeast-indiana-usa-2011-08-18.m4a",
+        "sha256": "ec67f047a754e1526658ada4b5541406452384ae743d56271b244db41de01dae",
+        "bytes": 3882883
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://archive.org/details/Cicadas_Northeast_Indiana_USA_2011-08-18",
+        "author": "John Radawski",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-cicadas-northeast-indiana-usa-2011-08-18.ia.json",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "ambient-kitchen-sounds",
+      "bed": "interior",
+      "title": "Quiet kitchen",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/ambient-kitchen-sounds.m4a",
+        "sha256": "dc4e7fb764ec71abc9d0663fc2dc5d6d2b73b99a05a0a607cd3a30119c48c66d",
+        "bytes": 3882828
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ambient_Kitchen_Sounds.wav",
+        "author": "Wilfredor",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-ambient-kitchen-sounds.html",
+        "retrieved": "2026-11-26T19:40:03Z"
+      }
+    },
+    {
+      "id": "bad-orb-uhrmacher-wunderlich-three-o-clock",
+      "bed": "interior",
+      "title": "Clockmaker's shop",
+      "duration": 114.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/bad-orb-uhrmacher-wunderlich-three-o-clock.m4a",
+        "sha256": "5ab706c4a46b2624f5aeab051002637c25d144af96e77c8bf8e0c37035c72295",
+        "bytes": 1853514
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_34264_39391",
+        "author": "LIGNA",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-bad-orb-uhrmacher-wunderlich-three-o-clock.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "tick2",
+      "bed": "interior",
+      "title": "Small ticking clock",
+      "duration": 110.4,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/tick2.m4a",
+        "sha256": "56903d8270b2fb11276e9724a60909e97aaf4b129e6d7685ef2fd6316c9ba691",
+        "bytes": 1787615
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tick2.ogg",
+        "author": "Marble Toast",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-tick2.html",
+        "retrieved": "2026-11-26T19:40:03Z"
+      }
+    },
+    {
+      "id": "reveil-des-oiseaux",
+      "bed": "forest",
+      "title": "Morning birds",
+      "duration": 167.5,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/reveil-des-oiseaux.m4a",
+        "sha256": "6052977251bdc97f499691a0832d3bd40f339aa1b49c609df313acd4ce283e25",
+        "bytes": 2710888
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:R%C3%A9veil_des_oiseaux.ogg",
+        "author": "Joseph Sardin",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-reveil-des-oiseaux.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "sebenina-dawn-chorus",
+      "bed": "forest",
+      "title": "Dawn chorus in the woods",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/sebenina-dawn-chorus.m4a",
+        "sha256": "8615448137ee50972a52fa7129054a3f808644d7b6541da1deec901404fbcceb",
+        "bytes": 3883527
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://archive.org/details/sebenina_dawn_chorus",
+        "author": "Jonáš Gruska",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-sebenina-dawn-chorus.ia.json",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "dawnchorus-uk",
+      "bed": "forest",
+      "title": "English dawn chorus",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/dawnchorus-uk.m4a",
+        "sha256": "234d9be180f96fb64ce15228b353694d350d9a0ccda82d5eb29c4189bd6dceaf",
+        "bytes": 3882958
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://commons.wikimedia.org/wiki/File:Dawnchorus-uk.ogg",
+        "author": "Silas S. Brown",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-dawnchorus-uk.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "forest-lawn-creek",
+      "bed": "water",
+      "title": "Small creek",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/forest-lawn-creek.m4a",
+        "sha256": "bcef4a0c9495aab5c9e4348fbfd37f305763b66311c808cf060c519d71fc770d",
+        "bytes": 3882915
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://commons.wikimedia.org/wiki/File:Forest_lawn_creek.ogg",
+        "author": "Dsw4",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-forest-lawn-creek.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "james-river-rapids-2",
+      "bed": "water",
+      "title": "River rapids",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/james-river-rapids-2.m4a",
+        "sha256": "4c3e4b7b4d2ae4447835a7673eb94a6280a198ea04cdf80a458d8e114432190f",
+        "bytes": 3882878
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:James_River_Rapids_2.ogg",
+        "author": "Jarrod stanley",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-james-river-rapids-2.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "sanna-river-rapids",
+      "bed": "water",
+      "title": "Mountain river",
+      "duration": 240.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/sanna-river-rapids.m4a",
+        "sha256": "d1d736dd31d1114e6ff6e0d7581511382a32ae76d2a438cc4fe30c0852ee827c",
+        "bytes": 3882871
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sanna_river_rapids.ogg",
+        "author": "Jarrod stanley",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-sanna-river-rapids.html",
+        "retrieved": "2026-11-26T17:58:11Z"
+      }
+    },
+    {
+      "id": "navy-combat-demolition-unit-d-day-reenactmen",
+      "bed": "battle",
+      "title": "Distant beach battle (reenactment)",
+      "duration": 61.0,
+      "gainDB": 0,
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v1/navy-combat-demolition-unit-d-day-reenactmen.m4a",
+        "sha256": "8fd1080cae44441a7fb7545cf97cbd416838b4a5d3b8fe0351593ef8b90b69f9",
+        "bytes": 988379
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://commons.wikimedia.org/wiki/File:Navy_Combat_Demolition_Unit_D-Day_Reenactment_(687302).webm",
+        "author": "Petty Officer 2nd Class Eric Coffer",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-navy-combat-demolition-unit-d-day-reenactmen.html",
+        "retrieved": "2026-11-26T18:50:15Z"
+      }
+    }
+  ]
+}

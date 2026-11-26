@@ -26,3 +26,7 @@ Free music and sound effects that [AudioScape](https://github.com/Joejibobo) pla
 Freesound originals need an account to download, so the Freesound items were made from the high-quality previews each page offers publicly. Files were trimmed of long silences, converted to AAC and, for effects, normalised to −3 dBFS; quiet music was raised once before encoding, and loud music carries a negative `gainDB` the player applies (target −18 LUFS).
 
 CC0 and public domain need no credit, but Musopen and neolein ask for one as a courtesy: thank you to them and to every artist listed in `LICENSES.md`.
+
+## Ambience
+
+- `ambience.json`: field-recording beds (rain, wind, sea, fire, crowd, city, night, interior, forest, water, battle) that AudioScape loops under narration. Each entry has the bed, title, length, a level trim (`gainDB`), the file's address, size and SHA-256, and its licence and source. The audio (AAC 128 kbps, 44.1 kHz, about −28 LUFS, true peak ≤ −3 dBTP, each file a seamless loop) is in release [ambience-v1](https://github.com/Joejibobo/audioscape-music/releases/tag/ambience-v1); licences and saved source pages are listed in `LICENSES.md` under “Ambience”.
