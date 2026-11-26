@@ -343,6 +343,13 @@
           "reflective" : 1,
           "warm" : 0.6
         },
+        "scenes" : {
+          "contemplation" : 0.9,
+          "everyday" : 0.72,
+          "grief" : 0.23,
+          "loss" : 0.22,
+          "melancholy" : 0.22
+        },
         "sources" : {
           "user" : "2026-11-24T17:46:20Z"
         },
@@ -558,6 +565,12 @@
         "moods" : {
           "neutral" : 1,
           "warm" : 0.6
+        },
+        "scenes" : {
+          "city" : 0.21,
+          "everyday" : 0.9,
+          "journey" : 0.72,
+          "nature" : 0.24
         },
         "sources" : {
           "user" : "2026-11-24T17:46:20Z"
@@ -793,6 +806,13 @@
         "moods" : {
           "reflective" : 1
         },
+        "scenes" : {
+          "contemplation" : 0.9,
+          "everyday" : 0.72,
+          "grief" : 0.23,
+          "loss" : 0.22,
+          "melancholy" : 0.22
+        },
         "sources" : {
           "user" : "2026-11-24T17:46:24Z"
         },
@@ -952,6 +972,13 @@
         "moods" : {
           "neutral" : 0.6,
           "reflective" : 1
+        },
+        "scenes" : {
+          "contemplation" : 0.9,
+          "everyday" : 0.72,
+          "grief" : 0.24,
+          "loss" : 0.25,
+          "melancholy" : 0.25
         },
         "sources" : {
           "user" : "2026-11-24T17:46:24Z"
@@ -1158,6 +1185,13 @@
         "moods" : {
           "action" : 0.6,
           "tense" : 1
+        },
+        "scenes" : {
+          "battle" : 0.9,
+          "chase" : 0.72,
+          "danger" : 0.23,
+          "dread" : 0.17,
+          "storm" : 0.25
         },
         "sources" : {
           "user" : "2026-11-24T17:46:25Z"
@@ -1439,6 +1473,13 @@
         "moods" : {
           "neutral" : 0.6,
           "warm" : 1
+        },
+        "scenes" : {
+          "celebration" : 0.24,
+          "comedy" : 0.25,
+          "everyday" : 0.45,
+          "journey" : 0.36,
+          "nature" : 0.6
         },
         "sources" : {
           "user" : "2026-11-24T17:46:25Z"
@@ -1763,6 +1804,13 @@
           "action" : 0.6,
           "warm" : 1
         },
+        "scenes" : {
+          "battle" : 0.45,
+          "ceremony" : 0.6,
+          "chase" : 0.36,
+          "comedy" : 0.25,
+          "triumph" : 0.6
+        },
         "sources" : {
           "user" : "2026-11-24T17:46:25Z"
         },
@@ -2044,6 +2092,13 @@
           "neutral" : 0.6,
           "warm" : 1
         },
+        "scenes" : {
+          "celebration" : 0.25,
+          "comedy" : 0.25,
+          "everyday" : 0.6,
+          "feast" : 0.25,
+          "journey" : 0.36
+        },
         "sources" : {
           "user" : "2026-11-24T17:46:25Z"
         },
@@ -2202,6 +2257,13 @@
           "neutral" : 0.6,
           "reflective" : 1
         },
+        "scenes" : {
+          "contemplation" : 0.25,
+          "everyday" : 0.72,
+          "grief" : 0.21,
+          "loss" : 0.21,
+          "nature" : 0.9
+        },
         "sources" : {
           "user" : "2026-11-24T17:46:25Z"
         },
@@ -2356,6 +2418,13 @@
         "moods" : {
           "reflective" : 1,
           "warm" : 0.6
+        },
+        "scenes" : {
+          "contemplation" : 0.25,
+          "everyday" : 0.72,
+          "grief" : 0.21,
+          "loss" : 0.21,
+          "nature" : 0.9
         },
         "sources" : {
           "user" : "2026-11-24T17:46:25Z"
@@ -2521,6 +2590,12 @@
         "excluded" : false,
         "moods" : {
           "tense" : 1
+        },
+        "scenes" : {
+          "danger" : 0.23,
+          "dread" : 0.6,
+          "stealth" : 0.36,
+          "storm" : 0.22
         },
         "sources" : {
           "user" : "2026-11-24T17:46:25Z"
@@ -2715,6 +2790,12 @@
         "excluded" : false,
         "moods" : {
           "tense" : 1
+        },
+        "scenes" : {
+          "danger" : 0.22,
+          "dread" : 0.6,
+          "stealth" : 0.36,
+          "storm" : 0.21
         },
         "sources" : {
           "user" : "2026-11-24T17:46:26Z"
@@ -3033,6 +3114,13 @@
           "action" : 1,
           "warm" : 0.6
         },
+        "scenes" : {
+          "battle" : 0.9,
+          "chase" : 0.72,
+          "storm" : 0.2,
+          "triumph" : 0.18,
+          "wonder" : 0.54
+        },
         "sources" : {
           "user" : "2026-11-24T17:46:26Z"
         },
@@ -3179,6 +3267,13 @@
         "moods" : {
           "neutral" : 1,
           "reflective" : 0.6
+        },
+        "scenes" : {
+          "city" : 0.23,
+          "contemplation" : 0.72,
+          "everyday" : 0.9,
+          "journey" : 0.22,
+          "nature" : 0.24
         },
         "sources" : {
           "user" : "2026-11-24T17:46:26Z"
@@ -3345,6 +3440,13 @@
         "moods" : {
           "neutral" : 0.6,
           "reflective" : 1
+        },
+        "scenes" : {
+          "contemplation" : 0.24,
+          "grief" : 0.25,
+          "loss" : 0.25,
+          "melancholy" : 0.72,
+          "night" : 0.9
         },
         "sources" : {
           "user" : "2026-11-24T17:46:26Z"
@@ -3637,6 +3739,13 @@
           "neutral" : 1,
           "tense" : 0.6
         },
+        "scenes" : {
+          "danger" : 0.45,
+          "everyday" : 0.22,
+          "journey" : 0.6,
+          "mystery" : 0.36,
+          "nature" : 0.25
+        },
         "sources" : {
           "user" : "2026-11-24T17:46:26Z"
         },
@@ -3896,6 +4005,13 @@
         "moods" : {
           "action" : 1,
           "tense" : 0.6
+        },
+        "scenes" : {
+          "battle" : 0.2,
+          "chase" : 0.6,
+          "night" : 0.36,
+          "storm" : 0.15,
+          "triumph" : 0.17
         },
         "sources" : {
           "user" : "2026-11-24T17:46:27Z"
