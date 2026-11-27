@@ -1,0 +1,28 @@
+{
+ "avg_rating": 3.9285714285714284,
+ "channels": 2,
+ "created": "2023-02-09T11:03:06Z",
+ "description": "Recorded this nice clock ticking sound in a standard size room.",
+ "duration": 69.2387,
+ "geotag": null,
+ "id": 673790,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "ClockTicking1.mp3",
+ "num_downloads": 1088,
+ "num_ratings": 14,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/673/673790_13854978-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/673/673790_13854978-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/673/673790_13854978-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/673/673790_13854978-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Clock",
+  "indoor",
+  "room",
+  "ticking"
+ ],
+ "url": "https://freesound.org/people/RandomRecord19/sounds/673790/",
+ "username": "RandomRecord19"
+}

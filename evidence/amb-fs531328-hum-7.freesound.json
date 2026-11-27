@@ -1,0 +1,38 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2020-08-18T18:17:25Z",
+ "description": "Synthesized VHS hum sound. \n\nMade using real life references.",
+ "duration": 110.297,
+ "geotag": null,
+ "id": 531328,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "HUM (7).wav",
+ "num_downloads": 50,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/531/531328_9121616-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/531/531328_9121616-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/531/531328_9121616-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/531/531328_9121616-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "ambient",
+  "atmosphere",
+  "background",
+  "background-sound",
+  "crackle",
+  "general-noise",
+  "loop",
+  "noise",
+  "static",
+  "vhs",
+  "vhs-hum",
+  "white-noise"
+ ],
+ "url": "https://freesound.org/people/DefySolipsis/sounds/531328/",
+ "username": "DefySolipsis"
+}

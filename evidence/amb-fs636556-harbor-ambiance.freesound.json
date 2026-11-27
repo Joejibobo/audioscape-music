@@ -1,0 +1,29 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2022-06-03T14:14:26Z",
+ "description": "Harbor ambiance",
+ "duration": 99.1922,
+ "geotag": null,
+ "id": 636556,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "harbor-ambiance.WAV",
+ "num_downloads": 641,
+ "num_ratings": 7,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/636/636556_14042309-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/636/636556_14042309-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/636/636556_14042309-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/636/636556_14042309-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "field-recording",
+  "harbor",
+  "soundscape"
+ ],
+ "url": "https://freesound.org/people/L.Finck/sounds/636556/",
+ "username": "L.Finck"
+}

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "baseURL": null,
   "beds": [
     {
@@ -3971,6 +3971,131 @@
         "author": "jmayoff",
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs256269-space-ship-atmosphere.html",
         "retrieved": "2026-11-27T03:21:00Z"
+      }
+    },
+    {
+      "id": "fs673790-clockticking1",
+      "bed": "interior",
+      "title": "Ticking clock",
+      "duration": 62.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "domestic"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs673790-clockticking1.m4a",
+        "sha256": "21711f88113cc97ec8b75f7af9e83daf7aae067f6822dc23ae83d6c731cd3c51",
+        "bytes": 1012993
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/RandomRecord19/sounds/673790/",
+        "author": "RandomRecord19",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs673790-clockticking1.html",
+        "retrieved": "2026-11-27T06:49:34Z",
+        "attribution": "ClockTicking1.mp3 by RandomRecord19, freesound.org/s/673790, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs135193-wind-blowing-in-the-bush-on",
+      "bed": "wind",
+      "title": "Mountain wind",
+      "duration": 113.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "heavy",
+      "world": [
+        "wilderness",
+        "arctic"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs135193-wind-blowing-in-the-bush-on.m4a",
+        "sha256": "50c6b30b799f52ff1dc2820ca0e7857764f974ae1c6981e68e4adff4e95ccce4",
+        "bytes": 1838001
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/felix.blume/sounds/135193/",
+        "author": "felix.blume",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs135193-wind-blowing-in-the-bush-on.html",
+        "retrieved": "2026-11-27T03:21:00Z"
+      }
+    },
+    {
+      "id": "fs531328-hum-7",
+      "bed": "space",
+      "title": "Starship hum 4",
+      "duration": 103.5,
+      "gainDB": 0,
+      "era": "modern",
+      "intensity": "medium",
+      "world": [
+        "scifi"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs531328-hum-7.m4a",
+        "sha256": "1c197675a12f3b9d10e953880cd0e3e2e275a78787a9c2809485a811f35e52d5",
+        "bytes": 1675518
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/DefySolipsis/sounds/531328/",
+        "author": "DefySolipsis",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs531328-hum-7.html",
+        "retrieved": "2026-11-27T04:33:20Z"
+      }
+    },
+    {
+      "id": "fs868862-walking-through-cayenne-mark",
+      "bed": "crowd",
+      "title": "Market crowd 3",
+      "duration": 220.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "ancient",
+        "urban"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs868862-walking-through-cayenne-mark.m4a",
+        "sha256": "98f742c6ee547f4f5a35ce9841aa1db13e992ac9217f2af85fc2700eb20e368c",
+        "bytes": 3568468
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/felix.blume/sounds/868862/",
+        "author": "felix.blume",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs868862-walking-through-cayenne-mark.html",
+        "retrieved": "2026-11-27T07:16:55Z"
+      }
+    },
+    {
+      "id": "fs636556-harbor-ambiance",
+      "bed": "sea",
+      "title": "Harbour 3",
+      "duration": 92.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs636556-harbor-ambiance.m4a",
+        "sha256": "46b3ef2bc9a70e1b1ed44a2c8df121fa317d2d3a53e8c7ba2a637775b71f244d",
+        "bytes": 1497543
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/L.Finck/sounds/636556/",
+        "author": "L.Finck",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs636556-harbor-ambiance.html",
+        "retrieved": "2026-11-27T07:16:55Z"
       }
     }
   ]
