@@ -1,0 +1,31 @@
+{
+ "id": 248104,
+ "url": "https://freesound.org/people/CRAFTCREST.com/sounds/248104/",
+ "name": "waterfall in the forest front",
+ "tags": [
+  "field-recording",
+  "forest",
+  "nature",
+  "river",
+  "stream",
+  "water",
+  "waterfall"
+ ],
+ "description": "waterfall in the forest",
+ "geotag": null,
+ "created": "2014-09-11T16:52:48Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 306.609,
+ "samplerate": 44100.0,
+ "username": "CRAFTCREST.com",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/248/248104_3832471-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/248/248104_3832471-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/248/248104_3832471-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/248/248104_3832471-lq.ogg"
+ },
+ "num_downloads": 3280,
+ "avg_rating": 3.5217391304347827,
+ "num_ratings": 23
+}

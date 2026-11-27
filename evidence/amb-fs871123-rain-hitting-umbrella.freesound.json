@@ -1,0 +1,42 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2026-09-18T12:40:39Z",
+ "description": "Set up my Zoom H4E under an umbrella to capture the sounds of light rain hitting the top.",
+ "duration": 144.576,
+ "geotag": null,
+ "id": 871123,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Rain_Hitting_Umbrella",
+ "num_downloads": 65,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/871/871123_19205925-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/871/871123_19205925-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/871/871123_19205925-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/871/871123_19205925-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "drops",
+  "environmental",
+  "field",
+  "heavy",
+  "hitting",
+  "light",
+  "outdoor",
+  "rain",
+  "raindrops",
+  "rainfall",
+  "recording",
+  "recordings",
+  "sound",
+  "storm",
+  "umbrella",
+  "weather",
+  "wet"
+ ],
+ "url": "https://freesound.org/people/SignatureSoundsOrg/sounds/871123/",
+ "username": "SignatureSoundsOrg"
+}

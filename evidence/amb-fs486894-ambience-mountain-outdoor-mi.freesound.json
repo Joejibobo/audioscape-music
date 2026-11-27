@@ -1,0 +1,30 @@
+{
+ "avg_rating": 3.466666666666667,
+ "channels": 2,
+ "created": "2019-10-02T13:39:25Z",
+ "description": "Mountain Ambience Recording at Mirador Torre Baro, August 2019. Using a Zoom H-1 Recorder.",
+ "duration": 171.513,
+ "geotag": "41.451669 2.178576",
+ "id": 486894,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Ambience Mountain Outdoor Mirador Torrebaro",
+ "num_downloads": 1727,
+ "num_ratings": 15,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/486/486894_9872712-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/486/486894_9872712-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/486/486894_9872712-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/486/486894_9872712-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Ambience",
+  "Birds",
+  "Crickets",
+  "MiradorTorreBaro",
+  "Mountain",
+  "Wind"
+ ],
+ "url": "https://freesound.org/people/bitlab_coop/sounds/486894/",
+ "username": "bitlab_coop"
+}

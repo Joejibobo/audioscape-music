@@ -1,0 +1,43 @@
+{
+ "avg_rating": 4.5,
+ "channels": 2,
+ "created": "2026-05-07T12:02:54Z",
+ "description": "A fireplace, recorded with the microphone atthe door opening.\nFire was mostly behind the log away from the mic so I could record up close ish with the heat going \"away\".\n\nRecorded on Zoom H2n XY indoors (H2n's gain was set at 7).\nDay time, you might hear some birds or the cat going though the catdoor (at 2min01).\nRecorded 96khz 24bit. Exporting 32bit to go over 0 db to present the sound with a artificial limiter, but keeping the full quality. About 26DB was added from the original recording. \n\n2026 05 07 \n\nAttribution is greatly appreciated but not required. Recommendation : X sound by Sadiquecat on <a href=\"http://Freesound.org\" rel=\"nofollow\">Freesound.org</a> in CC0 licence.\nHope you enjoy :)\n\nPS: Id love to hear how you use this sound, feel free to link your creations or share how/why you listen to this :)",
+ "duration": 239.617,
+ "geotag": null,
+ "id": 853081,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Open-door Fireplace - XY at door level",
+ "num_downloads": 159,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/853/853081_5287430-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/853/853081_5287430-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/853/853081_5287430-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/853/853081_5287430-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "Crackling",
+  "Fire",
+  "H2n",
+  "Wood",
+  "XY",
+  "Zoom-H2n",
+  "burn",
+  "burning",
+  "chimney",
+  "combustion",
+  "crackle",
+  "crackling",
+  "fire",
+  "fire-place",
+  "fireplace",
+  "flame",
+  "flames",
+  "sizzling",
+  "wood-stove"
+ ],
+ "url": "https://freesound.org/people/Sadiquecat/sounds/853081/",
+ "username": "Sadiquecat"
+}

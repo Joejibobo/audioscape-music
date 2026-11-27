@@ -1,0 +1,32 @@
+{
+ "avg_rating": 3.7777777777777777,
+ "channels": 2,
+ "created": "2010-02-14T13:42:53Z",
+ "description": "Waterfall stereo field recording I made in Dec 2009, Boykin Springs Park, off Hwy 63 in East Texas.  Used 2 Shure condenser mics (ORTF - 17cm between top center of mics/110 degree angle), a digital recorder, and a couple of foam and fur covers on mics.  Tried to capture sound of 5 waterfalls at about 100 yards away (at about 3/4 angle to the falls) atop a small outcropping of stone which crowned a small hill near the falls.  Walked around listening for a good spot.  Not the best recording for something relaxing - needed to have picked a time when there hadn't been so much rainfall in the days previous - Will try again soon when the overly rainy winter season ends here in East Texas.  For improvement, needs much gentler waterfall sound coupled with lower mid-frequencies in the ambient splashes to provide better stereo effect.  Original recorded at 24-bit with 96-KHz sample rate.  Post processing in Wavelab.  Adjusted stereo width about 40 degrees wider than original.  All frequencies from 100 Hz and lower were set to mono (because the ear can't differentiate the direction of sounds under 100-120 Hz roughly).  Sample was taken from longer recording made between 4 and 6:30 pm.",
+ "duration": 89.0193,
+ "geotag": "31.0588070441 -94.2758381367",
+ "id": 90298,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Waterfall-Sample-Remast-1644.wav",
+ "num_downloads": 541,
+ "num_ratings": 9,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/90/90298_1469809-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/90/90298_1469809-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/90/90298_1469809-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/90/90298_1469809-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambient",
+  "boykin-springs",
+  "east-texas",
+  "field-recording",
+  "nature",
+  "texas",
+  "water",
+  "waterfall"
+ ],
+ "url": "https://freesound.org/people/naturenutt/sounds/90298/",
+ "username": "naturenutt"
+}

@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "baseURL": null,
   "beds": [
     {
@@ -18187,6 +18187,524 @@
         "author": "addiofbaddi",
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs241698-foodmarket-barcelona-ambienc.html",
         "retrieved": "2026-11-27T14:45:43Z"
+      }
+    },
+    {
+      "id": "fs871123-rain-hitting-umbrella",
+      "bed": "rain",
+      "title": "Light rain 23",
+      "duration": 137.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "rural",
+        "wilderness",
+        "domestic"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs871123-rain-hitting-umbrella.m4a",
+        "sha256": "bccdc83d4b015375f2be1607c223090e5af1b47947bbfb7a0ed3c3052470f501",
+        "bytes": 2225863
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/SignatureSoundsOrg/sounds/871123/",
+        "author": "SignatureSoundsOrg",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs871123-rain-hitting-umbrella.html",
+        "retrieved": "2026-11-27T14:45:43Z"
+      }
+    },
+    {
+      "id": "fs696691-campfire-at-the-valaam-beach",
+      "bed": "fire",
+      "title": "Campfire 12",
+      "duration": 166.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "wilderness",
+        "fantasy",
+        "military"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs696691-campfire-at-the-valaam-beach.m4a",
+        "sha256": "13541f615a99302a35721ac7d65a3acb296d99c1cae7f7704d765d5a98671850",
+        "bytes": 2694350
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/EliasArtista/sounds/696691/",
+        "author": "EliasArtista",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs696691-campfire-at-the-valaam-beach.html",
+        "retrieved": "2026-11-27T09:46:09Z",
+        "attribution": "Campfire at the Valaam beachside.wav by EliasArtista, freesound.org/s/696691, CC BY 4.0"
+      }
+    },
+    {
+      "id": "rolley-lake-trail-mission-bc-v4s-1c6-canada",
+      "bed": "fire",
+      "title": "Campfire 15",
+      "duration": 138.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "wilderness",
+        "fantasy",
+        "military"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/rolley-lake-trail-mission-bc-v4s-1c6-canada.m4a",
+        "sha256": "cb04e4f7b69ed87fd2b99bf4c644b599cb469ab85b9200d48b0650e6296fca00",
+        "bytes": 2241460
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_51228_58465",
+        "author": "speltier",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-rolley-lake-trail-mission-bc-v4s-1c6-canada.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "fs853081-open-door-fireplace-xy-at-do",
+      "bed": "fire",
+      "title": "Torch flame 15",
+      "duration": 232.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "fantasy",
+        "medieval",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs853081-open-door-fireplace-xy-at-do.m4a",
+        "sha256": "e51dddb644db6ec6a2eb9b0eb299d06f20c6937126cdd7139f6474419307ac07",
+        "bytes": 3761563
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/Sadiquecat/sounds/853081/",
+        "author": "Sadiquecat",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs853081-open-door-fireplace-xy-at-do.html",
+        "retrieved": "2026-11-27T09:46:09Z"
+      }
+    },
+    {
+      "id": "fs241687-foodmarket-barcelona-ambienc",
+      "bed": "crowd",
+      "title": "Market crowd 19",
+      "duration": 119.4,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "ancient",
+        "urban"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs241687-foodmarket-barcelona-ambienc.m4a",
+        "sha256": "4570bd40fdc2cc0d5abb467d8b0db3463f3bf7ee3f85196b9a61d33e7222c8a3",
+        "bytes": 1932057
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/addiofbaddi/sounds/241687/",
+        "author": "addiofbaddi",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs241687-foodmarket-barcelona-ambienc.html",
+        "retrieved": "2026-11-27T17:47:58Z"
+      }
+    },
+    {
+      "id": "fs465659-ls-34269-hk-street",
+      "bed": "city",
+      "title": "City street 14",
+      "duration": 216.5,
+      "gainDB": 0,
+      "era": "modern",
+      "intensity": "medium",
+      "world": [
+        "urban"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs465659-ls-34269-hk-street.m4a",
+        "sha256": "a554faf63dd2faa7c3feb2b8e20d5c26b6f589395310f6236fbad1220cd98e30",
+        "bytes": 3502973
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/kevp888/sounds/465659/",
+        "author": "kevp888",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs465659-ls-34269-hk-street.html",
+        "retrieved": "2026-11-27T14:45:43Z",
+        "attribution": "LS_34269_HK_Street.wav by kevp888, freesound.org/s/465659, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs868973-waves-distant-and-frogs-from",
+      "bed": "forest",
+      "title": "Jungle 20",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "tropical",
+        "wilderness"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs868973-waves-distant-and-frogs-from.m4a",
+        "sha256": "a52f04ab0125000df3fc5a7fe79d0fffc91603e7d2f092928c263523994e5204",
+        "bytes": 3883298
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/felix.blume/sounds/868973/",
+        "author": "felix.blume",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs868973-waves-distant-and-frogs-from.html",
+        "retrieved": "2026-11-27T17:47:58Z"
+      }
+    },
+    {
+      "id": "fs735768-winter-fens-nl-1026-230214-0",
+      "bed": "forest",
+      "title": "Swamp 13",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "wilderness",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs735768-winter-fens-nl-1026-230214-0.m4a",
+        "sha256": "fa09ddcd7297e4750cb9e1a62b56203ceb611ec7bcc53faae2b5233f4d84f87f",
+        "bytes": 3883441
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/735768/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs735768-winter-fens-nl-1026-230214-0.html",
+        "retrieved": "2026-11-27T17:47:58Z",
+        "attribution": "Winter fens NL 1026 230214_0559 by klankbeeld, freesound.org/s/735768, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs690995-winter-fens-nl-1052am-kampin",
+      "bed": "forest",
+      "title": "Swamp 15",
+      "duration": 70.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "wilderness",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs690995-winter-fens-nl-1052am-kampin.m4a",
+        "sha256": "648a415595e412a6180edc759e25e00231c6afb331db9960741d13b684090fa1",
+        "bytes": 1142305
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/690995/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs690995-winter-fens-nl-1052am-kampin.html",
+        "retrieved": "2026-11-27T17:47:58Z",
+        "attribution": "Winter fens NL 1052AM Kampina Kogelvangersven 230214_0559 by klankbeeld, freesound.org/s/690995, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs248104-waterfall-in-the-forest-fron",
+      "bed": "water",
+      "title": "Waterfall 17",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "heavy",
+      "world": [
+        "wilderness",
+        "tropical",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs248104-waterfall-in-the-forest-fron.m4a",
+        "sha256": "50e7c244504c5c30c714b959a93e7938f4c9391b797237bcc14a415e545e3bff",
+        "bytes": 3882828
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/CRAFTCREST.com/sounds/248104/",
+        "author": "CRAFTCREST.com",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs248104-waterfall-in-the-forest-fron.html",
+        "retrieved": "2026-11-27T14:45:43Z",
+        "attribution": "waterfall in the forest front by CRAFTCREST.com, freesound.org/s/248104, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs90298-waterfall-sample-remast-1644",
+      "bed": "water",
+      "title": "Waterfall 24",
+      "duration": 82.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "heavy",
+      "world": [
+        "wilderness",
+        "tropical",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs90298-waterfall-sample-remast-1644.m4a",
+        "sha256": "e76671d89c4e220a40982deb5e14861d4c2a2a9997babe4fd38cdc5368aebd21",
+        "bytes": 1335709
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/naturenutt/sounds/90298/",
+        "author": "naturenutt",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs90298-waterfall-sample-remast-1644.html",
+        "retrieved": "2026-11-27T17:47:58Z",
+        "attribution": "Waterfall-Sample-Remast-1644.wav by naturenutt, freesound.org/s/90298, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs564196-waterfall-cascade-sounds",
+      "bed": "water",
+      "title": "Waterfall 25",
+      "duration": 63.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "heavy",
+      "world": [
+        "wilderness",
+        "tropical",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs564196-waterfall-cascade-sounds.m4a",
+        "sha256": "b3142dc211a7007e951dba4d9cf308023cdfb6affcd66a1016798f66d82ac130",
+        "bytes": 1028484
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/klau78/sounds/564196/",
+        "author": "klau78",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs564196-waterfall-cascade-sounds.html",
+        "retrieved": "2026-11-27T17:47:58Z"
+      }
+    },
+    {
+      "id": "fs721534-storm-wind-in-trees-1722-160",
+      "bed": "wind",
+      "title": "Wind through trees 6",
+      "duration": 143.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "wilderness",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs721534-storm-wind-in-trees-1722-160.m4a",
+        "sha256": "c47d5324efafbebd8c69a4f97a5a2a3ec63dca1621234eae6cd4572fab18b425",
+        "bytes": 2322542
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/721534/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs721534-storm-wind-in-trees-1722-160.html",
+        "retrieved": "2026-11-27T09:46:09Z",
+        "attribution": "storm wind in trees 1722 160221_0857 by klankbeeld, freesound.org/s/721534, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs486894-ambience-mountain-outdoor-mi",
+      "bed": "wind",
+      "title": "Mountain wind 15",
+      "duration": 164.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "heavy",
+      "world": [
+        "wilderness",
+        "arctic"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs486894-ambience-mountain-outdoor-mi.m4a",
+        "sha256": "ae2db136b18bd1865845f8bfb894a8558628b9518aba955e2ef9bc78e870d0b6",
+        "bytes": 2662560
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/bitlab_coop/sounds/486894/",
+        "author": "bitlab_coop",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs486894-ambience-mountain-outdoor-mi.html",
+        "retrieved": "2026-11-27T08:09:22Z"
+      }
+    },
+    {
+      "id": "fs180235-kalgoorlie-wind-4",
+      "bed": "wind",
+      "title": "Desert wind 9",
+      "duration": 72.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "desert"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs180235-kalgoorlie-wind-4.m4a",
+        "sha256": "7cba2d89247182767aeaa1980fa3ef2461551e535380c22008952e959a5d3286",
+        "bytes": 1174630
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/kangaroovindaloo/sounds/180235/",
+        "author": "kangaroovindaloo",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs180235-kalgoorlie-wind-4.html",
+        "retrieved": "2026-11-27T14:45:43Z",
+        "attribution": "Kalgoorlie Wind #4 by kangaroovindaloo, freesound.org/s/180235, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs721675-all-saints-church-london-feb",
+      "bed": "temple",
+      "title": "Temple 18",
+      "duration": 62.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "sacred",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs721675-all-saints-church-london-feb.m4a",
+        "sha256": "418c1768f482efcd1e82d3d6aab1b095edb829a2d58a44788311b44dae2483a5",
+        "bytes": 1013003
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/ilmari_freesound/sounds/721675/",
+        "author": "ilmari_freesound",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs721675-all-saints-church-london-feb.html",
+        "retrieved": "2026-11-27T17:47:58Z"
+      }
+    },
+    {
+      "id": "fs441455-ls-33885-ph-birdsinchurch",
+      "bed": "temple",
+      "title": "Temple 24",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "sacred",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs441455-ls-33885-ph-birdsinchurch.m4a",
+        "sha256": "886a9c6fa55e43f7725f5b4192a0712495b1a01cacc8898458d7b75a8a7e4d22",
+        "bytes": 3883004
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/kevp888/sounds/441455/",
+        "author": "kevp888",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs441455-ls-33885-ph-birdsinchurch.html",
+        "retrieved": "2026-11-27T17:47:58Z",
+        "attribution": "LS_33885_PH_BirdsInChurch.wav by kevp888, freesound.org/s/441455, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs825745-250704-170918-fr-notre-dame",
+      "bed": "temple",
+      "title": "Temple 26",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "sacred",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs825745-250704-170918-fr-notre-dame.m4a",
+        "sha256": "8fa71db550fad3f90e277777d01beba96db24c5a3f924905f67d2c16c90cccb5",
+        "bytes": 3882852
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/kevp888/sounds/825745/",
+        "author": "kevp888",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs825745-250704-170918-fr-notre-dame.html",
+        "retrieved": "2026-11-27T17:47:58Z",
+        "attribution": "250704_170918_FR_Notre_Dame_de_Paris by kevp888, freesound.org/s/825745, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs675056-s12-01-crowd-reactions-oohs",
+      "bed": "crowd",
+      "title": "Crowd cheering 15",
+      "duration": 73.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "heavy",
+      "world": [
+        "medieval",
+        "ancient",
+        "military"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs675056-s12-01-crowd-reactions-oohs.m4a",
+        "sha256": "f04f7dc72493466087d6efe54a3dcc98b439b70ed6d342bf227e560b26163f1a",
+        "bytes": 1190509
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/craigsmith/sounds/675056/",
+        "author": "craigsmith",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs675056-s12-01-crowd-reactions-oohs.html",
+        "retrieved": "2026-11-27T17:47:58Z"
+      }
+    },
+    {
+      "id": "fs867938-montana-summer-evening-light",
+      "bed": "crowd",
+      "title": "Crowd cheering 17",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "heavy",
+      "world": [
+        "medieval",
+        "ancient",
+        "military"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs867938-montana-summer-evening-light.m4a",
+        "sha256": "ef6a2d98d71503a638211567b5fa549e8cd6cfbb4b58c15eea7896396b96711f",
+        "bytes": 3882828
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/i_o_i/sounds/867938/",
+        "author": "i_o_i",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs867938-montana-summer-evening-light.html",
+        "retrieved": "2026-11-27T11:18:59Z"
       }
     }
   ]

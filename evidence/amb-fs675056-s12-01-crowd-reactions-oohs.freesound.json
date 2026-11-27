@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.888888888888889,
+ "channels": 1,
+ "created": "2023-02-15T18:22:35Z",
+ "description": "Crowd reactions; oohs; ahh; cheering; laughing; moderate emotion; exterior",
+ "duration": 115.07,
+ "geotag": null,
+ "id": 675056,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "S12-01 Crowd reactions; oohs; ahh; cheering; laughing; moderate emotion; exterior.wav",
+ "num_downloads": 310,
+ "num_ratings": 9,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/675/675056_2524442-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/675/675056_2524442-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/675/675056_2524442-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/675/675056_2524442-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "35mm-Mag",
+  "CROWDS",
+  "Optical",
+  "REACTION",
+  "Vintage"
+ ],
+ "url": "https://freesound.org/people/craigsmith/sounds/675056/",
+ "username": "craigsmith"
+}

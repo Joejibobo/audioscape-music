@@ -1,0 +1,32 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2018-09-27T19:27:17Z",
+ "description": "Birds in a church of Sikijor island, Philippines. (Binaural)\nI recorded this binaural audio file in a church in Sikijor island (Philippines), while birds were flying and screaming from left to right and from right to left over my head .  \nIn the background, you can hear sounds from outside.\nRecorded in January 2018, with an Olympus LS-3 and an Ohrwurm 3D binaural microphone. \nFade in/out and high pass filter 60Hz -6dB/oct applied in Audacity.",
+ "duration": 476.546,
+ "geotag": null,
+ "id": 441455,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "LS_33885_PH_BirdsInChurch.wav",
+ "num_downloads": 89,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/441/441455_9034501-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/441/441455_9034501-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/441/441455_9034501-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/441/441455_9034501-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Philippines",
+  "Sikijor",
+  "ambience",
+  "binaural",
+  "birds",
+  "church",
+  "field-recording",
+  "soundscape"
+ ],
+ "url": "https://freesound.org/people/kevp888/sounds/441455/",
+ "username": "kevp888"
+}

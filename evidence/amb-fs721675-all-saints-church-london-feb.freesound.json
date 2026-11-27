@@ -1,0 +1,29 @@
+{
+ "avg_rating": 3.8333333333333335,
+ "channels": 2,
+ "created": "2024-02-04T18:47:34Z",
+ "description": "Sunday mid-day ambience at All Saints Church (Anglican), London. Equipment: Zoom F3 + Soundman OKM II.",
+ "duration": 300.0,
+ "geotag": "51.51745165430798 -0.13886839158735423",
+ "id": 721675,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "All Saints Church, London, February 4th 2024",
+ "num_downloads": 109,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/721/721675_12458758-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/721/721675_12458758-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/721/721675_12458758-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/721/721675_12458758-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "binaural",
+  "church",
+  "religion",
+  "space"
+ ],
+ "url": "https://freesound.org/people/ilmari_freesound/sounds/721675/",
+ "username": "ilmari_freesound"
+}
