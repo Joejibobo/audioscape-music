@@ -1,0 +1,28 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2018-12-09T00:34:42Z",
+ "description": "crickets residential night suburbs9.flac",
+ "duration": 161.649,
+ "geotag": null,
+ "id": 451569,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "crickets residential night suburbs9.flac",
+ "num_downloads": 52,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/451/451569_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/451/451569_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/451/451569_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/451/451569_612689-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "crickets",
+  "night",
+  "residential",
+  "suburbs"
+ ],
+ "url": "https://freesound.org/people/kyles/sounds/451569/",
+ "username": "kyles"
+}

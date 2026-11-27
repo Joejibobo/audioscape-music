@@ -1,0 +1,35 @@
+{
+ "avg_rating": 3.6,
+ "channels": 2,
+ "created": "2021-07-22T10:15:52Z",
+ "description": "Roomtone with ticking clocks. Russia. Free for commercial use.",
+ "duration": 114.905,
+ "geotag": "56.8627404949 41.4099492985",
+ "id": 580946,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "S_Amb_RoomtoneWallClockTickingOpenWindow_Mono_01.wav",
+ "num_downloads": 377,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/580/580946_12600596-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/580/580946_12600596-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/580/580946_12600596-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/580/580946_12600596-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Ambience",
+  "Birds",
+  "Clock",
+  "Flies",
+  "OpenWindow",
+  "Room",
+  "Roomtone",
+  "Street",
+  "Ticking",
+  "Wallclock",
+  "Window"
+ ],
+ "url": "https://freesound.org/people/yake01/sounds/580946/",
+ "username": "yake01"
+}

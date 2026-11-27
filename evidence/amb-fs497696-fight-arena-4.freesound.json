@@ -1,0 +1,38 @@
+{
+ "avg_rating": 4.5,
+ "channels": 1,
+ "created": "2019-12-17T02:12:54Z",
+ "description": "Crowd noise at a MMA fight. Yelling and English cheering sounds. Part 4 of 5.\n\nRecorded: December 2019, with Android Smart Recorder (mono), inside/evening in a large arena. Raw not processed or edited.",
+ "duration": 90.8,
+ "geotag": null,
+ "id": 497696,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Fight Arena 4",
+ "num_downloads": 986,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/497/497696_4465058-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/497/497696_4465058-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/497/497696_4465058-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/497/497696_4465058-lq.ogg"
+ },
+ "samplerate": 22050.0,
+ "tags": [
+  "arena",
+  "boxing",
+  "cheering",
+  "clapping",
+  "crowd",
+  "english",
+  "event",
+  "field-recording",
+  "fight",
+  "fighting",
+  "live",
+  "shouting",
+  "wrestling",
+  "yelling"
+ ],
+ "url": "https://freesound.org/people/SyntaxSeed/sounds/497696/",
+ "username": "SyntaxSeed"
+}

@@ -1,0 +1,29 @@
+{
+ "avg_rating": 3.3333333333333335,
+ "channels": 2,
+ "created": "2016-12-16T12:22:18Z",
+ "description": "A recording of my grandfather's old pendulum wall clock, made in about 1926. The mechanism is worn and ticks unevenly, with occasional clunks from damaged cogwheel teeth. Recorded from inside the case, it is entirely unedited so contains slight ambient noise.",
+ "duration": 67.9325,
+ "geotag": "51.53665285153227 0.0507044792175293",
+ "id": 371070,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Grandads Wall Clock c1926.mp3",
+ "num_downloads": 317,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/371/371070_6899861-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/371/371070_6899861-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/371/371070_6899861-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/371/371070_6899861-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Old-clock",
+  "Pendulum-clock",
+  "Wall-clock",
+  "uneven-tick",
+  "worn-clock"
+ ],
+ "url": "https://freesound.org/people/PAL6/sounds/371070/",
+ "username": "PAL6"
+}

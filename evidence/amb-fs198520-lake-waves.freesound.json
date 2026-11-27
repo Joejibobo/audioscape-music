@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.9,
+ "channels": 1,
+ "created": "2013-09-04T16:10:40Z",
+ "description": "Waves at the Ohrid lake. They were recorded from the balcony of my apartment at the 8 in the morning, from the distance of about 10-15 meters. Some seagulls can be heard at the very end of the recording.\r\n\r\nEquipment used: Sennheiser MKH 416, Tascam DR-680",
+ "duration": 334.344,
+ "geotag": null,
+ "id": 198520,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "lake waves.wav",
+ "num_downloads": 573,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/198/198520_753129-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/198/198520_753129-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/198/198520_753129-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/198/198520_753129-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "416",
+  "DR-680",
+  "lake",
+  "mkh",
+  "morning",
+  "sea",
+  "seagulls",
+  "sennheiser",
+  "tascam",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/jazbavac/sounds/198520/",
+ "username": "jazbavac"
+}

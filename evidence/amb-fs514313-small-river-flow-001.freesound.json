@@ -1,0 +1,36 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2020-04-21T09:40:04Z",
+ "description": "Sound of a small river flow, field recording - April 15th 2020, Occitania, South Of France",
+ "duration": 92.8566,
+ "geotag": null,
+ "id": 514313,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "Small river flow 001",
+ "num_downloads": 161,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/514/514313_10738695-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/514/514313_10738695-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/514/514313_10738695-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/514/514313_10738695-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "babbling",
+  "field-recording",
+  "flow",
+  "flowing",
+  "france",
+  "gurgle",
+  "liquid",
+  "river",
+  "small-river",
+  "southoffrance",
+  "stream",
+  "water"
+ ],
+ "url": "https://freesound.org/people/14anger/sounds/514313/",
+ "username": "14anger"
+}

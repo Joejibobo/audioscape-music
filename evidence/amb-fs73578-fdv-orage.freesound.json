@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.166666666666667,
+ "channels": 2,
+ "created": "2009-06-09T08:49:31Z",
+ "description": "A storm with thunders. First thunder comes from a long way, second one is close.\nRecorded in 06 June 2009, 3AM of the morning at  Chambéry ( Savoy - France )  ",
+ "duration": 119.682,
+ "geotag": null,
+ "id": 73578,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "fdv_orage.wav",
+ "num_downloads": 281,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/73/73578_968747-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/73/73578_968747-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/73/73578_968747-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/73/73578_968747-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "rain",
+  "storm",
+  "thunder",
+  "thunderstorm",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/FaireDesVagues/sounds/73578/",
+ "username": "FaireDesVagues"
+}

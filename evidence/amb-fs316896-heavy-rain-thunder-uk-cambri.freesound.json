@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.615384615384615,
+ "channels": 2,
+ "created": "2015-07-20T11:15:07Z",
+ "description": "Recording of really heavy rain with distant thunder.\r\nEquipment used: Zoom H4 recorder, internal mics\r\nLocation: Cambridge, UK\r\nDate: 16/07/15 ",
+ "duration": 104.681,
+ "geotag": null,
+ "id": 316896,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "Heavy_Rain_Thunder_UK_Cambridge.wav",
+ "num_downloads": 744,
+ "num_ratings": 13,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/316/316896_1363668-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/316/316896_1363668-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/316/316896_1363668-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/316/316896_1363668-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Heavy-rain",
+  "distant-thunder",
+  "rain",
+  "raining",
+  "shower",
+  "storm",
+  "thunder",
+  "thunder-storm",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/alexkandrell/sounds/316896/",
+ "username": "alexkandrell"
+}

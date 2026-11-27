@@ -1,0 +1,39 @@
+{
+ "avg_rating": 4.75,
+ "channels": 2,
+ "created": "2014-07-23T10:15:34Z",
+ "description": "Kova tuuli ulvoo ja vinkuu, lumi vihmoo ja rapisee. Kooste.\r\n\r\nÄänitetty / Rec: Kooste arkiston analogisilta nauhoilta / Mix based on archive's analogical tape material\r\n\r\nPaikka/Place: Yle Finland, Tehostearkisto / Soundfx-archive\r\nAika/Date: 1977",
+ "duration": 138.826,
+ "geotag": null,
+ "id": 243348,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Lumimyrsky, lumi pöllyää, kahisee tuulessa / Snowstorm, snow drifting in a whistling wind, mix",
+ "num_downloads": 3193,
+ "num_ratings": 44,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/243/243348_4415905-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/243/243348_4415905-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/243/243348_4415905-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/243/243348_4415905-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Finland",
+  "Finnish-Broadcasting-Company",
+  "Luonto",
+  "Myrsky",
+  "Nature",
+  "Soundfx",
+  "Storm",
+  "Suomi",
+  "Talvi",
+  "Tehosteet",
+  "Tuuli",
+  "Wind",
+  "Winter",
+  "Yle",
+  "Yleisradio"
+ ],
+ "url": "https://freesound.org/people/YleArkisto/sounds/243348/",
+ "username": "YleArkisto"
+}

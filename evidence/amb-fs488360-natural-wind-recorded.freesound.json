@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.696969696969697,
+ "channels": 2,
+ "created": "2019-10-14T10:05:06Z",
+ "description": "Wind recorded at the mountain",
+ "duration": 271.462,
+ "geotag": null,
+ "id": 488360,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Natural wind recorded",
+ "num_downloads": 3141,
+ "num_ratings": 33,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/488/488360_3518208-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/488/488360_3518208-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/488/488360_3518208-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/488/488360_3518208-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "blizzard",
+  "mountain",
+  "natural",
+  "stereo",
+  "tension",
+  "ventisca",
+  "viento",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/JavierSerrat/sounds/488360/",
+ "username": "JavierSerrat"
+}

@@ -1,0 +1,36 @@
+{
+ "avg_rating": 0.0,
+ "channels": 1,
+ "created": "2012-10-03T10:43:53Z",
+ "description": "Quite a bit of river flowing near.",
+ "duration": 166.28,
+ "geotag": null,
+ "id": 166309,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "River 3.wav",
+ "num_downloads": 134,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/166/166309_2104797-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/166/166309_2104797-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/166/166309_2104797-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/166/166309_2104797-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "atmos",
+  "atmosphere",
+  "babbling",
+  "brook",
+  "exterior",
+  "flow",
+  "flowing",
+  "river",
+  "running",
+  "stream",
+  "water"
+ ],
+ "url": "https://freesound.org/people/deleted_user_2104797/sounds/166309/",
+ "username": "deleted_user_2104797"
+}

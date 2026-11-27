@@ -1,0 +1,29 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2016-08-22T16:42:57Z",
+ "description": "recorder: Tascam DR07\r\nlocation: Croatia, Slovenia 2016",
+ "duration": 153.432,
+ "geotag": null,
+ "id": 352565,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "Rain, Thunder, Tent.wav",
+ "num_downloads": 84,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/352/352565_4176669-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/352/352565_4176669-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/352/352565_4176669-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/352/352565_4176669-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Camp",
+  "Rain",
+  "Tent",
+  "Thunder",
+  "Water"
+ ],
+ "url": "https://freesound.org/people/soundskeep/sounds/352565/",
+ "username": "soundskeep"
+}

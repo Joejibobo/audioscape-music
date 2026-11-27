@@ -1,0 +1,28 @@
+{
+ "avg_rating": 5.0,
+ "channels": 1,
+ "created": "2018-08-26T22:32:18Z",
+ "description": "Water heard from a ship's hold. Lots of splashing, clanking, creaking. Intermittent waves.",
+ "duration": 75.6921,
+ "geotag": null,
+ "id": 438849,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "G54-30-Waves Heard from Ship's Hold.wav",
+ "num_downloads": 92,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/438/438849_2524442-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/438/438849_2524442-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/438/438849_2524442-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/438/438849_2524442-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Optical",
+  "Vintage",
+  "Water",
+  "Waves"
+ ],
+ "url": "https://freesound.org/people/craigsmith/sounds/438849/",
+ "username": "craigsmith"
+}

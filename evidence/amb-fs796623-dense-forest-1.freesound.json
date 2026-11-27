@@ -1,0 +1,33 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2025-04-04T16:49:36Z",
+ "description": "In Tayrona National Park, along the Calabazo-Playa Brava trail. Dense forest similar to a jungle.\n\nColombia, 08-22",
+ "duration": 298.757,
+ "geotag": "11.316210397765524 -73.9948048615937",
+ "id": 796623,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Dense forest 1",
+ "num_downloads": 39,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/796/796623_3557494-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/796/796623_3557494-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/796/796623_3557494-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/796/796623_3557494-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Ambience",
+  "Atmosphere",
+  "Birds",
+  "Environment",
+  "Field-recording",
+  "Forest",
+  "Insects",
+  "Jungle",
+  "Nature"
+ ],
+ "url": "https://freesound.org/people/fran_marenco/sounds/796623/",
+ "username": "fran_marenco"
+}

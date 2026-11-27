@@ -1,0 +1,38 @@
+{
+ "avg_rating": 4.794117647058823,
+ "channels": 2,
+ "created": "2019-09-11T20:09:24Z",
+ "description": "Wav-file recorded with the Zoom H6 with stereo microphone.\nA fireplace that is almost out in an old house. You hear the crackling wood and a little flame. \n\nBONNY ORBIT Sound Library",
+ "duration": 124.25,
+ "geotag": "46.1335467481 8.81212777409",
+ "id": 484338,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Fireplace crackling wood little flame.wav",
+ "num_downloads": 4036,
+ "num_ratings": 68,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/484/484338_5902878-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/484/484338_5902878-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/484/484338_5902878-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/484/484338_5902878-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "burn",
+  "burning",
+  "crackling",
+  "field-recording",
+  "fieldrecording",
+  "fire",
+  "fireplace",
+  "fires",
+  "flame",
+  "flames",
+  "house",
+  "logs",
+  "nature",
+  "wood"
+ ],
+ "url": "https://freesound.org/people/BonnyOrbit/sounds/484338/",
+ "username": "BonnyOrbit"
+}

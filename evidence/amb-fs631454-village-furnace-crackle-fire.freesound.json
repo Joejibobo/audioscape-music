@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.764705882352941,
+ "channels": 1,
+ "created": "2022-04-27T17:25:32Z",
+ "description": "In a clay stove in the village",
+ "duration": 66.5747,
+ "geotag": null,
+ "id": 631454,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "village furnace crackle firewood.WAV",
+ "num_downloads": 449,
+ "num_ratings": 17,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/631/631454_5886754-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/631/631454_5886754-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/631/631454_5886754-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/631/631454_5886754-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "burning",
+  "crackling",
+  "fire",
+  "fireplace"
+ ],
+ "url": "https://freesound.org/people/mbajsty/sounds/631454/",
+ "username": "mbajsty"
+}

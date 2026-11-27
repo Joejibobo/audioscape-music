@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2021-05-29T21:47:56Z",
+ "description": "Choppy waves on rocks. Stereo spaces EM172s.",
+ "duration": 313.216,
+ "geotag": null,
+ "id": 573201,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Waves rocks lake amb choppy cu Tommy Thompson 180602.wav",
+ "num_downloads": 135,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/573/573201_97550-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/573/573201_97550-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/573/573201_97550-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/573/573201_97550-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "lake",
+  "rocks",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/TRP/sounds/573201/",
+ "username": "TRP"
+}

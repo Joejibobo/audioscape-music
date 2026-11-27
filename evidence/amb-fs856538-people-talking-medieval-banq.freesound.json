@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.0,
+ "channels": 2,
+ "created": "2026-06-01T10:27:18Z",
+ "description": "recorded with zoom h6",
+ "duration": 308.508,
+ "geotag": "44.647809330417736 8.324811985773104",
+ "id": 856538,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "people talking medieval banquet",
+ "num_downloads": 46,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/856/856538_7254491-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/856/856538_7254491-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/856/856538_7254491-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/856/856538_7254491-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "chatter",
+  "crowd",
+  "medievale",
+  "partying",
+  "people",
+  "talking",
+  "viking",
+  "whispering"
+ ],
+ "url": "https://freesound.org/people/Artiom_Constantinov/sounds/856538/",
+ "username": "Artiom_Constantinov"
+}

@@ -1,0 +1,28 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2016-08-13T16:45:03Z",
+ "description": "A late afternoon thunderstorm on a very hot day",
+ "duration": 73.8453,
+ "geotag": null,
+ "id": 351946,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "rain and distant thunder 2.WAV",
+ "num_downloads": 95,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/351/351946_4930623-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/351/351946_4930623-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/351/351946_4930623-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/351/351946_4930623-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "distant",
+  "rain",
+  "storm",
+  "thunder"
+ ],
+ "url": "https://freesound.org/people/paulmessier/sounds/351946/",
+ "username": "paulmessier"
+}

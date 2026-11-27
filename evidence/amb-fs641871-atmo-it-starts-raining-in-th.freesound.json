@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.777777777777778,
+ "channels": 2,
+ "created": "2022-07-16T13:52:03Z",
+ "description": "Standing in the forest while it begins to rain. It starts to rain and the drops are falling onto the leaves and plants around.",
+ "duration": 116.157,
+ "geotag": null,
+ "id": 641871,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "ATMO IT STARTS RAINING IN THE FOREST.wav",
+ "num_downloads": 263,
+ "num_ratings": 9,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/641/641871_12980865-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/641/641871_12980865-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/641/641871_12980865-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/641/641871_12980865-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "FIELD-RECORDING",
+  "FOREST",
+  "RAIN",
+  "START"
+ ],
+ "url": "https://freesound.org/people/Malte007/sounds/641871/",
+ "username": "Malte007"
+}

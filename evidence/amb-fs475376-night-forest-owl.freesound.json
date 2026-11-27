@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.825581395348837,
+ "channels": 2,
+ "created": "2019-06-26T00:16:22Z",
+ "description": "Night atmos in eucalypt forest outside Melbourne, Australia. Powerful Owl can be heard in background.",
+ "duration": 68.3707,
+ "geotag": null,
+ "id": 475376,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "night_forest_owl.WAV",
+ "num_downloads": 6273,
+ "num_ratings": 86,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/475/475376_9749402-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/475/475376_9749402-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/475/475376_9749402-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/475/475376_9749402-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "atmos",
+  "field-recording",
+  "forest",
+  "night",
+  "owl"
+ ],
+ "url": "https://freesound.org/people/thom_cookes/sounds/475376/",
+ "username": "thom_cookes"
+}

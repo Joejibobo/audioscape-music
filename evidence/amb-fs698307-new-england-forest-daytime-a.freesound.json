@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.894736842105263,
+ "channels": 2,
+ "created": "2023-08-03T14:13:18Z",
+ "description": "Daytime ambience recorded in a forest in North Andover, Massachusetts. Recorded on a Sound Devices 744t with an Audio Technica BP4025.",
+ "duration": 124.758,
+ "geotag": null,
+ "id": 698307,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "New England Forest Daytime Ambience",
+ "num_downloads": 896,
+ "num_ratings": 19,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/698/698307_1828372-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/698/698307_1828372-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/698/698307_1828372-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/698/698307_1828372-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Ambience",
+  "Birds",
+  "Birdsong",
+  "Day",
+  "Forest",
+  "Nature",
+  "New-England",
+  "Stereo",
+  "Trees"
+ ],
+ "url": "https://freesound.org/people/Bmisiewicz/sounds/698307/",
+ "username": "Bmisiewicz"
+}

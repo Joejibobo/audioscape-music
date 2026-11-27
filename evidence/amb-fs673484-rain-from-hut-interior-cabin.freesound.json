@@ -1,0 +1,42 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2023-02-07T22:16:46Z",
+ "description": "Rain from hut interior, cabin, drops on metal sheet and plastic roof, subtle voices sometimes in spanish, recorded in Amazon rainforest\n\nSound recorded with a MS setup Sennheiser Microphone MKH50+MKH30\nSound Devices 302 mixer + Sound Devices 744T recorder\nMS is encoded in STEREO Left-Right\nOriginal recording in Wave, 48kHz, 24bit\nSound Ref: @VNZ101211T025",
+ "duration": 133.437,
+ "geotag": null,
+ "id": 673484,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Rain from hut interior, cabin, drops on metal sheet and plastic roof, subtle voices sometimes in spanish, recorded in Amazon rainforest",
+ "num_downloads": 56,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/673/673484_1661766-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/673/673484_1661766-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/673/673484_1661766-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/673/673484_1661766-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Amazon",
+  "Blume",
+  "Felix",
+  "Felixblume",
+  "Venezuela",
+  "cabin",
+  "drops",
+  "field-recording",
+  "hut",
+  "interior",
+  "metal",
+  "plastic",
+  "rain",
+  "rainforest",
+  "roof",
+  "sheet",
+  "spanish",
+  "voices"
+ ],
+ "url": "https://freesound.org/people/felix.blume/sounds/673484/",
+ "username": "felix.blume"
+}

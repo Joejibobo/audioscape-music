@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.975,
+ "channels": 2,
+ "created": "2018-09-23T17:29:21Z",
+ "description": "Recording of the rough Baltic Sea, taken in the evening in Rowy, Poland.",
+ "duration": 123.369,
+ "geotag": "54.66856733295401 17.048686696417576",
+ "id": 441008,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Rough Baltic Sea",
+ "num_downloads": 2045,
+ "num_ratings": 40,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/441/441008_7834424-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/441/441008_7834424-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/441/441008_7834424-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/441/441008_7834424-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "field-recording",
+  "nature",
+  "rough",
+  "sea",
+  "storm",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/GirlWithSoundRecorder/sounds/441008/",
+ "username": "GirlWithSoundRecorder"
+}

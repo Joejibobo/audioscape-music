@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.333333333333333,
+ "channels": 2,
+ "created": "2024-01-12T15:30:11Z",
+ "description": "A cozy summer rain from inside a small summer cabin in the forests of Värmland, Sweden.\n\nRecorded with a Zoom H1.",
+ "duration": 80.4183,
+ "geotag": null,
+ "id": 719057,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Forest cabin summer rain 3",
+ "num_downloads": 256,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/719/719057_1738686-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/719/719057_1738686-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/719/719057_1738686-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/719/719057_1738686-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "cabin",
+  "downpour",
+  "forest",
+  "rain",
+  "raindrops",
+  "raining",
+  "summer"
+ ],
+ "url": "https://freesound.org/people/giddster/sounds/719057/",
+ "username": "giddster"
+}

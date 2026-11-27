@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.5,
+ "channels": 2,
+ "created": "2009-02-09T08:47:14Z",
+ "description": "This is beach sounds taken at Fort Myers beach in Florida. The audio includes seagulls, waves crashing and breaking, and close up sounds of the water rushing up on the sand. Recorded with a Roland Edirol. ",
+ "duration": 69.9962,
+ "geotag": null,
+ "id": 66992,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Fort-Myers-Beach.mp3",
+ "num_downloads": 927,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/66/66992_944846-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/66/66992_944846-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/66/66992_944846-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/66/66992_944846-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "beach",
+  "florida",
+  "fort",
+  "myers",
+  "seagulls",
+  "water",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/rotcav/sounds/66992/",
+ "username": "rotcav"
+}

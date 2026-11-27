@@ -1,0 +1,30 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2021-01-17T04:16:37Z",
+ "description": "I opened the woodstove door while recording with a Zoom H1 N. So the first thing you hear is the door opening, and then the latch falling down. The fire had just been lit. It is starting to ignite the Douglas Fir wood slowly but surely, and you can hear the kindling crackling.",
+ "duration": 70.019,
+ "geotag": null,
+ "id": 554578,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "opening-stove-door-fire-just-catching.wav",
+ "num_downloads": 175,
+ "num_ratings": 2,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/554/554578_11447152-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/554/554578_11447152-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/554/554578_11447152-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/554/554578_11447152-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Zoom-H1-N",
+  "crackling",
+  "field-recording",
+  "fire",
+  "fireplace",
+  "woodstove"
+ ],
+ "url": "https://freesound.org/people/1888software/sounds/554578/",
+ "username": "1888software"
+}

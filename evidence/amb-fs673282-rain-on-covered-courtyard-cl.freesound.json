@@ -1,0 +1,42 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2023-02-06T22:15:05Z",
+ "description": "Rain on covered courtyard, close recording of rain drops in metal sheet roof, crickets in Amazon rainforest\n\nSound recorded with a MS setup Sennheiser Microphone MKH50+MKH30\nSound Devices 302 mixer + Sound Devices 744T recorder\nMS is encoded in STEREO Left-Right\nOriginal recording in Wave, 48kHz, 24bit\nSound Ref: @VNZ101206T027",
+ "duration": 177.493,
+ "geotag": null,
+ "id": 673282,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Rain on covered courtyard, close recording of rain drops in metal sheet roof, crickets in Amazon rainforest",
+ "num_downloads": 43,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/673/673282_1661766-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/673/673282_1661766-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/673/673282_1661766-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/673/673282_1661766-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Amazon",
+  "Blume",
+  "Felix",
+  "Felixblume",
+  "Venezuela",
+  "close",
+  "courtyard",
+  "covered",
+  "crickets",
+  "drops",
+  "field-recording",
+  "metal",
+  "rain",
+  "raindrops",
+  "rainforest",
+  "recording",
+  "roof",
+  "sheet"
+ ],
+ "url": "https://freesound.org/people/felix.blume/sounds/673282/",
+ "username": "felix.blume"
+}

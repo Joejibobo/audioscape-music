@@ -1,0 +1,28 @@
+{
+ "avg_rating": 5.0,
+ "channels": 1,
+ "created": "2018-08-26T20:34:15Z",
+ "description": "Horses trotting by on dirt. Some thunking noises and metallic creaks of tack. A man saying \"whoa!\" and then horses starting up again and riding by.",
+ "duration": 81.6857,
+ "geotag": null,
+ "id": 438195,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "G18-17-Horse Team.wav",
+ "num_downloads": 118,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/438/438195_2524442-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/438/438195_2524442-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/438/438195_2524442-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/438/438195_2524442-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Ambience",
+  "Optical",
+  "Streets",
+  "Vintage"
+ ],
+ "url": "https://freesound.org/people/craigsmith/sounds/438195/",
+ "username": "craigsmith"
+}

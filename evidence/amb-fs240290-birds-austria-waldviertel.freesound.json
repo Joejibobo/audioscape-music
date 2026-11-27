@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.0,
+ "channels": 2,
+ "created": "2014-06-09T07:33:11Z",
+ "description": "Field-recording of nature in Austria. My first recording done with a \"Zoom recorder\". Hope you enjoy.",
+ "duration": 194.483,
+ "geotag": null,
+ "id": 240290,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Birds_Austria_Waldviertel",
+ "num_downloads": 234,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/240/240290_4165591-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/240/240290_4165591-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/240/240290_4165591-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/240/240290_4165591-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Birds",
+  "Day",
+  "Field-recording",
+  "Forest",
+  "Nature",
+  "Saw",
+  "Summer"
+ ],
+ "url": "https://freesound.org/people/noctaro/sounds/240290/",
+ "username": "noctaro"
+}

@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.833333333333333,
+ "channels": 2,
+ "created": "2013-11-26T17:02:18Z",
+ "description": "Recording of the winter storm nemo passing through Isle of Skye. The recordings were made from inside a small house.\r\n\r\nRecorded using Marantz PMD660 recorder and Sennheiser MD46 cardioid microphone. Edited in Audacity to create stereo effect by combining mono tracks. ",
+ "duration": 570.757,
+ "geotag": null,
+ "id": 208705,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "03.Storm-Approaches.wav",
+ "num_downloads": 389,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/208/208705_1854719-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/208/208705_1854719-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/208/208705_1854719-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/208/208705_1854719-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "blizzard",
+  "gale",
+  "hurricane",
+  "nature",
+  "rain",
+  "storm",
+  "weather",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/LolitaPerdurabo/sounds/208705/",
+ "username": "LolitaPerdurabo"
+}

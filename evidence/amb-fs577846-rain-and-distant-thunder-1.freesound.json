@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.866666666666666,
+ "channels": 2,
+ "created": "2021-06-24T16:52:52Z",
+ "description": "Rain and distant thunder in the garden recorded on balcony.",
+ "duration": 169.238,
+ "geotag": null,
+ "id": 577846,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Rain and distant thunder 1",
+ "num_downloads": 1435,
+ "num_ratings": 45,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/577/577846_10548058-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/577/577846_10548058-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/577/577846_10548058-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/577/577846_10548058-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "field-recording",
+  "nature",
+  "night",
+  "rain",
+  "storm",
+  "thunder",
+  "thunderstorm",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/vilmuhametshin/sounds/577846/",
+ "username": "vilmuhametshin"
+}

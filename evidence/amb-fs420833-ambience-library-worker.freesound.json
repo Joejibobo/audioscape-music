@@ -1,0 +1,30 @@
+{
+ "avg_rating": 3.3333333333333335,
+ "channels": 2,
+ "created": "2018-03-04T23:34:54Z",
+ "description": "In a library, some workers at the background, people, print machine and cardboard boxes moving.",
+ "duration": 355.946,
+ "geotag": null,
+ "id": 420833,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "ambience_library_worker.WAV",
+ "num_downloads": 297,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/420/420833_1193124-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/420/420833_1193124-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/420/420833_1193124-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/420/420833_1193124-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "field-recording",
+  "library",
+  "people",
+  "soundscape",
+  "work"
+ ],
+ "url": "https://freesound.org/people/IsaacRoman/sounds/420833/",
+ "username": "IsaacRoman"
+}

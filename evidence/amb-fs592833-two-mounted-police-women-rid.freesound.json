@@ -1,0 +1,28 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2021-10-19T23:46:53Z",
+ "description": "Sennheiser AMBEO VR ambisonic recording at Youngstorvet in Oslo. Two mounted police women riding by on their horses.",
+ "duration": 123.165,
+ "geotag": "59.9147865381 10.7493664744",
+ "id": 592833,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Two mounted police women riding by",
+ "num_downloads": 149,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/592/592833_11576705-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/592/592833_11576705-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/592/592833_11576705-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/592/592833_11576705-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Police",
+  "binaural",
+  "horse",
+  "riding"
+ ],
+ "url": "https://freesound.org/people/LarsErikErtzgaardRingen/sounds/592833/",
+ "username": "LarsErikErtzgaardRingen"
+}
