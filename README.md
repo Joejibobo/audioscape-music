@@ -4,7 +4,7 @@ Free music and sound effects that [AudioScape](https://github.com/Joejibobo) pla
 
 ## What's here
 
-- `catalog.json`: the music catalog AudioScape reads (version 3: 195 tracks, about 11 hours, 645 MB, across 16 of its 17 styles and 5 moods). For each track it lists the title, artist, duration, the styles, moods and kinds of scene it suits, a loudness correction (`gainDB`), an analysis made in advance (tempo, key, loudness, energy, a loudness curve at one value a second), the licence and where it came from, and the file's address, size and SHA-256.
+- `catalog.json`: the music catalog AudioScape reads (version 4: 195 tracks, about 11 hours, 645 MB, across 16 of its 17 styles and 5 moods). For each track it lists the title, artist, duration, the styles, moods and kinds of scene it suits, a loudness correction (`gainDB`), an analysis made in advance (tempo, key, loudness, energy, a loudness curve at one value a second), the licence and where it came from, and the file's address, size and SHA-256.
 - `effects.json`: 30 sound effects (thunder, rain, doors, footsteps, swords, bells, clocks, a wolf and more) with their kind, length, the time of their loudest moment (`peakOffset`), level trim, SHA-256, licence and source.
 - `LICENSES.md`: every item with its author, source page, the licence wording on that page, the date it was read and a link to the saved page.
 - `evidence/`: the source pages as they were downloaded, kept as proof of the licence at the time (with the sites’ own map keys blanked out).
@@ -32,6 +32,10 @@ CC0 and public domain need no credit, but Musopen and neolein ask for one as a c
 - Wikimedia Commons: Grieg's Holberg Suite by the United States Marine Chamber Orchestra and Holst's Mercury and Uranus by the US Air Force Heritage of America Band (federal works), Norwegian Hardanger fiddle and Swedish nyckelharpa and fiddle recordings from Svenskt visarkiv (CC0), Lucas Gonze (CC0), The Rogue Bluegrass Band (released into the public domain by the band), and two recordings published before 1926, public domain in the US by age: Imdad Khan's sitar (1904) and Gilliland and Robertson's Arkansaw Traveler (1922).
 - Free Music Archive: CC0 tracks by John Bartmann (Western Skies, Underwater Wonders), HoliznaCC0, Ondrosik and TRG Banks.
 - Every new file was also run through Apple's sound classifier to keep out speech and singing. Not taken: synthesizer and MIDI renderings of medieval and other pieces, 1901–1903 field cylinders too noisy to play under narration, and a 1942 Scheherazade marked CC0 by an uploader who could not own it.
+
+### Version 4 (labels only)
+
+Same audio, files and addresses as version 3. Every track was relabelled by hand: symphonies, overtures, suites and quartets carry the classical style (`regencyClassical`, plus the world they belong to, such as `norse` for Grieg's Peer Gynt and Holberg Suite), concert-band pieces and marches carry `military`, and `epicFantasy` stays only on cinematic and game-like pieces (Komiku, Ondrosik, SG80). Each track also gained optional labels in `tags`: `character` (filmScore, game, ambient, classical, band, folk, electronic, jazz, choral, weighted 0–1), `instruments` (up to five), `places` (up to four settings it evokes), `era` (historical or modern) and `shape` (steady, builds, swells or sparse, from the loudness curve). The loudness curve is rounded to 0.1 dB, which halves the manifest.
 
 ## Ambience
 
