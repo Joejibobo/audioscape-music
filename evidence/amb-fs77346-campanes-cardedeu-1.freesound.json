@@ -1,0 +1,27 @@
+{
+ "id": 77346,
+ "url": "https://freesound.org/people/xserra/sounds/77346/",
+ "name": "campanes-cardedeu-1.wav",
+ "tags": [
+  "bells",
+  "cardedeu",
+  "church"
+ ],
+ "description": "church bells in the town of Cardedeu (near Barcelona)",
+ "geotag": "41.6386471525 2.35626161098",
+ "created": "2009-08-12T17:19:01Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 82.8581,
+ "samplerate": 44100.0,
+ "username": "xserra",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/77/77346_43-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/77/77346_43-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/77/77346_43-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/77/77346_43-lq.ogg"
+ },
+ "num_downloads": 406,
+ "avg_rating": 4.275,
+ "num_ratings": 20
+}

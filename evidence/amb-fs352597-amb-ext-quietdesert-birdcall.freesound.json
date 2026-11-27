@@ -1,0 +1,31 @@
+{
+ "id": 352597,
+ "url": "https://freesound.org/people/drewhalasz/sounds/352597/",
+ "name": "amb;ext;quietdesert;birdcall-response.wav",
+ "tags": [
+  "ambience",
+  "ambisonic",
+  "atmosphere",
+  "b-format",
+  "background",
+  "birds",
+  "desert"
+ ],
+ "description": "Ambisonic FuMa b-format recording recorded with the Coresound Tetramic.  Sandia Mountain fooothills, Albuquerque, New Mexico.  Birds call/response. quiet desert. *NOTE: you will need to decode this b-format ambisonic file with a plug-in such as the (free)SurroundZone2 which allows you to decode the file to a surround, stereo, or mono format. Also note that these are FuMa bformat files (and opposed to Ambix bformat).",
+ "geotag": null,
+ "created": "2016-08-23T02:34:48Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 4,
+ "duration": 212.512,
+ "samplerate": 96000.0,
+ "username": "drewhalasz",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/352/352597_138-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/352/352597_138-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/352/352597_138-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/352/352597_138-lq.ogg"
+ },
+ "num_downloads": 2760,
+ "avg_rating": 4.681818181818182,
+ "num_ratings": 22
+}

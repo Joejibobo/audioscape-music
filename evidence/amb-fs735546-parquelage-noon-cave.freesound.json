@@ -1,0 +1,38 @@
+{
+ "id": 735546,
+ "url": "https://freesound.org/people/MariaARomeroF-Acusm%C3%A1tica/sounds/735546/",
+ "name": "ParqueLage_noon_Cave",
+ "tags": [
+  "Brasil",
+  "Brazil",
+  "Handrecorder",
+  "Riodejaneiro",
+  "Zoomh6",
+  "ambience",
+  "binaural",
+  "cave",
+  "dark",
+  "field-recording",
+  "nature",
+  "noon",
+  "sound",
+  "stereo"
+ ],
+ "description": "Recorded at Parque Lage, Rio de Janeiro, using a ZOOM H6 with MSH6 microphone attachment. Positioned inside of the cave during midday, despite minimal nearby activity. The MSH6's stereo pickup accurately captured surrounding ambience, ensuring a high-fidelity recording.",
+ "geotag": "-22.95895 -43.211129",
+ "created": "2024-05-15T00:23:39Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 127.038,
+ "samplerate": 48000.0,
+ "username": "MariaARomeroF-Acusmática",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/735/735546_7208056-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/735/735546_7208056-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/735/735546_7208056-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/735/735546_7208056-lq.ogg"
+ },
+ "num_downloads": 47,
+ "avg_rating": 5.0,
+ "num_ratings": 3
+}

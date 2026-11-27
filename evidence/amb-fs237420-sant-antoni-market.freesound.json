@@ -1,0 +1,41 @@
+{
+ "id": 237420,
+ "url": "https://freesound.org/people/eguaus/sounds/237420/",
+ "name": "sant antoni market.wav",
+ "tags": [
+  "ambiance",
+  "ambience",
+  "ambient",
+  "barcelona",
+  "binaural",
+  "catalonia",
+  "city",
+  "field-recording",
+  "h1",
+  "market",
+  "okm-II",
+  "people",
+  "sant-antoni",
+  "soundman",
+  "soundscape",
+  "street",
+  "zoom"
+ ],
+ "description": "Binaural field-recording of a walk through the central corridor of the Sant Antoni market, in Barcelona, using Soundman OKM-II and Zoom H1.",
+ "geotag": "41.379883856537816 2.161656618118286",
+ "created": "2014-05-11T15:48:53Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 348.629,
+ "samplerate": 44100.0,
+ "username": "eguaus",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/237/237420_40875-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/237/237420_40875-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/237/237420_40875-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/237/237420_40875-lq.ogg"
+ },
+ "num_downloads": 331,
+ "avg_rating": 4.666666666666667,
+ "num_ratings": 3
+}

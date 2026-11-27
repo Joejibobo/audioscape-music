@@ -1,0 +1,27 @@
+{
+ "id": 250288,
+ "url": "https://freesound.org/people/SoundEnsemble/sounds/250288/",
+ "name": "SE HORSE & wagon coming forward from far - stops - slow start - dynamic start.wav",
+ "tags": [
+  "carriage",
+  "horse",
+  "wagon"
+ ],
+ "description": "Static mic position.\r\n\r\nrec equip - Sennheiser MKH 416, Tascam DR 680\r\n\r\nrec by piotrek zyla",
+ "geotag": "50.707656027491794 19.663639068603516",
+ "created": "2014-10-02T06:52:20Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 1,
+ "duration": 88.3452,
+ "samplerate": 48000.0,
+ "username": "SoundEnsemble",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/250/250288_3662372-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/250/250288_3662372-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/250/250288_3662372-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/250/250288_3662372-lq.ogg"
+ },
+ "num_downloads": 692,
+ "avg_rating": 4.5,
+ "num_ratings": 6
+}

@@ -1,0 +1,35 @@
+{
+ "id": 636466,
+ "url": "https://freesound.org/people/USBMED_Ambiences_Sound_Library/sounds/636466/",
+ "name": "Colombian_Church_AmbiX.wav",
+ "tags": [
+  "Ambience",
+  "Cathedral",
+  "Chants",
+  "Church",
+  "Classical",
+  "Crowds",
+  "Holy",
+  "Organ",
+  "Prayers",
+  "Walla",
+  "Week"
+ ],
+ "description": "Colombian Church Walla AmbiX, Recorded With Zoom H3-VR",
+ "geotag": null,
+ "created": "2022-06-02T19:40:47Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 4,
+ "duration": 240.0,
+ "samplerate": 48000.0,
+ "username": "USBMED_Ambiences_Sound_Library",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/636/636466_9827478-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/636/636466_9827478-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/636/636466_9827478-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/636/636466_9827478-lq.ogg"
+ },
+ "num_downloads": 325,
+ "avg_rating": 4.428571428571429,
+ "num_ratings": 7
+}

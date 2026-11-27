@@ -1,0 +1,36 @@
+{
+ "id": 116730,
+ "url": "https://freesound.org/people/Benboncan/sounds/116730/",
+ "name": "Drips In Mine.wav",
+ "tags": [
+  "cave",
+  "cavern",
+  "drip",
+  "dripping",
+  "drips",
+  "drop",
+  "drops",
+  "mine",
+  "plop",
+  "plops",
+  "water",
+  "wet"
+ ],
+ "description": "A stereo field-recording of water dripping on to standing water in a partially flooded mine.Sony PCM-M10",
+ "geotag": "52.9498047029 -4.03699278831",
+ "created": "2011-03-17T15:45:20Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 304.988,
+ "samplerate": 44100.0,
+ "username": "Benboncan",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/116/116730_634166-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/116/116730_634166-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/116/116730_634166-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/116/116730_634166-lq.ogg"
+ },
+ "num_downloads": 3214,
+ "avg_rating": 4.614583333333333,
+ "num_ratings": 48
+}

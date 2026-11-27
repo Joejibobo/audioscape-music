@@ -1,0 +1,32 @@
+{
+ "id": 196713,
+ "url": "https://freesound.org/people/Andy_Gardner/sounds/196713/",
+ "name": "Sea Cave",
+ "tags": [
+  "atmosphere",
+  "cave",
+  "coastal",
+  "drip",
+  "feild-recording",
+  "sea",
+  "water",
+  "waves"
+ ],
+ "description": "A recording of waves and water dripping in a cave on the Ayrshire coast.",
+ "geotag": "55.35494041884593 -4.788773059844971",
+ "created": "2013-08-11T21:25:09Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 311.28,
+ "samplerate": 96000.0,
+ "username": "Andy_Gardner",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/196/196713_2254206-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/196/196713_2254206-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/196/196713_2254206-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/196/196713_2254206-lq.ogg"
+ },
+ "num_downloads": 5221,
+ "avg_rating": 4.945454545454545,
+ "num_ratings": 55
+}

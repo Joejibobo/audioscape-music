@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.181818181818182,
+ "channels": 2,
+ "created": "2010-08-29T19:15:31Z",
+ "description": "A Tawny owl screeching for hours. Great if you want to sleep with the window open ; ). MKH40 microphones, Wendt X2 preamp into R-09HR recorder. Recorded in August 2010 in Perthshire / Scotland, with the wind of the forest and the sound of the River Tay in the background.",
+ "duration": 389.708,
+ "geotag": null,
+ "id": 104014,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Owl screeching.WAV",
+ "num_downloads": 558,
+ "num_ratings": 11,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/104/104014_28867-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/104/104014_28867-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/104/104014_28867-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/104/104014_28867-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "field-recording",
+  "night",
+  "owl",
+  "perthshire",
+  "scotland",
+  "screeching"
+ ],
+ "url": "https://freesound.org/people/inchadney/sounds/104014/",
+ "username": "inchadney"
+}

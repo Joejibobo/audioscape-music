@@ -1,0 +1,28 @@
+{
+ "id": 511680,
+ "url": "https://freesound.org/people/jerry.berumen/sounds/511680/",
+ "name": "church_bell_near.wav",
+ "tags": [
+  "bell",
+  "church",
+  "mexican",
+  "town"
+ ],
+ "description": "church bell in small town in hidalgo, mexico, recorded from the church's rooftop",
+ "geotag": null,
+ "created": "2020-04-03T04:27:52Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 145.646,
+ "samplerate": 48000.0,
+ "username": "jerry.berumen",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/511/511680_6753194-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/511/511680_6753194-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/511/511680_6753194-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/511/511680_6753194-lq.ogg"
+ },
+ "num_downloads": 343,
+ "avg_rating": 3.8,
+ "num_ratings": 5
+}

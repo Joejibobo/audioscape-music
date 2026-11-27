@@ -1,0 +1,31 @@
+{
+ "id": 698089,
+ "url": "https://freesound.org/people/tomhannen/sounds/698089/",
+ "name": "Turkish Bazaar market ambient sounds",
+ "tags": [
+  "Turkey",
+  "ambience",
+  "ambient",
+  "bazaar",
+  "binaural",
+  "field-recording",
+  "market"
+ ],
+ "description": "Walking through a bazaar or open market in Turkey. Sounds of customers and sellers shouting to sell their goods.\n\nRecorded using a Zoom H1n portable recorder 24bit 96kHz WAV and Roland CS-10EM binaural in-ear mics.",
+ "geotag": null,
+ "created": "2023-08-01T10:01:21Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 240.181,
+ "samplerate": 96000.0,
+ "username": "tomhannen",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/698/698089_1121623-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/698/698089_1121623-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/698/698089_1121623-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/698/698089_1121623-lq.ogg"
+ },
+ "num_downloads": 223,
+ "avg_rating": 5.0,
+ "num_ratings": 3
+}

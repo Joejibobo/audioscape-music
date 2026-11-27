@@ -1,0 +1,33 @@
+{
+ "id": 199515,
+ "url": "https://freesound.org/people/everythingsounds/sounds/199515/",
+ "name": "Cave Drips",
+ "tags": [
+  "cave",
+  "cave-drip",
+  "cave-echo",
+  "caves",
+  "drip-echo",
+  "drip-reverb",
+  "stalactite",
+  "stalactite-drip",
+  "water-drip"
+ ],
+ "description": "The sound of drips in a cave. Foley effect thanks to a towel, a bucket, some water, a Zoom H4N and Adobe Audition 5.5.",
+ "geotag": null,
+ "created": "2013-09-12T04:01:43Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 87.7492,
+ "samplerate": 44100.0,
+ "username": "everythingsounds",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/199/199515_3272432-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/199/199515_3272432-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/199/199515_3272432-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/199/199515_3272432-lq.ogg"
+ },
+ "num_downloads": 11235,
+ "avg_rating": 4.640776699029126,
+ "num_ratings": 103
+}

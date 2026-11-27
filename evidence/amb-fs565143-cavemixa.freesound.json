@@ -1,0 +1,28 @@
+{
+ "id": 565143,
+ "url": "https://freesound.org/people/blackatomproductions/sounds/565143/",
+ "name": "CaveMixA.mp3",
+ "tags": [
+  "ambiance",
+  "atmosphere",
+  "cave",
+  "sounds"
+ ],
+ "description": "This is a mix of audio I put together to create some cave ambiance. It features a low rumble and wind along with the echos of running and dripping water.",
+ "geotag": null,
+ "created": "2021-03-29T02:02:45Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 247.78,
+ "samplerate": 44100.0,
+ "username": "blackatomproductions",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/565/565143_12186594-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/565/565143_12186594-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/565/565143_12186594-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/565/565143_12186594-lq.ogg"
+ },
+ "num_downloads": 1257,
+ "avg_rating": 4.7727272727272725,
+ "num_ratings": 22
+}

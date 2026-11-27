@@ -1,0 +1,35 @@
+{
+ "id": 517102,
+ "url": "https://freesound.org/people/tackerproductions/sounds/517102/",
+ "name": "clock_ticking.wav",
+ "tags": [
+  "ambience",
+  "clock",
+  "ikea",
+  "modern",
+  "room-recording",
+  "tac",
+  "tic",
+  "tic-tac",
+  "ticking",
+  "time",
+  "wall-clock"
+ ],
+ "description": "A ticking clock for usage as roomsound in a quiet scene.\nRecorded on the ZOOM H5 using the inbuild stereo-mic.",
+ "geotag": null,
+ "created": "2020-05-07T11:45:11Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 136.868,
+ "samplerate": 48000.0,
+ "username": "tackerproductions",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/517/517102_6301677-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/517/517102_6301677-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/517/517102_6301677-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/517/517102_6301677-lq.ogg"
+ },
+ "num_downloads": 313,
+ "avg_rating": 4.75,
+ "num_ratings": 4
+}
