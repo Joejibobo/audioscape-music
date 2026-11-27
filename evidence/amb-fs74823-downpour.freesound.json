@@ -1,0 +1,31 @@
+{
+ "id": 74823,
+ "url": "https://freesound.org/people/Benboncan/sounds/74823/",
+ "name": "Downpour.wav",
+ "tags": [
+  "field-recording",
+  "precipitation",
+  "rain",
+  "stereo",
+  "thunder",
+  "water",
+  "xy"
+ ],
+ "description": "A stereo field-recording of heavy rainfall which becomes lighter. Rolling thunder at the end. Recorded through a sheltered open doorway, with mics pointing down. Rode NT-4 &gt; FEL battery pre-amp &gt; Zoom H2.",
+ "geotag": null,
+ "created": "2009-06-26T14:04:01Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 308.296,
+ "samplerate": 44100.0,
+ "username": "Benboncan",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/74/74823_634166-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/74/74823_634166-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/74/74823_634166-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/74/74823_634166-lq.ogg"
+ },
+ "num_downloads": 316,
+ "avg_rating": 4.388888888888889,
+ "num_ratings": 9
+}

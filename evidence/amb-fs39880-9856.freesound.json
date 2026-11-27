@@ -1,0 +1,33 @@
+{
+ "avg_rating": 2.75,
+ "channels": 1,
+ "created": "2007-08-30T16:23:12Z",
+ "description": "Sound recorded bye MP3 player during a thunderstorm on 21. august 2007.This is the audio track of the video that you can see on:<a href=\"http://youtube.com/watch?v=l4OxpxWAu1E&amp;lt;--There\" rel=\"nofollow\">http://youtube.com/watch?v=l4OxpxWAu1E&amp;amp;lt;--There</a> was no close lightning. ",
+ "duration": 267.978,
+ "geotag": null,
+ "id": 39880,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "9856.MP3",
+ "num_downloads": 146,
+ "num_ratings": 2,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/39/39880_197070-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/39/39880_197070-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/39/39880_197070-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/39/39880_197070-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "field-recording",
+  "lightning",
+  "nature",
+  "rain",
+  "rainstorm",
+  "storm",
+  "thunder",
+  "thunderstorm",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/csengeri/sounds/39880/",
+ "username": "csengeri"
+}

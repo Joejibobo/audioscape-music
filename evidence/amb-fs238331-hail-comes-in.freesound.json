@@ -1,0 +1,37 @@
+{
+ "avg_rating": 4.75,
+ "channels": 2,
+ "created": "2014-05-21T20:01:13Z",
+ "description": "Hail Comes In\r\nThis was a strange storm. Tons of lightning, but only distant thunder. The rain was nearly falling vertically.\r\n\r\nAudio description: May 20, 2014. Hail comes in and pounds a deck outside for about a minute or so, then fades and raindrops themselves take prominence. The wind picks up, so you can hear wind chimes going at it and some deep rolling thunder far in the background. If you’ve experienced high winds before, it will probably sound scary to you at volume.\r\n\r\nRecorded with a TASCAM DR-05 with a dead cat and no low cut. I got the mics as close to an open window as I could without being ridiculous. Cropped and faded in and out in audacity. No other modifications, so you’ll have to normalize it and equalize to your liking. \r\n\r\nMight be useful as a “heavy rain” sound, since the hail kind of sounds like that anyway.",
+ "duration": 200.251,
+ "geotag": null,
+ "id": 238331,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Hail Comes In.wav",
+ "num_downloads": 444,
+ "num_ratings": 12,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/238/238331_82274-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/238/238331_82274-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/238/238331_82274-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/238/238331_82274-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "field-recording",
+  "hail",
+  "lightning",
+  "may",
+  "nature",
+  "rain",
+  "scary",
+  "spring",
+  "storm",
+  "thunder",
+  "thunderstorm",
+  "weather",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/secretmojo/sounds/238331/",
+ "username": "secretmojo"
+}

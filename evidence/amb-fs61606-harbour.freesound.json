@@ -1,0 +1,32 @@
+{
+ "id": 61606,
+ "url": "https://freesound.org/people/inchadney/sounds/61606/",
+ "name": "Harbour.wav",
+ "tags": [
+  "field-recording",
+  "harbour",
+  "ijmuiden",
+  "netherlands",
+  "sea",
+  "seagulls",
+  "seaside",
+  "ships"
+ ],
+ "description": "Yes, another recording of harbour sounds. Again Ijmuiden in the Netherlands, again at the same spot (because of the seagulls) and again very atmospheric and totally different from the recordings I did at the same spot. Shure WL 183 microphones, a FEL preamp into an iriver ihp-120. October 2008.",
+ "geotag": null,
+ "created": "2008-10-21T11:09:24Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 508.091,
+ "samplerate": 44100.0,
+ "username": "inchadney",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/61/61606_28867-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/61/61606_28867-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/61/61606_28867-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/61/61606_28867-lq.ogg"
+ },
+ "num_downloads": 613,
+ "avg_rating": 4.571428571428571,
+ "num_ratings": 7
+}

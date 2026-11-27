@@ -1,0 +1,27 @@
+{
+ "id": 484491,
+ "url": "https://freesound.org/people/ChrisHancock/sounds/484491/",
+ "name": "The Grove Studio, Somersby NSW - Night frogs & insects #1.wav",
+ "tags": [
+  "field-recording",
+  "frogs",
+  "insects"
+ ],
+ "description": "This is a night field-recording of the frogs and insects in a pond on the grounds of The Grove Studio, Somersby, NSW.\nThe recording was made on a Tascam DR-44WL @ 24bit 48kHz and then the distance freeway and other noise was attempted to be removed using RX Spectral De-Noise. The files have then been normalised.\nEnjoy!",
+ "geotag": "-33.369735 151.337259",
+ "created": "2019-09-13T03:40:25Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 297.838,
+ "samplerate": 48000.0,
+ "username": "ChrisHancock",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/484/484491_10119507-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/484/484491_10119507-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/484/484491_10119507-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/484/484491_10119507-lq.ogg"
+ },
+ "num_downloads": 120,
+ "avg_rating": 5.0,
+ "num_ratings": 2
+}

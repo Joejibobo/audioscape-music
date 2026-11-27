@@ -1,0 +1,31 @@
+{
+ "id": 243487,
+ "url": "https://freesound.org/people/Julien%20Nicolas/sounds/243487/",
+ "name": "Passage d'Ars",
+ "tags": [
+  "flow",
+  "flowing",
+  "liquid",
+  "pyrenees",
+  "river",
+  "stream",
+  "water"
+ ],
+ "description": "river water flow liquid flowing \r\nTake with electrostatic ORTF couple on DR60D Tascam",
+ "geotag": "42.7603 1.362",
+ "created": "2014-07-25T09:42:34Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 120.0,
+ "samplerate": 96000.0,
+ "username": "Julien Nicolas",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/243/243487_1688566-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/243/243487_1688566-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/243/243487_1688566-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/243/243487_1688566-lq.ogg"
+ },
+ "num_downloads": 129,
+ "avg_rating": 0.0,
+ "num_ratings": 0
+}

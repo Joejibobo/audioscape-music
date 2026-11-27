@@ -1,0 +1,43 @@
+{
+ "avg_rating": 4.913043478260869,
+ "channels": 2,
+ "created": "2022-05-13T08:12:50Z",
+ "description": "Listen to frogs and geese in the middle of the night in a swamp during my holiday in Limburg (Netherlands). Recorded with the Zoom H5 recorder + Audio-Technica BP4025 Microfoon in a RØDE Blimp Windshield and Shock Mount System.",
+ "duration": 506.331,
+ "geotag": null,
+ "id": 633817,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Frogs and geese in a swamp",
+ "num_downloads": 616,
+ "num_ratings": 23,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/633/633817_7846219-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/633/633817_7846219-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/633/633817_7846219-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/633/633817_7846219-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "BP4025",
+  "ambiance",
+  "ambience",
+  "bird",
+  "birds",
+  "field-recording",
+  "forest",
+  "frogs",
+  "geese",
+  "insects",
+  "marsh",
+  "marshes",
+  "nature",
+  "pond",
+  "spring",
+  "swamp",
+  "toads",
+  "wetlands",
+  "wildlife"
+ ],
+ "url": "https://freesound.org/people/DBlover/sounds/633817/",
+ "username": "DBlover"
+}

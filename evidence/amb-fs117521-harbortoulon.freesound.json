@@ -1,0 +1,30 @@
+{
+ "id": 117521,
+ "url": "https://freesound.org/people/DifferentSoundScapes/sounds/117521/",
+ "name": "HarborToulon.wav",
+ "tags": [
+  "activities",
+  "field-recording",
+  "harbor",
+  "people",
+  "seagulls",
+  "wind"
+ ],
+ "description": "Part the Dallas Toulon Soundscape exchange project.\nDensity : 5\nPolyphony : 7\nBusyness : 5\nOrder(0)/chaos(10): 6\n",
+ "geotag": null,
+ "created": "2011-04-01T15:31:23Z",
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "channels": 2,
+ "duration": 133.171,
+ "samplerate": 48000.0,
+ "username": "DifferentSoundScapes",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/117/117521_2101324-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/117/117521_2101324-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/117/117521_2101324-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/117/117521_2101324-lq.ogg"
+ },
+ "num_downloads": 393,
+ "avg_rating": 5.0,
+ "num_ratings": 1
+}

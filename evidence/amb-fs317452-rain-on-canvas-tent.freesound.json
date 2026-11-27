@@ -1,0 +1,32 @@
+{
+ "id": 317452,
+ "url": "https://freesound.org/people/timsc/sounds/317452/",
+ "name": "Rain on canvas tent",
+ "tags": [
+  "drip",
+  "dripping",
+  "field-recording",
+  "rain",
+  "splash",
+  "static",
+  "water",
+  "wet"
+ ],
+ "description": "Rain falling on canvas tent while camping in Exmoor. Recorded with Canon D550.",
+ "geotag": "51.16944162150102 -3.7714004516601562",
+ "created": "2015-07-26T17:34:25Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 109.111,
+ "samplerate": 48000.0,
+ "username": "timsc",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/317/317452_266678-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/317/317452_266678-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/317/317452_266678-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/317/317452_266678-lq.ogg"
+ },
+ "num_downloads": 156,
+ "avg_rating": 5.0,
+ "num_ratings": 1
+}

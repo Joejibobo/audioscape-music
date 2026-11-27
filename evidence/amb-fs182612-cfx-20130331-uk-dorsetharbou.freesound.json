@@ -1,0 +1,27 @@
+{
+ "id": 182612,
+ "url": "https://freesound.org/people/Carlvus/sounds/182612/",
+ "name": "CFX-20130331-UK-DorsetHarbour02.wav",
+ "tags": [
+  "Ambience",
+  "Harbour",
+  "Small"
+ ],
+ "description": "Small Harbour Ambience",
+ "geotag": null,
+ "created": "2013-03-31T22:33:09Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 161.448,
+ "samplerate": 96000.0,
+ "username": "Carlvus",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/182/182612_3244946-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/182/182612_3244946-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/182/182612_3244946-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/182/182612_3244946-lq.ogg"
+ },
+ "num_downloads": 606,
+ "avg_rating": 4.8,
+ "num_ratings": 5
+}

@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2020-12-14T03:42:43Z",
+ "description": "frogs / grenouilles\nNight recording near a pond\nCormatin, Bourgogne, France\nDecoded MS - Sennheiser mkh30/50",
+ "duration": 241.0,
+ "geotag": "46.5365467256 4.68624930149",
+ "id": 547899,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "grenouilles.WAV",
+ "num_downloads": 106,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/547/547899_7529214-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/547/547899_7529214-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/547/547899_7529214-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/547/547899_7529214-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "field-recording",
+  "frogs",
+  "grenouilles",
+  "mare",
+  "nature",
+  "night",
+  "pond"
+ ],
+ "url": "https://freesound.org/people/nicotep/sounds/547899/",
+ "username": "nicotep"
+}

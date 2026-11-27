@@ -1,0 +1,29 @@
+{
+ "id": 233434,
+ "url": "https://freesound.org/people/Rocktopus/sounds/233434/",
+ "name": "rain1.wav",
+ "tags": [
+  "camping",
+  "rain",
+  "storm",
+  "water",
+  "weather"
+ ],
+ "description": "Trapped in the tent during some inclement weather. Lots of changes in rain intensity / drop size.",
+ "geotag": null,
+ "created": "2014-04-13T20:07:41Z",
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "channels": 2,
+ "duration": 322.0,
+ "samplerate": 48000.0,
+ "username": "Rocktopus",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/233/233434_40561-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/233/233434_40561-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/233/233434_40561-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/233/233434_40561-lq.ogg"
+ },
+ "num_downloads": 1007,
+ "avg_rating": 4.111111111111111,
+ "num_ratings": 18
+}

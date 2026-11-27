@@ -1,0 +1,37 @@
+{
+ "avg_rating": 0.0,
+ "channels": 1,
+ "created": "2021-11-29T02:58:24Z",
+ "description": "recorded on iPhone 12 at Boston Ballet Nutrcracker 2021 at end of grand finale",
+ "duration": 153.309,
+ "geotag": null,
+ "id": 609824,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Applause 1.wav",
+ "num_downloads": 89,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/609/609824_2397507-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/609/609824_2397507-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/609/609824_2397507-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/609/609824_2397507-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "applaud",
+  "applauding",
+  "applause",
+  "audience",
+  "auditorium",
+  "ballet",
+  "cheering",
+  "clap",
+  "clapping",
+  "claps",
+  "crowd",
+  "hand-clapping",
+  "theatre"
+ ],
+ "url": "https://freesound.org/people/itinerantmonk108/sounds/609824/",
+ "username": "itinerantmonk108"
+}

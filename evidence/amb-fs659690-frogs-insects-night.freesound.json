@@ -1,0 +1,36 @@
+{
+ "avg_rating": 5.0,
+ "channels": 4,
+ "created": "2022-11-16T20:03:33Z",
+ "description": "Recorded at night on the riverbank without humans, lots of insects and amphibians. Recorded in Ambisonics A format.\nEste projeto foi contemplado pelo PROGRAMA CULTURA CRIATIVA – 2021 – PRÊMIO AMAZONAS CRIATIVO.",
+ "duration": 278.023,
+ "geotag": "-3.43016936672 -59.2052640825",
+ "id": 659690,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "frogs_insects_night.WAV",
+ "num_downloads": 227,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/659/659690_14090125-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/659/659690_14090125-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/659/659690_14090125-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/659/659690_14090125-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "amazon",
+  "ambience",
+  "ambient",
+  "ambisonics",
+  "atmos",
+  "atmosphere",
+  "binaural",
+  "field-recording",
+  "frogs",
+  "insects",
+  "night",
+  "rainforest"
+ ],
+ "url": "https://freesound.org/people/WilliamDauricio/sounds/659690/",
+ "username": "WilliamDauricio"
+}

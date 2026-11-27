@@ -1,0 +1,30 @@
+{
+ "id": 132473,
+ "url": "https://freesound.org/people/inchadney/sounds/132473/",
+ "name": "harbour.WAV",
+ "tags": [
+  "field-recording",
+  "harbour",
+  "netherlands",
+  "sea",
+  "seagulls",
+  "ships"
+ ],
+ "description": "A pretty uneventfull recording of sounds in a harbour in the Netherlands. Sony PCM-D50 and EM172 microphones.",
+ "geotag": "52.46365472665617 4.589661955833435",
+ "created": "2011-10-28T18:40:52Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 254.677,
+ "samplerate": 48000.0,
+ "username": "inchadney",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/132/132473_28867-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/132/132473_28867-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/132/132473_28867-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/132/132473_28867-lq.ogg"
+ },
+ "num_downloads": 1524,
+ "avg_rating": 4.666666666666667,
+ "num_ratings": 18
+}

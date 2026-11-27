@@ -1,0 +1,30 @@
+{
+ "id": 529868,
+ "url": "https://freesound.org/people/jymmyz/sounds/529868/",
+ "name": "ran_on_tarp_and_tent_01.wav",
+ "tags": [
+  "field-recording",
+  "nature",
+  "rain",
+  "storm",
+  "water",
+  "weather"
+ ],
+ "description": "Recorded on Zoom H4n inside a tent and underneath a nylon tarp during a heavy rain fall. It starts off light, and gets heavy around the 4min mark.",
+ "geotag": "44.7649762905 -77.8876769054",
+ "created": "2020-08-05T01:16:18Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 362.915,
+ "samplerate": 48000.0,
+ "username": "jymmyz",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/529/529868_6801897-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/529/529868_6801897-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/529/529868_6801897-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/529/529868_6801897-lq.ogg"
+ },
+ "num_downloads": 187,
+ "avg_rating": 4.0,
+ "num_ratings": 2
+}

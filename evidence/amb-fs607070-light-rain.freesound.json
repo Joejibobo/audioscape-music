@@ -1,0 +1,32 @@
+{
+ "id": 607070,
+ "url": "https://freesound.org/people/morsine/sounds/607070/",
+ "name": "Light rain",
+ "tags": [
+  "Rain",
+  "field",
+  "iran",
+  "light",
+  "rain",
+  "rainy",
+  "sound",
+  "tehran"
+ ],
+ "description": "Light rain, recorded in Tehran, Iran. 2018.",
+ "geotag": null,
+ "created": "2021-11-04T11:47:22Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 86.7668,
+ "samplerate": 44100.0,
+ "username": "morsine",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/607/607070_11586060-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/607/607070_11586060-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/607/607070_11586060-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/607/607070_11586060-lq.ogg"
+ },
+ "num_downloads": 8170,
+ "avg_rating": 4.285714285714286,
+ "num_ratings": 77
+}

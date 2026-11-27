@@ -1,0 +1,41 @@
+{
+ "id": 458630,
+ "url": "https://freesound.org/people/leonseptavaux/sounds/458630/",
+ "name": "frozen_stream_stereo_2.wav",
+ "tags": [
+  "cold",
+  "drop",
+  "field-recording",
+  "frozen",
+  "glacier",
+  "ice",
+  "melt",
+  "melt-water",
+  "melting",
+  "mountain",
+  "nature",
+  "river",
+  "snow",
+  "stream",
+  "water",
+  "waterfall",
+  "winter"
+ ],
+ "description": "frozen stream recorded with PCM D-100",
+ "geotag": null,
+ "created": "2019-02-06T15:52:50Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 107.856,
+ "samplerate": 96000.0,
+ "username": "leonseptavaux",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/458/458630_6295857-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/458/458630_6295857-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/458/458630_6295857-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/458/458630_6295857-lq.ogg"
+ },
+ "num_downloads": 160,
+ "avg_rating": 4.6,
+ "num_ratings": 5
+}

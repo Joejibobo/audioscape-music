@@ -1,0 +1,34 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2026-02-23T18:05:40Z",
+ "description": "An actual blizzard that took place on Monday, February 23, 2026. Recorded from the second floor window of a home on Chebeague Island, Maine, with the X-Y mic of a Zoom H4n pointing in a northerly direction.\n\nPlease credit Eric Norcross for this recording. Thanks!",
+ "duration": 86.7972,
+ "geotag": "43.73582 -70.119966",
+ "id": 846232,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Nor'easter 2",
+ "num_downloads": 14,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/846/846232_6970469-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/846/846232_6970469-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/846/846232_6970469-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/846/846232_6970469-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "blizzard",
+  "gale",
+  "gust",
+  "noreaster",
+  "snow",
+  "storm",
+  "weather",
+  "wind",
+  "windy",
+  "winter"
+ ],
+ "url": "https://freesound.org/people/ericnorcross81/sounds/846232/",
+ "username": "ericnorcross81"
+}

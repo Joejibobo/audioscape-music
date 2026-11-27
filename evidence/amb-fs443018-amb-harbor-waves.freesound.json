@@ -1,0 +1,32 @@
+{
+ "id": 443018,
+ "url": "https://freesound.org/people/cribbler/sounds/443018/",
+ "name": "AMB_Harbor_Waves.wav",
+ "tags": [
+  "beach",
+  "boats",
+  "dock",
+  "harbor",
+  "ocean",
+  "shore",
+  "water",
+  "waves"
+ ],
+ "description": "Recording on the beach in the middle of the night...",
+ "geotag": "57.1149226503 12.2114442996",
+ "created": "2018-10-14T13:07:53Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 136.192,
+ "samplerate": 96000.0,
+ "username": "cribbler",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/443/443018_3728489-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/443/443018_3728489-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/443/443018_3728489-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/443/443018_3728489-lq.ogg"
+ },
+ "num_downloads": 1753,
+ "avg_rating": 4.5625,
+ "num_ratings": 16
+}

@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.20945945945946,
+ "channels": 2,
+ "created": "2007-09-07T15:35:47Z",
+ "description": "A campfire recorded with two stereo omni's spaced a foot apart in beautiful Vermont. Recordings are uncompressed 24bit, 48khz, straight out of the deck ready for you to process.",
+ "duration": 236.203,
+ "geotag": "43.3799435119 -72.4972987175",
+ "id": 40699,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "campfire.wav",
+ "num_downloads": 7375,
+ "num_ratings": 148,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/40/40699_25133-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/40/40699_25133-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/40/40699_25133-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/40/40699_25133-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambiance",
+  "campfire",
+  "crackle",
+  "crackling",
+  "field-recording",
+  "fire",
+  "natural",
+  "stereo"
+ ],
+ "url": "https://freesound.org/people/Spandau/sounds/40699/",
+ "username": "Spandau"
+}

@@ -1,0 +1,33 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2012-12-03T15:42:04Z",
+ "description": "The library at Dutch university TU Delft. Recorded close to a staircase in front of the entrance door. Footsteps, dutch voices, beeps and door sounds. Recorded with a Zoom H2 (front mikes).\r\nLocation pics:\r\n<a href=\"http://flic.kr/p/dwzGFh\" rel=\"nofollow\">http://flic.kr/p/dwzGFh</a>\r\n<a href=\"http://flic.kr/p/dwzHWh\" rel=\"nofollow\">http://flic.kr/p/dwzHWh</a>",
+ "duration": 222.863,
+ "geotag": "52.002717004 4.37571287155",
+ "id": 171005,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "20121112 TU Delft Library, stairs - ambience in front of entrance door.wav",
+ "num_downloads": 151,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/171/171005_3145017-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/171/171005_3145017-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/171/171005_3145017-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/171/171005_3145017-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "big-space",
+  "field-recording",
+  "library",
+  "netherlands",
+  "neutral",
+  "public-building",
+  "university",
+  "zoom-h2"
+ ],
+ "url": "https://freesound.org/people/el_mar/sounds/171005/",
+ "username": "el_mar"
+}

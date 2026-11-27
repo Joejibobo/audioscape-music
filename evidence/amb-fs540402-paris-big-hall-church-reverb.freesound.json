@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.0,
+ "channels": 2,
+ "created": "2020-10-20T07:37:33Z",
+ "description": "Paris big Church Hall tone, reverb ambience distant walla edlarez",
+ "duration": 186.48,
+ "geotag": null,
+ "id": 540402,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Paris big hall church reverb ambience 3.wav",
+ "num_downloads": 161,
+ "num_ratings": 2,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/540/540402_10869493-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/540/540402_10869493-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/540/540402_10869493-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/540/540402_10869493-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Big-reverb",
+  "Cathedral",
+  "Church",
+  "Church-Hall-Ambience",
+  "Natural",
+  "Reverb",
+  "far",
+  "walla"
+ ],
+ "url": "https://freesound.org/people/visionear/sounds/540402/",
+ "username": "visionear"
+}

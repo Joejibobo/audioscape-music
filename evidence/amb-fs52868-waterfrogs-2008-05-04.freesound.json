@@ -1,0 +1,31 @@
+{
+ "id": 52868,
+ "url": "https://freesound.org/people/reinsamba/sounds/52868/",
+ "name": "waterfrogs_2008_05_04.wav",
+ "tags": [
+  "croak",
+  "frogs",
+  "lake",
+  "mating",
+  "pond",
+  "quack",
+  "water"
+ ],
+ "description": "Croaking and quacking of thousands of waterfrogs during mating season at night fall in the beginning of May in a big pond near Cologne, Western Germany. Vivanco EM35 on parabolic dish with preamp into Marantz PMD 671.",
+ "geotag": "51.0480355543 6.85687556863",
+ "created": "2008-05-05T20:42:03Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 94.2288,
+ "samplerate": 44100.0,
+ "username": "reinsamba",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/52/52868_18799-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/52/52868_18799-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/52/52868_18799-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/52/52868_18799-lq.ogg"
+ },
+ "num_downloads": 890,
+ "avg_rating": 4.666666666666667,
+ "num_ratings": 24
+}

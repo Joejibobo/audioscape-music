@@ -1,0 +1,31 @@
+{
+ "id": 693482,
+ "url": "https://freesound.org/people/JakobGille/sounds/693482/",
+ "name": "WATRFall_Near Small Waterfall-Close 01_GILLE_GRAZ_ZoomH3_AFormat.wav",
+ "tags": [
+  "A-Format",
+  "Ambience",
+  "Ambisonics",
+  "Field",
+  "Recording",
+  "river",
+  "waterfall"
+ ],
+ "description": "Ambisonics 4 Channel A-Format recording of a small river with waterfall.",
+ "geotag": "47.104176 15.489103",
+ "created": "2023-07-03T12:59:24Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 4,
+ "duration": 203.963,
+ "samplerate": 44100.0,
+ "username": "JakobGille",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/693/693482_4037248-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/693/693482_4037248-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/693/693482_4037248-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/693/693482_4037248-lq.ogg"
+ },
+ "num_downloads": 41,
+ "avg_rating": 4.666666666666667,
+ "num_ratings": 3
+}

@@ -1,0 +1,36 @@
+{
+ "id": 204237,
+ "url": "https://freesound.org/people/timsc/sounds/204237/",
+ "name": "Wind in the Trees, Storm 1",
+ "tags": [
+  "bleak",
+  "field-recording",
+  "gale",
+  "gusts",
+  "leaves",
+  "nature",
+  "psithurism",
+  "rain",
+  "storm",
+  "trees",
+  "weather",
+  "wind"
+ ],
+ "description": "Recording of wind and rain in a storm in south UK, 28th Oct 2013. Wind can be heard blowing through nearby woods and leaves rustling. Dripping of rain from the eves of the house. Mostly white noise hissing with volume rising and falling. Recorded using a Canon D550 out the window/door. The files were edited to remove wind when it directly blows on the microphone.",
+ "geotag": "51.24343506423872 -0.605621337890625",
+ "created": "2013-10-28T05:21:50Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 436.575,
+ "samplerate": 48000.0,
+ "username": "timsc",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/204/204237_266678-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/204/204237_266678-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/204/204237_266678-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/204/204237_266678-lq.ogg"
+ },
+ "num_downloads": 674,
+ "avg_rating": 3.6666666666666665,
+ "num_ratings": 6
+}

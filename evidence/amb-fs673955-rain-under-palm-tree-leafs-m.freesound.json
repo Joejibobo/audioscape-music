@@ -1,0 +1,41 @@
+{
+ "id": 673955,
+ "url": "https://freesound.org/people/felix.blume/sounds/673955/",
+ "name": "Rain under palm tree leafs, microphone close to the drops, forest, foliage in Amazon rainforest",
+ "tags": [
+  "Amazon",
+  "Blume",
+  "Felix",
+  "Felixblume",
+  "Venezuela",
+  "close",
+  "drops",
+  "field-recording",
+  "foliage",
+  "forest",
+  "leafs",
+  "microphone",
+  "palm",
+  "rain",
+  "rainforest",
+  "tree",
+  "under"
+ ],
+ "description": "Rain under palm tree leafs, microphone close to the drops, forest, foliage recorded in Amazon rainforest\n\nSound recorded with a MS setup Sennheiser Microphone MKH50+MKH30\nSound Devices 302 mixer + Sound Devices 744T recorder\nMS is encoded in STEREO Left-Right\nOriginal recording in Wave, 48kHz, 24bit\nSound Ref: @VNZ101206T033",
+ "geotag": null,
+ "created": "2023-02-09T23:41:19Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 73.2659,
+ "samplerate": 48000.0,
+ "username": "felix.blume",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/673/673955_1661766-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/673/673955_1661766-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/673/673955_1661766-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/673/673955_1661766-lq.ogg"
+ },
+ "num_downloads": 289,
+ "avg_rating": 5.0,
+ "num_ratings": 11
+}

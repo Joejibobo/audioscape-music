@@ -1,0 +1,37 @@
+{
+ "id": 243969,
+ "url": "https://freesound.org/people/Metzik/sounds/243969/",
+ "name": "Rain on plastic roof.wav",
+ "tags": [
+  "drip",
+  "dripping",
+  "drips",
+  "drops",
+  "home-recording",
+  "nature",
+  "outside",
+  "plastic",
+  "rain",
+  "raindrops",
+  "roof",
+  "water",
+  "weather"
+ ],
+ "description": "Recorded rain falling on a plastic roof over a terrace with a Zoom H2. Includes drips and drops. Normalized and with 5ms fade in and fade out.",
+ "geotag": "56.1698736557833 13.779384791851044",
+ "created": "2014-08-01T09:46:43Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 195.806,
+ "samplerate": 96000.0,
+ "username": "Metzik",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/243/243969_2758720-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/243/243969_2758720-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/243/243969_2758720-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/243/243969_2758720-lq.ogg"
+ },
+ "num_downloads": 405,
+ "avg_rating": 4.75,
+ "num_ratings": 4
+}

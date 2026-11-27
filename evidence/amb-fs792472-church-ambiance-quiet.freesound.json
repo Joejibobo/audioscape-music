@@ -1,0 +1,35 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2025-03-14T16:05:14Z",
+ "description": "Generic indoor sound of a large church. Add a church reverb to make it even bigger. Some muffled human sounds. X/Y stereo recording w/ Zoom h4n.",
+ "duration": 65.3086,
+ "geotag": "52.381108 4.637364",
+ "id": 792472,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Church ambiance, quiet",
+ "num_downloads": 156,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/792/792472_123355-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/792/792472_123355-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/792/792472_123355-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/792/792472_123355-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "atmos",
+  "atmosphere",
+  "background",
+  "church",
+  "general-noise",
+  "indoor",
+  "roomtone",
+  "soundscape",
+  "worship"
+ ],
+ "url": "https://freesound.org/people/hz37/sounds/792472/",
+ "username": "hz37"
+}

@@ -1,0 +1,43 @@
+{
+ "avg_rating": 4.1,
+ "channels": 2,
+ "created": "2017-07-08T14:43:51Z",
+ "description": "Calm fishing in a fjord with seagulls all around",
+ "duration": 187.264,
+ "geotag": "66.1863072799 13.6082839966",
+ "id": 397201,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "fishing and seagulls.mp3",
+ "num_downloads": 1777,
+ "num_ratings": 20,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/397/397201_4515510-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/397/397201_4515510-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/397/397201_4515510-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/397/397201_4515510-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "beach",
+  "boat",
+  "coast",
+  "coastal",
+  "field-recording",
+  "fishing",
+  "gulls",
+  "lapping",
+  "nature",
+  "ocean",
+  "sea",
+  "seagulls",
+  "seaside",
+  "shore",
+  "splash",
+  "summer",
+  "surf",
+  "water",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/1ratatosk1/sounds/397201/",
+ "username": "1ratatosk1"
+}

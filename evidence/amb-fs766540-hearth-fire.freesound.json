@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.4,
+ "channels": 2,
+ "created": "2024-11-09T06:18:53Z",
+ "description": "A campfire sound effect I created for a project.\n\n---\n\nI'm grateful to the following people who provided quality audio to make this: \n\n\"Campfire 02\" by HECKFRICKER\n<a href=\"https://freesound.org/people/HECKFRICKER/sounds/729396/\" rel=\"nofollow\">https://freesound.org/people/HECKFRICKER/sounds/729396/</a>\n\n\"campfire.wav\" by Spandau\n<a href=\"https://freesound.org/people/Spandau/sounds/40699/\" rel=\"nofollow\">https://freesound.org/people/Spandau/sounds/40699/</a>",
+ "duration": 80.0,
+ "geotag": null,
+ "id": 766540,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Hearth Fire",
+ "num_downloads": 288,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/766/766540_7395592-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/766/766540_7395592-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/766/766540_7395592-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/766/766540_7395592-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "burning",
+  "burning-kindling",
+  "burning-wood",
+  "campfire",
+  "fireplace",
+  "flames",
+  "gentle-fire",
+  "hearth-fire",
+  "small-fire"
+ ],
+ "url": "https://freesound.org/people/SilverIllusionist/sounds/766540/",
+ "username": "SilverIllusionist"
+}

@@ -1,0 +1,28 @@
+{
+ "id": 782332,
+ "url": "https://freesound.org/people/Trashcan_Studios/sounds/782332/",
+ "name": "008 - Rain on Sidewalk, Very Distant Thunder",
+ "tags": [
+  "Field-Recording",
+  "Foley",
+  "Rain",
+  "Thunder"
+ ],
+ "description": "Rain on sidewalk, distant thunder. Recorded outdoors at 48000 Hz Stereo WAV file.",
+ "geotag": null,
+ "created": "2024-12-30T00:14:25Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 80.14,
+ "samplerate": 48000.0,
+ "username": "Trashcan_Studios",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/782/782332_12973965-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/782/782332_12973965-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/782/782332_12973965-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/782/782332_12973965-lq.ogg"
+ },
+ "num_downloads": 140,
+ "avg_rating": 5.0,
+ "num_ratings": 4
+}

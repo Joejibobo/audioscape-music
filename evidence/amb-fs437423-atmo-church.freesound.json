@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.8,
+ "channels": 2,
+ "created": "2018-08-22T11:47:20Z",
+ "description": "An atmosphere I recorded in a church in Budapest. Recorded with a zoom H4n and completely unprocessed.",
+ "duration": 123.404,
+ "geotag": null,
+ "id": 437423,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "atmo_church.wav",
+ "num_downloads": 459,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/437/437423_7578377-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/437/437423_7578377-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/437/437423_7578377-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/437/437423_7578377-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "atmosphere",
+  "church",
+  "field-recording",
+  "h4n",
+  "stereo",
+  "unprocessed"
+ ],
+ "url": "https://freesound.org/people/Manuskinuski/sounds/437423/",
+ "username": "Manuskinuski"
+}

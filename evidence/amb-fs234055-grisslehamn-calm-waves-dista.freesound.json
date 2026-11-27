@@ -1,0 +1,36 @@
+{
+ "id": 234055,
+ "url": "https://freesound.org/people/Owl/sounds/234055/",
+ "name": "Grisslehamn Calm waves distant gulls.wav",
+ "tags": [
+  "ambience",
+  "calm",
+  "fieldrecording",
+  "gulls",
+  "meditative",
+  "nature",
+  "relaxing",
+  "sea",
+  "seabirds",
+  "seagulls",
+  "water",
+  "waves"
+ ],
+ "description": "Recorded in Grisslehamn, Sweden, summer 2012 w a Zoom H1.",
+ "geotag": null,
+ "created": "2014-04-18T05:57:52Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 95.0,
+ "samplerate": 44100.0,
+ "username": "Owl",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/234/234055_116691-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/234/234055_116691-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/234/234055_116691-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/234/234055_116691-lq.ogg"
+ },
+ "num_downloads": 3880,
+ "avg_rating": 4.46875,
+ "num_ratings": 32
+}

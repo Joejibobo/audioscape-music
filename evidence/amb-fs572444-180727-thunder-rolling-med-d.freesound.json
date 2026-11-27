@@ -1,0 +1,27 @@
+{
+ "id": 572444,
+ "url": "https://freesound.org/people/TRP/sounds/572444/",
+ "name": "180727 Thunder, rolling med distant constant, light rain wash STRATFORD.flac",
+ "tags": [
+  "rain",
+  "rolling",
+  "thunder"
+ ],
+ "description": "Extended distant thunder rolls with light rain. Stereo spaced EM172s.",
+ "geotag": null,
+ "created": "2021-05-23T14:39:59Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 268.149,
+ "samplerate": 48000.0,
+ "username": "TRP",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/572/572444_97550-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/572/572444_97550-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/572/572444_97550-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/572/572444_97550-lq.ogg"
+ },
+ "num_downloads": 186,
+ "avg_rating": 4.444444444444445,
+ "num_ratings": 9
+}

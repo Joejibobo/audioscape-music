@@ -1,0 +1,27 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2021-03-29T19:11:39Z",
+ "description": "I'm working on a new sleep video and this is a mix I created in audacity of an underground lake.",
+ "duration": 112.396,
+ "geotag": null,
+ "id": 565233,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "CaveLakeAmbience.mp3",
+ "num_downloads": 180,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/565/565233_12186594-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/565/565233_12186594-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/565/565233_12186594-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/565/565233_12186594-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "cave",
+  "lake",
+  "water"
+ ],
+ "url": "https://freesound.org/people/blackatomproductions/sounds/565233/",
+ "username": "blackatomproductions"
+}

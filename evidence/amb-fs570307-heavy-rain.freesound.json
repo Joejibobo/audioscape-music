@@ -1,0 +1,29 @@
+{
+ "id": 570307,
+ "url": "https://freesound.org/people/yaanick/sounds/570307/",
+ "name": "heavy rain.wav",
+ "tags": [
+  "downpour",
+  "nature",
+  "rain",
+  "storm",
+  "weather"
+ ],
+ "description": "rain pouring down, recorded in my yard.",
+ "geotag": null,
+ "created": "2021-05-04T02:08:55Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 142.08,
+ "samplerate": 44100.0,
+ "username": "yaanick",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/570/570307_11901208-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/570/570307_11901208-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/570/570307_11901208-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/570/570307_11901208-lq.ogg"
+ },
+ "num_downloads": 145,
+ "avg_rating": 5.0,
+ "num_ratings": 3
+}

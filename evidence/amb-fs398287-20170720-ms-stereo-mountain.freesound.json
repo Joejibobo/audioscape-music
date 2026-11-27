@@ -1,0 +1,32 @@
+{
+ "id": 398287,
+ "url": "https://freesound.org/people/chromakei/sounds/398287/",
+ "name": "20170720 MS-Stereo- mountain thunderstorm 2",
+ "tags": [
+  "MS-Stereo",
+  "ambiance",
+  "field-recording",
+  "mid-side",
+  "natural",
+  "nature",
+  "stereo",
+  "thunderstorm"
+ ],
+ "description": "Wind in Aspen tree leaves, light rain becomes moderate, thunder far and close.\r\n\r\nAKG Perception 220 (mid)\r\nAKG Perception 400 (side)\r\nSound Devices MixPre-6, 24bit/96KHz\r\npostprocessing: compression, normalization, FLAC compression",
+ "geotag": "39.58042257928022 -105.40231704711914",
+ "created": "2017-07-27T04:27:51Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 300.871,
+ "samplerate": 96000.0,
+ "username": "chromakei",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/398/398287_7553603-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/398/398287_7553603-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/398/398287_7553603-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/398/398287_7553603-lq.ogg"
+ },
+ "num_downloads": 541,
+ "avg_rating": 4.95,
+ "num_ratings": 20
+}

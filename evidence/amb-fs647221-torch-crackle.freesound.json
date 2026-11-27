@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 1,
+ "created": "2022-08-16T21:46:52Z",
+ "description": "Recording torch for fantasy film",
+ "duration": 135.986,
+ "geotag": null,
+ "id": 647221,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Torch Crackle.wav",
+ "num_downloads": 1135,
+ "num_ratings": 24,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/647/647221_2612143-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/647/647221_2612143-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/647/647221_2612143-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/647/647221_2612143-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "Medieval",
+  "Torch",
+  "fantasy",
+  "flame"
+ ],
+ "url": "https://freesound.org/people/kentnelson64/sounds/647221/",
+ "username": "kentnelson64"
+}

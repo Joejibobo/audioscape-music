@@ -1,0 +1,28 @@
+{
+ "id": 545639,
+ "url": "https://freesound.org/people/not_yr/sounds/545639/",
+ "name": "Fireplace - close.wav",
+ "tags": [
+  "burning",
+  "fire",
+  "fireplace",
+  "flames"
+ ],
+ "description": "Small domestic fireplace recorded about 30cm away from the flames with occasional wood crackles.",
+ "geotag": null,
+ "created": "2020-11-20T10:53:54Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 121.479,
+ "samplerate": 48000.0,
+ "username": "not_yr",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/545/545639_8154780-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/545/545639_8154780-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/545/545639_8154780-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/545/545639_8154780-lq.ogg"
+ },
+ "num_downloads": 381,
+ "avg_rating": 4.6923076923076925,
+ "num_ratings": 13
+}

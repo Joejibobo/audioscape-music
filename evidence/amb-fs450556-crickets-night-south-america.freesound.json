@@ -1,0 +1,30 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2018-12-05T15:31:26Z",
+ "description": "crickets night south america and distant interior voices",
+ "duration": 126.46,
+ "geotag": null,
+ "id": 450556,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "crickets night south america and distant interior voices.flac",
+ "num_downloads": 144,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/450/450556_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/450/450556_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/450/450556_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/450/450556_612689-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "america",
+  "colombia",
+  "crickets",
+  "night",
+  "residential",
+  "south"
+ ],
+ "url": "https://freesound.org/people/kyles/sounds/450556/",
+ "username": "kyles"
+}

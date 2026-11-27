@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.694915254237288,
+ "channels": 2,
+ "created": "2020-09-22T20:42:51Z",
+ "description": "heavy rain  + thunder in the city at the window\nrecorded with zoom H2n XY mic",
+ "duration": 155.165,
+ "geotag": null,
+ "id": 536262,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "rain+thunder.wav",
+ "num_downloads": 1496,
+ "num_ratings": 59,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/536/536262_10268401-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/536/536262_10268401-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/536/536262_10268401-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/536/536262_10268401-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "field-recording",
+  "lightning",
+  "rain",
+  "rainstorm",
+  "storm",
+  "thunder",
+  "thunderstorm",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/allistersandwich/sounds/536262/",
+ "username": "allistersandwich"
+}

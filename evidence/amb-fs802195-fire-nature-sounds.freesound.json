@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.411764705882353,
+ "channels": 2,
+ "created": "2025-04-27T12:57:04Z",
+ "description": "This soundscape captures 4 minutes of the ambiance of a campfire at night with crackling of the wood burning and nature sounds in the background.\n\nThis sound is licensed with a Creative Commons 0 and can be used however you want.",
+ "duration": 247.147,
+ "geotag": null,
+ "id": 802195,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Fire-Nature Sounds",
+ "num_downloads": 251,
+ "num_ratings": 17,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/802/802195_17223245-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/802/802195_17223245-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/802/802195_17223245-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/802/802195_17223245-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Campfire",
+  "Fire",
+  "Nature",
+  "Outdoors",
+  "Peaceful"
+ ],
+ "url": "https://freesound.org/people/MamickaBeeGames/sounds/802195/",
+ "username": "MamickaBeeGames"
+}

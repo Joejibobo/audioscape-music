@@ -1,0 +1,31 @@
+{
+ "id": 102172,
+ "url": "https://freesound.org/people/LeviDT/sounds/102172/",
+ "name": "Rain on tin shed roof.wav",
+ "tags": [
+  "drip",
+  "heavy",
+  "rain",
+  "roof",
+  "shed",
+  "tin",
+  "water"
+ ],
+ "description": "Rain falling on small tin roof, recorded with R-09HR, recorded at 24bit 96000hz downsampled and normalized with Audition.",
+ "geotag": null,
+ "created": "2010-07-28T16:32:29Z",
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "channels": 2,
+ "duration": 240.0,
+ "samplerate": 44100.0,
+ "username": "LeviDT",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/102/102172_1691222-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/102/102172_1691222-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/102/102172_1691222-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/102/102172_1691222-lq.ogg"
+ },
+ "num_downloads": 756,
+ "avg_rating": 4.3125,
+ "num_ratings": 8
+}

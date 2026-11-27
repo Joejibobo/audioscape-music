@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.857142857142857,
+ "channels": 2,
+ "created": "2021-04-14T01:17:48Z",
+ "description": "Capturing the moments of rain starting, becoming heavy and becoming light. Roof. Stereo EM172s",
+ "duration": 459.196,
+ "geotag": null,
+ "id": 567940,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "200804 Rain, starts gets heavy stops, roof 7pm.flac",
+ "num_downloads": 673,
+ "num_ratings": 21,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/567/567940_97550-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/567/567940_97550-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/567/567940_97550-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/567/567940_97550-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "heavy",
+  "light",
+  "rain",
+  "starts",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/TRP/sounds/567940/",
+ "username": "TRP"
+}

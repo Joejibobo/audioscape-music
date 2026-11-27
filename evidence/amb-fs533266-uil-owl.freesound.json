@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.75,
+ "channels": 2,
+ "created": "2020-08-31T12:00:27Z",
+ "description": "recording from a owl at night at the Zonienforest belgium summer 2020",
+ "duration": 118.318,
+ "geotag": "50.761162942 4.38718629891",
+ "id": 533266,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "uil_owl.wav",
+ "num_downloads": 462,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/533/533266_11781420-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/533/533266_11781420-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/533/533266_11781420-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/533/533266_11781420-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "belgium",
+  "bird",
+  "birds",
+  "field-recording",
+  "forest",
+  "nature",
+  "night",
+  "owls"
+ ],
+ "url": "https://freesound.org/people/tinering/sounds/533266/",
+ "username": "tinering"
+}

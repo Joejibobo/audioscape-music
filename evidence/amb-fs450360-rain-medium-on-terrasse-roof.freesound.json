@@ -1,0 +1,27 @@
+{
+ "id": 450360,
+ "url": "https://freesound.org/people/kyles/sounds/450360/",
+ "name": "rain medium on terrasse roof.flac",
+ "tags": [
+  "medium",
+  "rain",
+  "roof"
+ ],
+ "description": "rain medium on terrasse roof",
+ "geotag": null,
+ "created": "2018-12-05T02:29:47Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 96.0543,
+ "samplerate": 48000.0,
+ "username": "kyles",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/450/450360_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/450/450360_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/450/450360_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/450/450360_612689-lq.ogg"
+ },
+ "num_downloads": 787,
+ "avg_rating": 4.947368421052632,
+ "num_ratings": 19
+}

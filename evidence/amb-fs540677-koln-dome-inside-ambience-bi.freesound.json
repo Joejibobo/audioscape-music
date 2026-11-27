@@ -1,0 +1,34 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2020-10-21T21:19:06Z",
+ "description": "Koln Dome Inside Ambience big space verb edlarez",
+ "duration": 120.84,
+ "geotag": null,
+ "id": 540677,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Koln Dome Inside Ambience big space verb.wav",
+ "num_downloads": 167,
+ "num_ratings": 2,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/540/540677_10869493-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/540/540677_10869493-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/540/540677_10869493-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/540/540677_10869493-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Koln",
+  "ambience",
+  "big-space",
+  "church",
+  "dome",
+  "hall",
+  "inside",
+  "reverb",
+  "reverberation",
+  "walla"
+ ],
+ "url": "https://freesound.org/people/visionear/sounds/540677/",
+ "username": "visionear"
+}

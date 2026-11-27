@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.113636363636363,
+ "channels": 2,
+ "created": "2006-11-24T10:41:07Z",
+ "description": "More heavy rain.",
+ "duration": 105.598,
+ "geotag": null,
+ "id": 26222,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "medium heavey rain.wav",
+ "num_downloads": 756,
+ "num_ratings": 22,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/26/26222_48671-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/26/26222_48671-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/26/26222_48671-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/26/26222_48671-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "downpour",
+  "precipitation",
+  "rain",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/Walter_Odington/sounds/26222/",
+ "username": "Walter_Odington"
+}

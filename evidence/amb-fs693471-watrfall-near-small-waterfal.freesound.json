@@ -1,0 +1,31 @@
+{
+ "id": 693471,
+ "url": "https://freesound.org/people/JakobGille/sounds/693471/",
+ "name": "WATRFall_Near Small Waterfall-Close 02_GILLE_GRAZ_ZoomH3_Binaural1o.wav",
+ "tags": [
+  "Ambience",
+  "Ambisonics",
+  "Binaural",
+  "Field",
+  "Recording",
+  "river",
+  "waterfall"
+ ],
+ "description": "Small river with waterfall. Ambisonics recordings with Zylia ZM-1 and Zoom H3 VR converted to binaural. 44 kHz, 32 Bit.",
+ "geotag": "47.073229 15.441957",
+ "created": "2023-07-03T12:18:45Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 152.725,
+ "samplerate": 44100.0,
+ "username": "JakobGille",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/693/693471_4037248-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/693/693471_4037248-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/693/693471_4037248-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/693/693471_4037248-lq.ogg"
+ },
+ "num_downloads": 51,
+ "avg_rating": 5.0,
+ "num_ratings": 1
+}

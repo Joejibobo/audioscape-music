@@ -1,0 +1,26 @@
+{
+ "avg_rating": 4.722222222222222,
+ "channels": 2,
+ "created": "2009-08-08T18:57:02Z",
+ "description": "Dualstereo recording of Seagulls and waves with an H4 panning left towards the birds and a R09HR panning right at the waves.Mixed with a slight delay to the R.channel,which seemed to improve the phasing problem a little? Can be looped.",
+ "duration": 109.598,
+ "geotag": null,
+ "id": 77075,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Dawnseagulls.....waves.....aug09.wav",
+ "num_downloads": 1537,
+ "num_ratings": 27,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/77/77075_649468-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/77/77075_649468-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/77/77075_649468-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/77/77075_649468-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "seagulls",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/juskiddink/sounds/77075/",
+ "username": "juskiddink"
+}

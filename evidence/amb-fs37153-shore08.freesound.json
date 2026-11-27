@@ -1,0 +1,31 @@
+{
+ "id": 37153,
+ "url": "https://freesound.org/people/volivieri/sounds/37153/",
+ "name": "shore08.aiff",
+ "tags": [
+  "beach",
+  "ocean",
+  "pacific",
+  "rocks",
+  "shore",
+  "surf",
+  "waves"
+ ],
+ "description": "Ruby Beach on the Pacific Ocean, Olympic National Park, 20 August 2005, 8:10pm, standing on a rock 10ft into the water, 150yards from the woods, waves crashing on the rock",
+ "geotag": "47.7061228941 -124.415960312",
+ "created": "2007-07-08T17:05:47Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 126.502,
+ "samplerate": 44100.0,
+ "username": "volivieri",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/37/37153_374422-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/37/37153_374422-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/37/37153_374422-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/37/37153_374422-lq.ogg"
+ },
+ "num_downloads": 2396,
+ "avg_rating": 4.191666666666666,
+ "num_ratings": 60
+}

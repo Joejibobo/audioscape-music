@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.285714285714286,
+ "channels": 1,
+ "created": "2018-08-26T22:36:09Z",
+ "description": "Same as \"Winter Wind\" sound effect. Winter wind as if hearing a snow storm from interior. Steady block of and continuous muffled whistling wind with some clipping. Not much low-end.",
+ "duration": 70.7526,
+ "geotag": null,
+ "id": 438879,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "G56-24-Winter Wind 2.wav",
+ "num_downloads": 330,
+ "num_ratings": 7,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/438/438879_2524442-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/438/438879_2524442-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/438/438879_2524442-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/438/438879_2524442-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Nature",
+  "Optical",
+  "Vintage",
+  "Wind"
+ ],
+ "url": "https://freesound.org/people/craigsmith/sounds/438879/",
+ "username": "craigsmith"
+}

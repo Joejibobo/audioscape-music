@@ -1,0 +1,29 @@
+{
+ "avg_rating": 5.0,
+ "channels": 1,
+ "created": "2016-06-12T07:47:10Z",
+ "description": "General sounds on a Friday at Te Atatū Library",
+ "duration": 266.016,
+ "geotag": "-36.84184413511206 174.6520882844925",
+ "id": 347615,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Te Atatu Library.aiff",
+ "num_downloads": 148,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/347/347615_93361-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/347/347615_93361-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/347/347615_93361-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/347/347615_93361-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambience",
+  "field-recording",
+  "library",
+  "sound",
+  "teatatu"
+ ],
+ "url": "https://freesound.org/people/simongray/sounds/347615/",
+ "username": "simongray"
+}

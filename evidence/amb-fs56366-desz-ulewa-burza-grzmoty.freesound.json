@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.34375,
+ "channels": 2,
+ "created": "2008-06-29T16:58:16Z",
+ "description": "Recording of heavy rain with thunders. Recorded with a Zoom H4 (no digital improvements).\nSample comes from \"Rain &amp; Storm Sounds\" sample pack.",
+ "duration": 110.0,
+ "geotag": null,
+ "id": 56366,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Desz, ulewa, burza, grzmoty.wav",
+ "num_downloads": 1607,
+ "num_ratings": 16,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/56/56366_60249-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/56/56366_60249-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/56/56366_60249-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/56/56366_60249-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "downpour",
+  "field-recording",
+  "loop",
+  "rain",
+  "storm",
+  "tempest",
+  "thunder",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/kwazi/sounds/56366/",
+ "username": "kwazi"
+}

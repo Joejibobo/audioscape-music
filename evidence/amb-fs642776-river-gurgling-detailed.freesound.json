@@ -1,0 +1,33 @@
+{
+ "id": 642776,
+ "url": "https://freesound.org/people/nicoproson/sounds/642776/",
+ "name": "RIVER gurgling detailed.wav",
+ "tags": [
+  "babbling",
+  "flow",
+  "flowing",
+  "gurgle",
+  "liquid",
+  "river",
+  "stream",
+  "water",
+  "waterflow"
+ ],
+ "description": "Small river recorded from bridge. Detailed gurgle, close perspective.",
+ "geotag": "45.6459 0.14506",
+ "created": "2022-07-21T13:21:17Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 86.832,
+ "samplerate": 48000.0,
+ "username": "nicoproson",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/642/642776_457982-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/642/642776_457982-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/642/642776_457982-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/642/642776_457982-lq.ogg"
+ },
+ "num_downloads": 2972,
+ "avg_rating": 4.785714285714286,
+ "num_ratings": 42
+}

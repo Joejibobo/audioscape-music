@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.6,
+ "channels": 2,
+ "created": "2021-07-29T18:02:08Z",
+ "description": "Edit of \"windy mountain plains\" by DwightSaBeast. Interference has been removed, as well as various noises caused by the author to create as smooth a resource as possible. 96kHz preserved.",
+ "duration": 331.195,
+ "geotag": null,
+ "id": 581531,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "windy-mountain-plains by dwightsabeast (improved).flac",
+ "num_downloads": 371,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/581/581531_4479667-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/581/581531_4479667-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/581/581531_4479667-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/581/581531_4479667-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "mountain",
+  "mountain-wind",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/Godhasspoken4/sounds/581531/",
+ "username": "Godhasspoken4"
+}

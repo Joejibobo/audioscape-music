@@ -1,0 +1,32 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2018-09-28T20:06:29Z",
+ "description": "Indoor market in Portugal. \nI made this recording in an indoor market near Faro, Algarve, Portugal. \nYou can hear vendors and customers talking, and some other sounds from the market. \nRecorded in June 2018, with an Olympus LS-3 (internal microphones, TRESMIC ON). \nFade in/out and high pass filter 160Hz -6dB/oct applied in Audacity.",
+ "duration": 259.967,
+ "geotag": null,
+ "id": 441572,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "LS_33989_POR_IndoorMarket.wav",
+ "num_downloads": 92,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/441/441572_9034501-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/441/441572_9034501-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/441/441572_9034501-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/441/441572_9034501-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Portugal",
+  "ambience",
+  "field-recording",
+  "indoor",
+  "market",
+  "sellers",
+  "soundscape",
+  "vendors"
+ ],
+ "url": "https://freesound.org/people/kevp888/sounds/441572/",
+ "username": "kevp888"
+}

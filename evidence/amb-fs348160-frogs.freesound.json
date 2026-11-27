@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.764705882352941,
+ "channels": 2,
+ "created": "2016-06-21T13:11:03Z",
+ "description": "Sound sample, taken during night time near a countryside pond. Frogs at their best. Some mosquitos and environment sound are also there.\r\n\r\nSample was taken using Rode Stereo VideoMic PRO.",
+ "duration": 245.697,
+ "geotag": null,
+ "id": 348160,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Frogs.wav",
+ "num_downloads": 994,
+ "num_ratings": 17,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/348/348160_4856035-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/348/348160_4856035-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/348/348160_4856035-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/348/348160_4856035-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "countryside",
+  "croak",
+  "croaking",
+  "field-recording",
+  "frog",
+  "frogs",
+  "mosquitos",
+  "nature",
+  "night",
+  "pond"
+ ],
+ "url": "https://freesound.org/people/gtjuks/sounds/348160/",
+ "username": "gtjuks"
+}

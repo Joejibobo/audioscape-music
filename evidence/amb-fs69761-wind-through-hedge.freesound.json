@@ -1,0 +1,36 @@
+{
+ "id": 69761,
+ "url": "https://freesound.org/people/Benboncan/sounds/69761/",
+ "name": "Wind Through Hedge.wav",
+ "tags": [
+  "beech",
+  "birds",
+  "fagus-sylvatica",
+  "field-recording",
+  "hedge",
+  "leaves",
+  "rustle",
+  "rustling",
+  "sheep",
+  "stereo",
+  "wind",
+  "xy"
+ ],
+ "description": "A stereo field-recording of wind blowing through an European Beech hedge( Fagus sylvatica ) where the dead winter leaves are still retained by the trees. Zoom H2 rear on-board mics.",
+ "geotag": null,
+ "created": "2009-03-26T17:03:43Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 199.434,
+ "samplerate": 44100.0,
+ "username": "Benboncan",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/69/69761_634166-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/69/69761_634166-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/69/69761_634166-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/69/69761_634166-lq.ogg"
+ },
+ "num_downloads": 4449,
+ "avg_rating": 4.605263157894737,
+ "num_ratings": 38
+}

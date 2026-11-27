@@ -1,0 +1,28 @@
+{
+ "avg_rating": 5.0,
+ "channels": 1,
+ "created": "2018-08-25T14:18:29Z",
+ "description": "Light rain in august 2018 from my balcony",
+ "duration": 100.122,
+ "geotag": null,
+ "id": 437638,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "regn_august2018.ogg",
+ "num_downloads": 74,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/437/437638_221813-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/437/437638_221813-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/437/437638_221813-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/437/437638_221813-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "august",
+  "drizzle",
+  "light",
+  "rain"
+ ],
+ "url": "https://freesound.org/people/DavidLamhauge/sounds/437638/",
+ "username": "DavidLamhauge"
+}
