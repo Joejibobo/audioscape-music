@@ -1,0 +1,38 @@
+{
+ "avg_rating": 4.680555555555555,
+ "channels": 2,
+ "created": "2012-11-04T06:27:50Z",
+ "description": "A quiet rainfall on leaves in the middle of a quiet forest. Loops well so you can listen forever.\r\nRecorded with AT4021 mics into a modified Marantz PMD661 and edited (remove some rain hitting mics) with Reason.",
+ "duration": 586.48,
+ "geotag": null,
+ "id": 169031,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "light forest rain.wav",
+ "num_downloads": 3568,
+ "num_ratings": 72,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/169/169031_7037-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/169/169031_7037-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/169/169031_7037-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/169/169031_7037-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambient",
+  "atmosphere",
+  "field-recording",
+  "forest",
+  "gifford-pinchot-national-forest",
+  "nature",
+  "outside",
+  "phonography",
+  "quiet",
+  "rain",
+  "relaxing",
+  "soundscape",
+  "washington",
+  "water"
+ ],
+ "url": "https://freesound.org/people/tim.kahn/sounds/169031/",
+ "username": "tim.kahn"
+}

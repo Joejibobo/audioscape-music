@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.535714285714286,
+ "channels": 2,
+ "created": "2010-07-02T17:29:03Z",
+ "description": "24 bit 96 khz recorded on a Sony PCM D50\nLight Rain in Forest",
+ "duration": 121.813,
+ "geotag": null,
+ "id": 100495,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "Light Rain in Forest.WAV",
+ "num_downloads": 2752,
+ "num_ratings": 28,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/100/100495_213393-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/100/100495_213393-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/100/100495_213393-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/100/100495_213393-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "forest",
+  "light",
+  "rain"
+ ],
+ "url": "https://freesound.org/people/jakobthiesen/sounds/100495/",
+ "username": "jakobthiesen"
+}

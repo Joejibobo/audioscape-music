@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.8604651162790695,
+ "channels": 2,
+ "created": "2023-06-08T12:30:09Z",
+ "description": "Nearly eight minutes of thunder, various levels and proximity, all recorded in one lengthy storm in Dordogne, France.",
+ "duration": 473.735,
+ "geotag": "44.681426003452515 0.8938259357250331",
+ "id": 689986,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Excellent thunder & rain 25 Sept '21.wav",
+ "num_downloads": 1909,
+ "num_ratings": 43,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/689/689986_8140541-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/689/689986_8140541-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/689/689986_8140541-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/689/689986_8140541-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Thunder",
+  "close",
+  "far",
+  "rumbling",
+  "thunder",
+  "thunderstorm"
+ ],
+ "url": "https://freesound.org/people/gepetto3548/sounds/689986/",
+ "username": "gepetto3548"
+}

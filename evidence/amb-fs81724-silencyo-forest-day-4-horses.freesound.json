@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.518518518518518,
+ "channels": 2,
+ "created": "2009-10-13T15:43:27Z",
+ "description": "Field recording of a small group of 4 horses walking in the forest. approach, pass by, three times. France, Gers. Recorded with MS schoeps microphone through SQN4S mixer on a Fostex PD4. decoded in protools",
+ "duration": 121.344,
+ "geotag": "44.0015513277 0.482883453369",
+ "id": 81724,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Silencyo_FOREST_DAY_4_Horses_Walk_3X_MSd.aif",
+ "num_downloads": 1912,
+ "num_ratings": 27,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/81/81724_280284-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/81/81724_280284-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/81/81724_280284-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/81/81724_280284-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "forest",
+  "group",
+  "horse",
+  "pass-by",
+  "small",
+  "walk"
+ ],
+ "url": "https://freesound.org/people/silencyo/sounds/81724/",
+ "username": "silencyo"
+}

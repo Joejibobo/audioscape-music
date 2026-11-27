@@ -1,0 +1,36 @@
+{
+ "avg_rating": 4.8965517241379315,
+ "channels": 2,
+ "created": "2019-04-11T01:31:41Z",
+ "description": "Very windy night in Los Angeles. Recorded this by opening the window and pointing the mic outside, through the mosquito screen\nRode NTG2 and Zoom H4N",
+ "duration": 360.743,
+ "geotag": null,
+ "id": 466122,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Windy night trees rustling heavy.wav",
+ "num_downloads": 2535,
+ "num_ratings": 29,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/466/466122_5547533-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/466/466122_5547533-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/466/466122_5547533-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/466/466122_5547533-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "apartment",
+  "city",
+  "field-recording",
+  "heavy",
+  "leaves",
+  "los-angeles",
+  "night",
+  "open-window",
+  "rustling",
+  "trees",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/franciscopcoutinho/sounds/466122/",
+ "username": "franciscopcoutinho"
+}

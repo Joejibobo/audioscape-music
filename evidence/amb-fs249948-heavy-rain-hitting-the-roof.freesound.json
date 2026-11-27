@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.25,
+ "channels": 2,
+ "created": "2014-09-27T17:13:02Z",
+ "description": "Heavy rain hitting the roof, wind, occasional thundering. A moped driving by.",
+ "duration": 209.674,
+ "geotag": null,
+ "id": 249948,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Heavy rain hitting the roof, wind, occasional thunder.wav",
+ "num_downloads": 811,
+ "num_ratings": 12,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/249/249948_4305912-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/249/249948_4305912-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/249/249948_4305912-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/249/249948_4305912-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "field-recording",
+  "nature",
+  "rain",
+  "rainstorm",
+  "roof",
+  "thunder",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/IllusiaProductions/sounds/249948/",
+ "username": "IllusiaProductions"
+}

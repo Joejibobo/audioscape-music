@@ -1,0 +1,40 @@
+{
+ "avg_rating": 4.933333333333334,
+ "channels": 4,
+ "created": "2022-11-08T01:15:37Z",
+ "description": "Amazon rainforest birds.\nRecording in Ambisonics A format.\nEste projeto foi contemplado pelo PROGRAMA CULTURA CRIATIVA – 2021 – PRÊMIO AMAZONAS CRIATIVO.",
+ "duration": 320.795,
+ "geotag": "-2.67719 -56.79006",
+ "id": 658098,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "amazon_birds.WAV",
+ "num_downloads": 974,
+ "num_ratings": 30,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/658/658098_14090125-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/658/658098_14090125-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/658/658098_14090125-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/658/658098_14090125-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "amazon",
+  "amazonas",
+  "ambience",
+  "ambient",
+  "ambsonics",
+  "atmos",
+  "binaural",
+  "bird",
+  "birds",
+  "birdsong",
+  "brazil",
+  "field-recording",
+  "forest",
+  "nature",
+  "rainforest",
+  "tropical"
+ ],
+ "url": "https://freesound.org/people/WilliamDauricio/sounds/658098/",
+ "username": "WilliamDauricio"
+}

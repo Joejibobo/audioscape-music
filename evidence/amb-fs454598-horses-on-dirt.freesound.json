@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.923076923076923,
+ "channels": 2,
+ "created": "2018-12-19T15:07:26Z",
+ "description": "Cloppity-clop-clop-clops, horses ascending a dirt road ridden by chilean Huasos during a religious procession in San Francisco de Curimón. You can hear hooves, voices, neighs and spurs ringing.\nRecorded on a MixPre6 with USI Pro microphones in a binaural setup.",
+ "duration": 116.374,
+ "geotag": "-32.7832715724 -70.6825932636",
+ "id": 454598,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Horses on dirt",
+ "num_downloads": 764,
+ "num_ratings": 13,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/454/454598_1910728-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/454/454598_1910728-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/454/454598_1910728-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/454/454598_1910728-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "clop",
+  "hooves",
+  "horses",
+  "huasos",
+  "procession",
+  "rural",
+  "usi-pro"
+ ],
+ "url": "https://freesound.org/people/Diegolar/sounds/454598/",
+ "username": "Diegolar"
+}

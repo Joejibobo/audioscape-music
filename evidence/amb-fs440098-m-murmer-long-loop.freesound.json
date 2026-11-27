@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.8,
+ "channels": 4,
+ "created": "2018-09-13T08:29:32Z",
+ "description": "These are canned crowd sounds, recorded for a theatrical production.  These were recorded in quad, with the design to be played out of four speakers, one near each corner of the room.  We made them with a small group of people, and recorded 20 layers or so of each reaction, moving the group around the room.  There are some alternative arrangements of the layers, scooted around in time, to make some variation, which would help realism, if the sounds needed to be played back to back, like 3 rounds of applause in a row.  These are the “staggered” files.\n\nThese were recorded in a medium size hall, with AKG C414’s for the front left and right channels, and Neumann KM184’s for the rear left and right channels.",
+ "duration": 164.955,
+ "geotag": null,
+ "id": 440098,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "M Murmer long loop.wav",
+ "num_downloads": 867,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/440/440098_2000259-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/440/440098_2000259-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/440/440098_2000259-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/440/440098_2000259-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "adults",
+  "audience",
+  "auditorium",
+  "crowd",
+  "group",
+  "murmur",
+  "talking"
+ ],
+ "url": "https://freesound.org/people/Processaurus/sounds/440098/",
+ "username": "Processaurus"
+}

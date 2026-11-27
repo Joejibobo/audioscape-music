@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.536585365853658,
+ "channels": 2,
+ "created": "2023-03-12T07:51:33Z",
+ "description": "Recorded with Zoom H1 48kHz 16Bit Summer 2022 Nienhagen",
+ "duration": 240.417,
+ "geotag": null,
+ "id": 678435,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Soft Rain in Forest Raindrops fall on leaves",
+ "num_downloads": 1788,
+ "num_ratings": 41,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/678/678435_801011-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/678/678435_801011-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/678/678435_801011-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/678/678435_801011-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Field-recording",
+  "Forest",
+  "Nature",
+  "Rain",
+  "Raindrops",
+  "Soft",
+  "fall",
+  "leaves",
+  "rain",
+  "summer"
+ ],
+ "url": "https://freesound.org/people/Borgory/sounds/678435/",
+ "username": "Borgory"
+}

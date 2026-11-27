@@ -1,0 +1,37 @@
+{
+ "avg_rating": 4.614285714285714,
+ "channels": 1,
+ "created": "2013-09-17T12:31:14Z",
+ "description": "Rain dropping light. Rural land, without any surrounding sounds. Useful like background. Mono sound, registered with microphone Sennheiser ME66 on boompole and recorder Tascam HD-P2. Brazil, september, 2013.",
+ "duration": 90.1435,
+ "geotag": null,
+ "id": 200271,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Rain light 1 (rural)",
+ "num_downloads": 11609,
+ "num_ratings": 140,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/200/200271_2322692-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/200/200271_2322692-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/200/200271_2322692-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/200/200271_2322692-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "BG",
+  "FX",
+  "Sennheiser-ME66",
+  "Tascam-HD-P2",
+  "atmosphere",
+  "background",
+  "cinematic",
+  "drops",
+  "field-recording",
+  "light",
+  "mono",
+  "rain",
+  "rural"
+ ],
+ "url": "https://freesound.org/people/jmbphilmes/sounds/200271/",
+ "username": "jmbphilmes"
+}

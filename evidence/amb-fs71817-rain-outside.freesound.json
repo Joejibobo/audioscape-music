@@ -1,0 +1,39 @@
+{
+ "avg_rating": 4.384615384615385,
+ "channels": 2,
+ "created": "2009-04-28T11:33:40Z",
+ "description": "A thunderstorm recorded outside on a patio.  Heavy rain with occasional thunder.",
+ "duration": 424.474,
+ "geotag": null,
+ "id": 71817,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "rain outside.wav",
+ "num_downloads": 375,
+ "num_ratings": 13,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/71/71817_83970-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/71/71817_83970-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/71/71817_83970-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/71/71817_83970-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "clouds",
+  "cloudy",
+  "downpour",
+  "environment",
+  "heavy",
+  "lightning",
+  "long",
+  "nature",
+  "patter",
+  "pitter",
+  "rain",
+  "storm",
+  "thunder",
+  "thunderstorm",
+  "water"
+ ],
+ "url": "https://freesound.org/people/thehomi/sounds/71817/",
+ "username": "thehomi"
+}

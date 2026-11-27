@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.790123456790123,
+ "channels": 2,
+ "created": "2013-12-25T15:32:17Z",
+ "description": "Ambient sound akin to the bridge of a starship.\r\n\r\nMuted background hum with an overtone of air conditioning ducts. Pseudo-random high pitched blips occupy the soundstage.\r\n\r\nCould be used as an ambient sound loop for hi-tech / science fiction interiors such as a laboratory, a control room, or the bridge of a spacecraft.\r\n\r\nCreated with two instances of FLStudio 3x Osc. One kicking out a pair of sinewaves plus noise for the background susurus (hum) and ventilation sound. Second 3x osc is set to produce two interfereing square waves for the blips, squeaks and buzzes. The background was notch filtered and bandpassed to mellow out the humming sound and reduce hiss. The blips were processed with FLStudio EQUO, stereo enhance, Fruity Delay2 and FL Pan-o-matic VST. Each blip was pasted by hand in a seemingly random but not too unpleasant pattern.",
+ "duration": 64.6202,
+ "geotag": null,
+ "id": 211683,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "control_room.wav",
+ "num_downloads": 6212,
+ "num_ratings": 81,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/211/211683_3930831-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/211/211683_3930831-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/211/211683_3930831-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/211/211683_3930831-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambience",
+  "ambient",
+  "atmosphere",
+  "computers",
+  "drone",
+  "electronic",
+  "interior",
+  "sci-fi"
+ ],
+ "url": "https://freesound.org/people/Diboz/sounds/211683/",
+ "username": "Diboz"
+}

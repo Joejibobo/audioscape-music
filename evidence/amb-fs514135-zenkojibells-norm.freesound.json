@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.4,
+ "channels": 2,
+ "created": "2020-04-19T09:05:25Z",
+ "description": "A field recording of the Japanese landscape, recorded at Sakaori, Yamanashi at around 6AM in March. General ambience and birdsong. From around 1:30 you can hear the bells of Zenkoji temple in the distance.\nRecorded with a Zoom H4n and normalised.",
+ "duration": 364.794,
+ "geotag": "35.6518316356 138.599851728",
+ "id": 514135,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "zenkojibells_norm.wav",
+ "num_downloads": 307,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/514/514135_976024-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/514/514135_976024-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/514/514135_976024-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/514/514135_976024-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Japan",
+  "ambiance",
+  "ambient",
+  "bells",
+  "birds",
+  "buddhist",
+  "field-recording",
+  "landscape",
+  "nature"
+ ],
+ "url": "https://freesound.org/people/earthmonkey1/sounds/514135/",
+ "username": "earthmonkey1"
+}

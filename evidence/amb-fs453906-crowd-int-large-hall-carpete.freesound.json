@@ -1,0 +1,32 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2018-12-17T23:05:59Z",
+ "description": "crowd int large hall carpeted murmur2 busier Montreal, Canada.flac",
+ "duration": 136.0,
+ "geotag": null,
+ "id": 453906,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "crowd int large hall carpeted murmur2 busier Montreal, Canada.flac",
+ "num_downloads": 76,
+ "num_ratings": 2,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/453/453906_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/453/453906_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/453/453906_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/453/453906_612689-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Canada",
+  "Montreal",
+  "carpeted",
+  "crowd",
+  "hall",
+  "int",
+  "large",
+  "murmur"
+ ],
+ "url": "https://freesound.org/people/kyles/sounds/453906/",
+ "username": "kyles"
+}

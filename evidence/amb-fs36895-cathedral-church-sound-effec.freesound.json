@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.090909090909091,
+ "channels": 2,
+ "created": "2007-07-02T10:16:57Z",
+ "description": "The ambient sound of a cathedral busy with visitors.",
+ "duration": 239.008,
+ "geotag": null,
+ "id": 36895,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Cathedral  Church Sound Effects - 07 .mp3",
+ "num_downloads": 818,
+ "num_ratings": 11,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/36/36895_40107-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/36/36895_40107-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/36/36895_40107-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/36/36895_40107-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambience",
+  "busy",
+  "cathedral",
+  "church",
+  "footsteps",
+  "people",
+  "reverberation"
+ ],
+ "url": "https://freesound.org/people/icmusic/sounds/36895/",
+ "username": "icmusic"
+}

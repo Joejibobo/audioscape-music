@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.109756097560975,
+ "channels": 2,
+ "created": "2007-03-01T10:01:17Z",
+ "description": "Edited sounds of creak and filtered waves to create an 'inside hull of wooden boat' sound.",
+ "duration": 192.04,
+ "geotag": null,
+ "id": 31574,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "ship_creak.mp3",
+ "num_downloads": 8418,
+ "num_ratings": 164,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/31/31574_48671-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/31/31574_48671-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/31/31574_48671-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/31/31574_48671-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "boat",
+  "creak",
+  "creaking",
+  "sea",
+  "ship",
+  "trireme"
+ ],
+ "url": "https://freesound.org/people/Walter_Odington/sounds/31574/",
+ "username": "Walter_Odington"
+}

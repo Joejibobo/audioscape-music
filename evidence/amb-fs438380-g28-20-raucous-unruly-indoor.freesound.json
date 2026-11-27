@@ -1,0 +1,28 @@
+{
+ "avg_rating": 5.0,
+ "channels": 1,
+ "created": "2018-08-26T21:05:20Z",
+ "description": "Raucous Banquet. Milder than #G28-17. Much laughter.",
+ "duration": 64.1211,
+ "geotag": null,
+ "id": 438380,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "G28-20-Raucous Unruly Indoor Crowd.wav",
+ "num_downloads": 181,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/438/438380_2524442-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/438/438380_2524442-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/438/438380_2524442-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/438/438380_2524442-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Crowds",
+  "Optical",
+  "Vintage",
+  "Wallas"
+ ],
+ "url": "https://freesound.org/people/craigsmith/sounds/438380/",
+ "username": "craigsmith"
+}

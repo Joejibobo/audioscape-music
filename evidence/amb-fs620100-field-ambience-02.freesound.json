@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.851851851851852,
+ "channels": 2,
+ "created": "2022-02-15T00:43:15Z",
+ "description": "Open plough field, wind and noise of dry grass.",
+ "duration": 70.6729,
+ "geotag": null,
+ "id": 620100,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Field ambience 02.wav",
+ "num_downloads": 1135,
+ "num_ratings": 27,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/620/620100_13130621-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/620/620100_13130621-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/620/620100_13130621-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/620/620100_13130621-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "dry",
+  "field",
+  "grass",
+  "plough",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/szelestamas/sounds/620100/",
+ "username": "szelestamas"
+}

@@ -1,0 +1,27 @@
+{
+ "avg_rating": 3.0,
+ "channels": 1,
+ "created": "2018-08-16T21:14:44Z",
+ "description": "Group of horses galloping at a distance. Looped.",
+ "duration": 78.5001,
+ "geotag": null,
+ "id": 437104,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "G38-09-Several Horses Galloping.wav",
+ "num_downloads": 372,
+ "num_ratings": 2,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/437/437104_2524442-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/437/437104_2524442-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/437/437104_2524442-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/437/437104_2524442-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Horses",
+  "Optical",
+  "Vintage"
+ ],
+ "url": "https://freesound.org/people/craigsmith/sounds/437104/",
+ "username": "craigsmith"
+}

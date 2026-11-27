@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.0,
+ "channels": 2,
+ "created": "2013-02-19T20:37:25Z",
+ "description": "Recording made on 15th feb 2013, with Zoom H4n X/y 120º integrated mics.\r\nHi-pass filtered @ 80Hz. No more processing\r\n\r\nInterior of a Pub on Peckham",
+ "duration": 213.494,
+ "geotag": null,
+ "id": 178449,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "130215 - AMB_INT - Peckham Pub.wav",
+ "num_downloads": 502,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/178/178449_1540088-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/178/178449_1540088-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/178/178449_1540088-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/178/178449_1540088-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "crowd",
+  "london",
+  "pub"
+ ],
+ "url": "https://freesound.org/people/vinjatovix/sounds/178449/",
+ "username": "vinjatovix"
+}

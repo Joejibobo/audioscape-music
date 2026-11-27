@@ -1,0 +1,38 @@
+{
+ "avg_rating": 4.894736842105263,
+ "channels": 2,
+ "created": "2022-01-03T16:06:28Z",
+ "description": "Ambience of a not so quiet university library, with a few people. A little circulation, movements, voices, and doors. Recorded not too far from the main desk, with a h5, in stereo.\n\nFor a more quiet ambience of the same library:\n<a href=\"https://freesound.org/people/xkeril/sounds/620683/\" rel=\"nofollow\">https://freesound.org/people/xkeril/sounds/620683/</a>",
+ "duration": 433.567,
+ "geotag": "46.5241009855 6.63391303122",
+ "id": 613781,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Library ambience",
+ "num_downloads": 1353,
+ "num_ratings": 19,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/613/613781_13504080-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/613/613781_13504080-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/613/613781_13504080-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/613/613781_13504080-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "ambient",
+  "background",
+  "campus",
+  "field-recording",
+  "library",
+  "movements",
+  "people",
+  "quiet",
+  "soundscape",
+  "surrounding",
+  "university",
+  "voices"
+ ],
+ "url": "https://freesound.org/people/xkeril/sounds/613781/",
+ "username": "xkeril"
+}

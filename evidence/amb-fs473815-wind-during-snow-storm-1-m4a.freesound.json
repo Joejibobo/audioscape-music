@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.976744186046512,
+ "channels": 2,
+ "created": "2019-06-01T07:33:20Z",
+ "description": "Wind during a snow storm at Dove Lake carpark, Cradle Mountain, Tasmania, wind speed 30-50 kph. Recorded 29 May 2019, 4:58 PM, just on dark, on a Marantz PMD661, using a Rode NT4 inside a Rode Blimp, pointing away from the wind from the back of a station wagon.",
+ "duration": 208.738,
+ "geotag": "-41.8679013454 146.042459006",
+ "id": 473815,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Wind during snow storm #1.m4a",
+ "num_downloads": 2097,
+ "num_ratings": 43,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/473/473815_5454234-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/473/473815_5454234-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/473/473815_5454234-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/473/473815_5454234-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "cradle",
+  "mountain",
+  "snow",
+  "wind",
+  "winter"
+ ],
+ "url": "https://freesound.org/people/guyburns/sounds/473815/",
+ "username": "guyburns"
+}

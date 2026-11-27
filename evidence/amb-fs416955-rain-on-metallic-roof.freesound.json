@@ -1,0 +1,32 @@
+{
+ "avg_rating": 1.5,
+ "channels": 2,
+ "created": "2018-01-29T22:02:27Z",
+ "description": "rain on metallic roof",
+ "duration": 195.488,
+ "geotag": null,
+ "id": 416955,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "rain on metallic roof.MP3",
+ "num_downloads": 245,
+ "num_ratings": 2,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/416/416955_2058991-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/416/416955_2058991-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/416/416955_2058991-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/416/416955_2058991-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Metallic",
+  "Rain",
+  "Roof",
+  "Rumble",
+  "Storm",
+  "Thunder",
+  "Thunderstorm",
+  "Weather"
+ ],
+ "url": "https://freesound.org/people/marsal.oido/sounds/416955/",
+ "username": "marsal.oido"
+}

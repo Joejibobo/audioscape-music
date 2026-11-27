@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.4,
+ "channels": 2,
+ "created": "2013-01-20T03:48:11Z",
+ "description": "The sound of rain in the tent. Recoreded on Zoom H2 in Altay Mountain!",
+ "duration": 131.457,
+ "geotag": null,
+ "id": 174874,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "rain in tent.wav",
+ "num_downloads": 706,
+ "num_ratings": 15,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/174/174874_2881353-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/174/174874_2881353-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/174/174874_2881353-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/174/174874_2881353-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "rain",
+  "tent",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/venaportae/sounds/174874/",
+ "username": "venaportae"
+}

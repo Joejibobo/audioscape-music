@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.714285714285714,
+ "channels": 2,
+ "created": "2017-12-31T14:21:38Z",
+ "description": "A fireplace burning pleasantly. Ahhhhh.\r\n\r\nRecorded with a Zoom H1.",
+ "duration": 72.461,
+ "geotag": null,
+ "id": 414482,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Fireplace burning",
+ "num_downloads": 5035,
+ "num_ratings": 56,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/414/414482_1738686-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/414/414482_1738686-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/414/414482_1738686-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/414/414482_1738686-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Fireplace",
+  "burn",
+  "burning",
+  "crackle",
+  "fire",
+  "flame",
+  "flames",
+  "place",
+  "sparkle",
+  "stove"
+ ],
+ "url": "https://freesound.org/people/giddster/sounds/414482/",
+ "username": "giddster"
+}

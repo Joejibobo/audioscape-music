@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.676470588235294,
+ "channels": 2,
+ "created": "2022-09-19T14:25:30Z",
+ "description": "waterfall on the meraner höhenweg near dorf tirol",
+ "duration": 121.953,
+ "geotag": null,
+ "id": 650699,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Waterfall_Meraner_Höhenweg_01_160922.wav",
+ "num_downloads": 1220,
+ "num_ratings": 34,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/650/650699_11663878-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/650/650699_11663878-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/650/650699_11663878-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/650/650699_11663878-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "melt-water",
+  "mountain",
+  "waterfall"
+ ],
+ "url": "https://freesound.org/people/datapopstar2/sounds/650699/",
+ "username": "datapopstar2"
+}

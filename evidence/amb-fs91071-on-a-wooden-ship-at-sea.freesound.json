@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.491525423728813,
+ "channels": 2,
+ "created": "2010-03-03T08:43:17Z",
+ "description": "A compilation of nine samples from Freesound. I made this to have some old-time ocean-going ambiance. Included are:\n38956__acclivity__UrbanHerringGulls\n67277__acclivity__TsunamiBeach\n39900__aesqe__sea_water_churning_near_boat_01\n39901__aesqe__sea_water_passing_through_pier_hole_01\n90734__ascensionseries__ocean24_bit\n84111__Benboncan__Wind_On_Door_Short\n80079__Benboncan__Cotton_Flapping\n77699__Benboncan__Two_Bells_Ship_Time\n87280__Timbre__Creaking_1\n(There is a second file, \"on a wooden ship at sea 02\" which emphasizes ocean sounds more.)",
+ "duration": 200.0,
+ "geotag": null,
+ "id": 91071,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "on a wooden ship at sea.wav",
+ "num_downloads": 5369,
+ "num_ratings": 59,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/91/91071_1402427-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/91/91071_1402427-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/91/91071_1402427-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/91/91071_1402427-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "boat",
+  "creak",
+  "ocean",
+  "sail",
+  "ship",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/LXX.70/sounds/91071/",
+ "username": "LXX.70"
+}

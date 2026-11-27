@@ -1,0 +1,37 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2011-04-27T16:39:53Z",
+ "description": "A large colony of frogs croaking at midnight.Recorded from the edge of a large pond.NT4/Rode blimp-BMA2-R09HR.",
+ "duration": 125.92,
+ "geotag": null,
+ "id": 118897,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Frogs.wav",
+ "num_downloads": 300,
+ "num_ratings": 12,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/118/118897_649468-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/118/118897_649468-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/118/118897_649468-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/118/118897_649468-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambience",
+  "atmosphere",
+  "croak",
+  "croaking",
+  "distance",
+  "distant",
+  "frogs",
+  "nature-recording",
+  "near",
+  "night",
+  "nightime",
+  "pond",
+  "pond-life"
+ ],
+ "url": "https://freesound.org/people/juskiddink/sounds/118897/",
+ "username": "juskiddink"
+}

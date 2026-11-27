@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.857142857142857,
+ "channels": 2,
+ "created": "2016-12-17T22:25:44Z",
+ "description": "Sailing from Spain to Canary islands in October with a 12 meter yacht. Wind speed was around 17 knots. I positioned the recorder under deck. Nice creaking :) Recorded with an Olympus LS-12 and a Rycote wind shield.",
+ "duration": 189.626,
+ "geotag": "33.247875947924385 -10.0634765625",
+ "id": 371170,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Inside a sailboat (wind speed 17kn)",
+ "num_downloads": 1309,
+ "num_ratings": 14,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/371/371170_2774517-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/371/371170_2774517-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/371/371170_2774517-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/371/371170_2774517-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "creak",
+  "field-recording",
+  "ocean",
+  "sail",
+  "sailing",
+  "splash",
+  "surf",
+  "water",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/borralbi/sounds/371170/",
+ "username": "borralbi"
+}

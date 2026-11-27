@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.565217391304348,
+ "channels": 2,
+ "created": "2017-03-31T18:21:16Z",
+ "description": "a crowd of people cheering",
+ "duration": 194.589,
+ "geotag": null,
+ "id": 386762,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Crowd_Cheering.wav",
+ "num_downloads": 6964,
+ "num_ratings": 46,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/386/386762_5768130-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/386/386762_5768130-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/386/386762_5768130-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/386/386762_5768130-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "cheering",
+  "crowd",
+  "group"
+ ],
+ "url": "https://freesound.org/people/ken788/sounds/386762/",
+ "username": "ken788"
+}

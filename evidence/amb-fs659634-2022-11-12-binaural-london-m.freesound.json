@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.8,
+ "channels": 2,
+ "created": "2022-11-16T10:35:05Z",
+ "description": "London market ambience in binaural.",
+ "duration": 144.591,
+ "geotag": null,
+ "id": 659634,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "2022-11-12-binaural-london-market-ambience.wav",
+ "num_downloads": 192,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/659/659634_12458758-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/659/659634_12458758-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/659/659634_12458758-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/659/659634_12458758-lq.ogg"
+ },
+ "samplerate": 192000.0,
+ "tags": [
+  "ambience",
+  "busy",
+  "chatting",
+  "crowd",
+  "feira",
+  "field-recording",
+  "market",
+  "people",
+  "selling",
+  "talking"
+ ],
+ "url": "https://freesound.org/people/ilmari_freesound/sounds/659634/",
+ "username": "ilmari_freesound"
+}

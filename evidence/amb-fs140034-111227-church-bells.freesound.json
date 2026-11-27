@@ -1,0 +1,31 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2011-12-29T09:34:30Z",
+ "description": "The bells of St.Andreas at noon calling to the service, Cologne downtown. Zoom H4n",
+ "duration": 78.3078,
+ "geotag": "50.94206967059542 6.954678297042847",
+ "id": 140034,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "111227_church_bells.wav",
+ "num_downloads": 535,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/140/140034_18799-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/140/140034_18799-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/140/140034_18799-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/140/140034_18799-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "bell",
+  "bells",
+  "church",
+  "cologne",
+  "field-recording",
+  "service",
+  "town"
+ ],
+ "url": "https://freesound.org/people/reinsamba/sounds/140034/",
+ "username": "reinsamba"
+}

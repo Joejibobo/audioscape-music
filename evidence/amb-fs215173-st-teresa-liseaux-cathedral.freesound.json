@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.444444444444445,
+ "channels": 2,
+ "created": "2014-01-23T06:58:51Z",
+ "description": "the sound inside of the St. Teresa Liseaux Cathedral in France",
+ "duration": 404.687,
+ "geotag": null,
+ "id": 215173,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "St Teresa Liseaux Cathedral 6.5 min..wav",
+ "num_downloads": 590,
+ "num_ratings": 9,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/215/215173_630202-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/215/215173_630202-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/215/215173_630202-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/215/215173_630202-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "cathedral",
+  "church",
+  "field-recording",
+  "france",
+  "soundscape",
+  "st-teresa"
+ ],
+ "url": "https://freesound.org/people/john9/sounds/215173/",
+ "username": "john9"
+}

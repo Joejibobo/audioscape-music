@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.7272727272727275,
+ "channels": 2,
+ "created": "2013-11-02T11:57:00Z",
+ "description": "large mountain stream",
+ "duration": 424.94,
+ "geotag": null,
+ "id": 204905,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "large-mountain-stream-surround-sound-rear",
+ "num_downloads": 1165,
+ "num_ratings": 11,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/204/204905_3832471-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/204/204905_3832471-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/204/204905_3832471-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/204/204905_3832471-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "large",
+  "mountain",
+  "stream"
+ ],
+ "url": "https://freesound.org/people/CRAFTCREST.com/sounds/204905/",
+ "username": "CRAFTCREST.com"
+}

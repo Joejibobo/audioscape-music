@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.5508474576271185,
+ "channels": 3,
+ "created": "2012-08-24T02:54:28Z",
+ "description": "Crowd in a bar (LCR recording)",
+ "duration": 318.4,
+ "geotag": null,
+ "id": 163995,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Crowd in a bar (LCR).wav",
+ "num_downloads": 24331,
+ "num_ratings": 118,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/163/163995_59982-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/163/163995_59982-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/163/163995_59982-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/163/163995_59982-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Bar",
+  "Club",
+  "Crowd",
+  "People",
+  "Pub",
+  "Talking",
+  "Walla",
+  "having-fun",
+  "speaking"
+ ],
+ "url": "https://freesound.org/people/Leandros.Ntounis/sounds/163995/",
+ "username": "Leandros.Ntounis"
+}

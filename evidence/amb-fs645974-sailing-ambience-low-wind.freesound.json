@@ -1,0 +1,36 @@
+{
+ "avg_rating": 4.702702702702703,
+ "channels": 2,
+ "created": "2022-08-05T14:00:23Z",
+ "description": "Soundscape recording during a sailing trip. In this example, the wind was low so the sail was rarely full and instead flops lazily from side to side. This was the focus of this recording but of course a range of other sounds - waves, creaks, clanks - are heard also.\nThis was recorded using a Rode NT4 (in a Rycote WS4 blimp) into a Sony PCMD50 in 2007. I was lying on my back with my head against the mainmast and the microphone pointing up in the direction of the mainmast to try and capture the left-right movement of the sail's boom in the stereo image.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/c/cd/Mainsail.jpg\">\nThe boat's name is Rún na Mara which translates from Irish to 'Secret of the Sea'. The recording was made somewhere along the west coast of Scotland.",
+ "duration": 545.987,
+ "geotag": "55.2183312897 -5.10102596512",
+ "id": 645974,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Sailing Ambience - Low Wind",
+ "num_downloads": 2187,
+ "num_ratings": 37,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/645/645974_3655844-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/645/645974_3655844-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/645/645974_3655844-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/645/645974_3655844-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "boat",
+  "flapping",
+  "mast",
+  "rigging",
+  "sail",
+  "sailing",
+  "sea",
+  "ship",
+  "voyage",
+  "waves",
+  "wind",
+  "yacht"
+ ],
+ "url": "https://freesound.org/people/iainmccurdy/sounds/645974/",
+ "username": "iainmccurdy"
+}

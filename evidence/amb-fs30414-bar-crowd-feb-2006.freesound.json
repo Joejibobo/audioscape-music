@@ -1,0 +1,37 @@
+{
+ "avg_rating": 4.007246376811594,
+ "channels": 2,
+ "created": "2007-02-06T12:51:43Z",
+ "description": "Feb 25 2006 - Live at the Glen Lake Inn; Langford BC, Canada. In between musical acts, ambient bar noise. There is people talking, ordering drinks and playing pool. Gear: Edirol R4 - 2 X AKG414 - Cardioid - AB(wide) placement",
+ "duration": 78.2821,
+ "geotag": "48.4330304686 -123.521985412",
+ "id": 30414,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Bar_Crowd_-_Feb_2006.wav",
+ "num_downloads": 3579,
+ "num_ratings": 69,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/30/30414_230160-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/30/30414_230160-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/30/30414_230160-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/30/30414_230160-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "alcohol",
+  "ambiance",
+  "bar",
+  "billiards",
+  "canada",
+  "crowd",
+  "crowd-noise",
+  "drunk",
+  "field-recording",
+  "pool",
+  "public-chatter",
+  "purist",
+  "vancouver-island"
+ ],
+ "url": "https://freesound.org/people/lonemonk/sounds/30414/",
+ "username": "lonemonk"
+}

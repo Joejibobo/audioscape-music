@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.363636363636363,
+ "channels": 2,
+ "created": "2013-11-02T23:34:31Z",
+ "description": "Clatter of hooves with carriage and people in a small paved street.\r\nThe horse is going from right to left.",
+ "duration": 71.6,
+ "geotag": "51.203710631387665 3.2268905639648438",
+ "id": 204961,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "clatter of hooves.wav",
+ "num_downloads": 2371,
+ "num_ratings": 22,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/204/204961_3825705-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/204/204961_3825705-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/204/204961_3825705-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/204/204961_3825705-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "carriage",
+  "clatter",
+  "hooves",
+  "horse"
+ ],
+ "url": "https://freesound.org/people/skitchscharff/sounds/204961/",
+ "username": "skitchscharff"
+}

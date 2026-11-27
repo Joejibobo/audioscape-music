@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.838709677419355,
+ "channels": 2,
+ "created": "2012-02-10T20:36:33Z",
+ "description": "Stereo recording of the fireplace merrily burning some wood.",
+ "duration": 182.776,
+ "geotag": null,
+ "id": 145774,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "crackling_fire_021012.wav",
+ "num_downloads": 3899,
+ "num_ratings": 62,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/145/145774_43834-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/145/145774_43834-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/145/145774_43834-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/145/145774_43834-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "burning",
+  "crackling",
+  "field",
+  "fire",
+  "fireplace",
+  "recording",
+  "stereo"
+ ],
+ "url": "https://freesound.org/people/moxobna/sounds/145774/",
+ "username": "moxobna"
+}

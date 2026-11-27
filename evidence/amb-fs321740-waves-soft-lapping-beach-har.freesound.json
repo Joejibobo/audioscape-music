@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.75,
+ "channels": 2,
+ "created": "2015-09-11T12:05:23Z",
+ "description": "Waves Soft Lapping Beach Harbor [St. Ives - Cornwall - England]",
+ "duration": 120.533,
+ "geotag": null,
+ "id": 321740,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Waves Soft Lapping Beach Harbor [St. Ives - Cornwall - England]",
+ "num_downloads": 1288,
+ "num_ratings": 16,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/321/321740_1998557-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/321/321740_1998557-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/321/321740_1998557-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/321/321740_1998557-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Beach",
+  "Cornwall",
+  "England",
+  "Harbor",
+  "Lapping",
+  "Wave"
+ ],
+ "url": "https://freesound.org/people/Skjor1/sounds/321740/",
+ "username": "Skjor1"
+}

@@ -1,0 +1,37 @@
+{
+ "avg_rating": 4.616438356164384,
+ "channels": 2,
+ "created": "2017-02-12T15:13:46Z",
+ "description": "Wav-file recorded with the Zoom H6 with stereo microphone.\r\nLight rain recorded out of an open window into a street in a city at night. \r\n\r\nBONNY ORBIT Sound Library",
+ "duration": 105.0,
+ "geotag": "47.55498181333752 7.6018524169921875",
+ "id": 380651,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Light rain on street.wav",
+ "num_downloads": 5087,
+ "num_ratings": 73,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/380/380651_5902878-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/380/380651_5902878-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/380/380651_5902878-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/380/380651_5902878-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "ambient",
+  "atmos",
+  "atmosphere",
+  "city",
+  "field-recording",
+  "light",
+  "night",
+  "rain",
+  "relaxing",
+  "street",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/BonnyOrbit/sounds/380651/",
+ "username": "BonnyOrbit"
+}

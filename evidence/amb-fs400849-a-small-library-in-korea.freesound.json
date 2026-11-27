@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.266666666666667,
+ "channels": 2,
+ "created": "2017-08-29T19:15:46Z",
+ "description": "A small and quiet library in south of Korea",
+ "duration": 242.888,
+ "geotag": null,
+ "id": 400849,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "A small library in Korea",
+ "num_downloads": 670,
+ "num_ratings": 15,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/400/400849_5827623-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/400/400849_5827623-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/400/400849_5827623-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/400/400849_5827623-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "atmosphere",
+  "background-sound",
+  "library"
+ ],
+ "url": "https://freesound.org/people/mindhealer/sounds/400849/",
+ "username": "mindhealer"
+}

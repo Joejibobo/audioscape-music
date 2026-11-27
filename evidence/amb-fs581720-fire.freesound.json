@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.461538461538462,
+ "channels": 2,
+ "created": "2021-08-01T02:16:03Z",
+ "description": "wood burning in a fire in Goiânia, Brazil",
+ "duration": 146.666,
+ "geotag": null,
+ "id": 581720,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "fire.mp3",
+ "num_downloads": 1380,
+ "num_ratings": 26,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/581/581720_10403348-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/581/581720_10403348-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/581/581720_10403348-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/581/581720_10403348-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "burn",
+  "burning",
+  "fire",
+  "fireplace",
+  "flame",
+  "flames",
+  "wood"
+ ],
+ "url": "https://freesound.org/people/soupods/sounds/581720/",
+ "username": "soupods"
+}

@@ -1,0 +1,39 @@
+{
+ "avg_rating": 4.3,
+ "channels": 2,
+ "created": "2015-08-13T15:58:27Z",
+ "description": "Distant thunder storm. Gentle rain and non-stop thunders. Recorded on Marantz PMD 661 MKII built in stereo mics.",
+ "duration": 177.837,
+ "geotag": null,
+ "id": 319567,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "distant storm 2.WAV",
+ "num_downloads": 1250,
+ "num_ratings": 20,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/319/319567_2752236-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/319/319567_2752236-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/319/319567_2752236-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/319/319567_2752236-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "ambient",
+  "distant",
+  "field-recording",
+  "lightning",
+  "nature",
+  "rain",
+  "storm",
+  "thunder",
+  "thunder-storm",
+  "thunderstorm",
+  "tormenta",
+  "truenos",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/Soojay/sounds/319567/",
+ "username": "Soojay"
+}

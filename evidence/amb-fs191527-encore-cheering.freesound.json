@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.461538461538462,
+ "channels": 2,
+ "created": "2013-06-13T07:22:41Z",
+ "description": "A crowd of a couple hundred people cheer for a band to return to the stage for a few more songs.\r\nRecorded with a pair of AT4021s into a modified Marantz PMD661.",
+ "duration": 72.0,
+ "geotag": null,
+ "id": 191527,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "encore cheering.wav",
+ "num_downloads": 5409,
+ "num_ratings": 26,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/191/191527_7037-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/191/191527_7037-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/191/191527_7037-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/191/191527_7037-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "cheering",
+  "clapping",
+  "crowd",
+  "encore",
+  "inside",
+  "interior",
+  "people",
+  "talking",
+  "yelling"
+ ],
+ "url": "https://freesound.org/people/tim.kahn/sounds/191527/",
+ "username": "tim.kahn"
+}

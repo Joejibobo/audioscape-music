@@ -1,0 +1,36 @@
+{
+ "avg_rating": 4.868421052631579,
+ "channels": 2,
+ "created": "2014-12-01T03:26:34Z",
+ "description": "Background spaceship sound created entirely in Adobe Audition",
+ "duration": 160.0,
+ "geotag": null,
+ "id": 256269,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Space ship atmosphere",
+ "num_downloads": 1843,
+ "num_ratings": 38,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/256/256269_233371-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/256/256269_233371-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/256/256269_233371-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/256/256269_233371-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "ambient",
+  "atmosphere",
+  "background",
+  "brown-noise",
+  "dark",
+  "drone",
+  "hum",
+  "noise",
+  "sci-fi",
+  "soundscape",
+  "space"
+ ],
+ "url": "https://freesound.org/people/jmayoff/sounds/256269/",
+ "username": "jmayoff"
+}

@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.904761904761905,
+ "channels": 2,
+ "created": "2013-04-08T02:49:29Z",
+ "description": "Forest rain. This sample has been edited to reduce or eliminate all other sounds than what the sample name suggests.",
+ "duration": 127.278,
+ "geotag": "45.5953 64.9539",
+ "id": 184213,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Forest rain.wav",
+ "num_downloads": 1811,
+ "num_ratings": 21,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/184/184213_289999-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/184/184213_289999-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/184/184213_289999-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/184/184213_289999-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "field-recording",
+  "forest",
+  "rain"
+ ],
+ "url": "https://freesound.org/people/thorvandahl/sounds/184213/",
+ "username": "thorvandahl"
+}

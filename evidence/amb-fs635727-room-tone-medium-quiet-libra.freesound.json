@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2022-05-28T01:27:00Z",
+ "description": "recorded with Sony PCM-D50",
+ "duration": 121.371,
+ "geotag": null,
+ "id": 635727,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "room tone medium quiet library carpeted empty with heavy building ambience +distant sounds.flac",
+ "num_downloads": 359,
+ "num_ratings": 12,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/635/635727_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/635/635727_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/635/635727_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/635/635727_612689-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "carpeted",
+  "empty",
+  "library",
+  "medium",
+  "quiet",
+  "room",
+  "tone"
+ ],
+ "url": "https://freesound.org/people/kyles/sounds/635727/",
+ "username": "kyles"
+}

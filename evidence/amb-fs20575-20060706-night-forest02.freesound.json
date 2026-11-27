@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.385838150289017,
+ "channels": 2,
+ "created": "2006-07-11T08:12:10Z",
+ "description": "This was recorded late at night inside Pine forest. No Nightjars now, just a soft cricket chorus, some mosquitoes, and a distant owl (you have to listen carefully).Rode NT4 &gt; Shure FP24 &gt; iRiver H120(rockbox). The site was so quiet that I had to crank up the mic pre.",
+ "duration": 66.8807,
+ "geotag": null,
+ "id": 20575,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "20060706.night.forest02.flac",
+ "num_downloads": 17330,
+ "num_ratings": 346,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/20/20575_8043-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/20/20575_8043-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/20/20575_8043-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/20/20575_8043-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambiance",
+  "birds",
+  "field-recording",
+  "forest",
+  "insects",
+  "nature",
+  "night",
+  "owl",
+  "summer"
+ ],
+ "url": "https://freesound.org/people/dobroide/sounds/20575/",
+ "username": "dobroide"
+}

@@ -1,0 +1,29 @@
+{
+ "avg_rating": 2.75,
+ "channels": 2,
+ "created": "2007-12-07T11:20:56Z",
+ "description": "Quiet footsteps going down a hall, then a large crowd buzzing in a room with high ceilings.",
+ "duration": 195.884,
+ "geotag": null,
+ "id": 44681,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "museum1.wav",
+ "num_downloads": 579,
+ "num_ratings": 8,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/44/44681_43834-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/44/44681_43834-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/44/44681_43834-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/44/44681_43834-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "crowd",
+  "field-recording",
+  "footsteps",
+  "murmur",
+  "walla"
+ ],
+ "url": "https://freesound.org/people/moxobna/sounds/44681/",
+ "username": "moxobna"
+}

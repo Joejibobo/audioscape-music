@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.833333333333333,
+ "channels": 2,
+ "created": "2011-05-05T15:03:52Z",
+ "description": "A stereo field recording of steady rain on a breathable membrane fixed to a partially built roof. Recorded under the membrane, drips and some birdsong present. Rode NT-4 &gt; Shure FP 24 &gt; Sony PCM M10",
+ "duration": 136.978,
+ "geotag": null,
+ "id": 119784,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Steady Rain.WAV",
+ "num_downloads": 300,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/119/119784_634166-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/119/119784_634166-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/119/119784_634166-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/119/119784_634166-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "drip",
+  "drips",
+  "drop",
+  "drops",
+  "fabric",
+  "marquee",
+  "plastic",
+  "rain",
+  "tent",
+  "water"
+ ],
+ "url": "https://freesound.org/people/Benboncan/sounds/119784/",
+ "username": "Benboncan"
+}

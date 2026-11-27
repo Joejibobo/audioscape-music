@@ -1,0 +1,41 @@
+{
+ "avg_rating": 3.843137254901961,
+ "channels": 2,
+ "created": "2019-05-04T22:43:45Z",
+ "description": "On a beach close to Lisbon, at 20m in the sea. \nSome sounds of the waves and seagulls, as well as some people in background on the beach.\n\nRecorded by an ORTF Schoeps CCM4 x 2 on Sound Devices MixPre6 Recorder.\nOriginal recording in Wave 96kHz 24bit\nSound Ref: PT-190502-03",
+ "duration": 300.373,
+ "geotag": "38.570024 -9.19466",
+ "id": 468452,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Waves and seagulls on the beach close to Lisbon",
+ "num_downloads": 5555,
+ "num_ratings": 51,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/468/468452_1661766-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/468/468452_1661766-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/468/468452_1661766-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/468/468452_1661766-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "Lisbon",
+  "PT-190502-03",
+  "Waves",
+  "beach",
+  "blume",
+  "close",
+  "felix",
+  "felixblume",
+  "field-recording",
+  "lisboa",
+  "ocean",
+  "sea",
+  "seagulls",
+  "shore",
+  "soa",
+  "water",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/felix.blume/sounds/468452/",
+ "username": "felix.blume"
+}

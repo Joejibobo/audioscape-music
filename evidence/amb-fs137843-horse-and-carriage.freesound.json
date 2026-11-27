@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.764705882352941,
+ "channels": 1,
+ "created": "2011-12-15T10:27:53Z",
+ "description": "Following a draught horse hauling and four wheeled carriage on a dirt & mud road with a wired boom mic.  Original location recording with no processing.",
+ "duration": 89.4,
+ "geotag": "-31.471818103308795 152.7161192893982",
+ "id": 137843,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Horse and Carriage.aif",
+ "num_downloads": 3671,
+ "num_ratings": 34,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/137/137843_977564-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/137/137843_977564-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/137/137843_977564-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/137/137843_977564-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Horse",
+  "cart",
+  "draft-horse",
+  "draught-horse",
+  "historical"
+ ],
+ "url": "https://freesound.org/people/thefilmbakery/sounds/137843/",
+ "username": "thefilmbakery"
+}

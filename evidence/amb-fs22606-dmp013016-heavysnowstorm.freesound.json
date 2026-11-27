@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.225609756097561,
+ "channels": 2,
+ "created": "2006-09-05T18:06:09Z",
+ "description": "heavy snow storm, sound of the snow gliding on top of snow, constant hi freq with wind blowing, recorded at 48-16 with portable DAT using Schoeps MS Ball, edited and decoded in stereo in PT",
+ "duration": 211.84,
+ "geotag": null,
+ "id": 22606,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "DMP013016 HEAVYSNOWSTORM.wav",
+ "num_downloads": 7286,
+ "num_ratings": 164,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/22/22606_85523-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/22/22606_85523-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/22/22606_85523-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/22/22606_85523-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "snow",
+  "snowstorm",
+  "winter"
+ ],
+ "url": "https://freesound.org/people/martypinso/sounds/22606/",
+ "username": "martypinso"
+}

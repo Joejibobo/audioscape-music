@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.222222222222222,
+ "channels": 2,
+ "created": "2007-01-06T17:21:36Z",
+ "description": "With all that climate change no wonder it rained so much in Scotland in\r\nDecember 2006. Here the rain was recorded using once again the Soundman\r\nOKM II with the A 3 Adapter, placed in the boundary-layer way and a Sony TCD-D8 DAT recorder and all that under a plastic roof.\n",
+ "duration": 199.138,
+ "geotag": null,
+ "id": 28286,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Rain.WAV",
+ "num_downloads": 836,
+ "num_ratings": 45,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/28/28286_28867-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/28/28286_28867-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/28/28286_28867-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/28/28286_28867-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "field-recording",
+  "rain",
+  "roof"
+ ],
+ "url": "https://freesound.org/people/inchadney/sounds/28286/",
+ "username": "inchadney"
+}

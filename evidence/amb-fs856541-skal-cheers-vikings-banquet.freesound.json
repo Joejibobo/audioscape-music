@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.75,
+ "channels": 2,
+ "created": "2026-06-01T10:27:22Z",
+ "description": "recorded with zoom h6",
+ "duration": 115.942,
+ "geotag": "44.647809330417736 8.324811985773104",
+ "id": 856541,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "skal cheers vikings banquet",
+ "num_downloads": 128,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/856/856541_7254491-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/856/856541_7254491-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/856/856541_7254491-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/856/856541_7254491-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "cheers",
+  "crowd",
+  "medieval",
+  "people",
+  "skal",
+  "viking"
+ ],
+ "url": "https://freesound.org/people/Artiom_Constantinov/sounds/856541/",
+ "username": "Artiom_Constantinov"
+}

@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.769230769230769,
+ "channels": 2,
+ "created": "2020-11-30T21:38:07Z",
+ "description": "Several thunders with light rain.",
+ "duration": 76.84,
+ "geotag": null,
+ "id": 546677,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Thunder",
+ "num_downloads": 1247,
+ "num_ratings": 26,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/546/546677_5637404-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/546/546677_5637404-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/546/546677_5637404-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/546/546677_5637404-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "close",
+  "distant",
+  "rain",
+  "thunder",
+  "thunderstorm",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/trezz77/sounds/546677/",
+ "username": "trezz77"
+}

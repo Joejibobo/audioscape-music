@@ -1,0 +1,42 @@
+{
+ "avg_rating": 3.8333333333333335,
+ "channels": 2,
+ "created": "2014-11-27T23:47:57Z",
+ "description": "Flowing River\r\n\r\nRecorded using portable digital recorder",
+ "duration": 69.4134,
+ "geotag": null,
+ "id": 256012,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Flowing River",
+ "num_downloads": 1441,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/256/256012_4062622-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/256/256012_4062622-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/256/256012_4062622-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/256/256012_4062622-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambient",
+  "babbling",
+  "brook",
+  "bubbling",
+  "creek",
+  "field-recording",
+  "flow",
+  "flowing",
+  "gurgle",
+  "liquid",
+  "nature",
+  "relaxation",
+  "relaxing",
+  "river",
+  "splash",
+  "stream",
+  "trickle",
+  "water"
+ ],
+ "url": "https://freesound.org/people/Jagadamba/sounds/256012/",
+ "username": "Jagadamba"
+}
