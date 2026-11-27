@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2011-02-23T15:36:47Z",
+ "description": "Distant lighting storm recorded with pair of Neumann KM76 through Manley Dual Mono Mic Pre and Lavry Blue AD.",
+ "duration": 88.7931,
+ "geotag": null,
+ "id": 115249,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "distant_storm_04.wav",
+ "num_downloads": 345,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/115/115249_739478-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/115/115249_739478-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/115/115249_739478-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/115/115249_739478-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "atmosphere",
+  "background",
+  "city",
+  "distant",
+  "lightning",
+  "rain",
+  "storm",
+  "thunder",
+  "weather",
+  "windy"
+ ],
+ "url": "https://freesound.org/people/matucha/sounds/115249/",
+ "username": "matucha"
+}

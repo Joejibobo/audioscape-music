@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.454545454545454,
+ "channels": 1,
+ "created": "2009-07-08T07:30:58Z",
+ "description": "This is exactly what the title says: rain hitting the roof of a house. Halfway through there is some noise from inside that bleeds in, but it dies out quickly, and kind of adds to the sound anyway. Recorded mono with a dynamic mic.\n",
+ "duration": 89.35,
+ "geotag": null,
+ "id": 75262,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "Roof_Rain_01.wav",
+ "num_downloads": 520,
+ "num_ratings": 11,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/75/75262_1161310-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/75/75262_1161310-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/75/75262_1161310-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/75/75262_1161310-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "hitting",
+  "rain",
+  "recorded",
+  "roof"
+ ],
+ "url": "https://freesound.org/people/itsnotkeller/sounds/75262/",
+ "username": "itsnotkeller"
+}

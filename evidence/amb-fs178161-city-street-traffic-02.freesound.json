@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.7,
+ "channels": 1,
+ "created": "2013-02-15T01:40:32Z",
+ "description": "Afternoon rush hour traffic on a four lane city road recorded from a roof balcony.\r\n\r\nRode M3 > Marantz PMD661.",
+ "duration": 303.872,
+ "geotag": "37.8715081236 -122.274508774",
+ "id": 178161,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "City_Street_Traffic_02.wav",
+ "num_downloads": 1361,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/178/178161_2035780-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/178/178161_2035780-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/178/178161_2035780-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/178/178161_2035780-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "ambience",
+  "bus",
+  "cars",
+  "city",
+  "motorcycle",
+  "street",
+  "traffic",
+  "truck",
+  "urban"
+ ],
+ "url": "https://freesound.org/people/dheming/sounds/178161/",
+ "username": "dheming"
+}

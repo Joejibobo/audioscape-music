@@ -1,0 +1,29 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2023-02-03T21:31:09Z",
+ "description": "Strong Rain Under Roof",
+ "duration": 175.938,
+ "geotag": null,
+ "id": 672759,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Strong Rain Under Roof",
+ "num_downloads": 114,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/672/672759_1357949-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/672/672759_1357949-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/672/672759_1357949-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/672/672759_1357949-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "rain",
+  "raining",
+  "roof",
+  "strong-rain",
+  "water"
+ ],
+ "url": "https://freesound.org/people/DaniloSFX/sounds/672759/",
+ "username": "DaniloSFX"
+}

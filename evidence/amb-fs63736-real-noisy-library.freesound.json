@@ -1,0 +1,28 @@
+{
+ "avg_rating": 3.5,
+ "channels": 2,
+ "created": "2008-11-26T15:36:21Z",
+ "description": "A really loud time in one of the Palm Beach County Public Library buildings recorded with Olympus DS-40 and converted to WAV with \"Switch\". Some files were normalized and some have bass frequencies rolled off due to abnormal wind noise. ",
+ "duration": 219.711,
+ "geotag": null,
+ "id": 63736,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "real_noisy_library.wav",
+ "num_downloads": 170,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/63/63736_4948-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/63/63736_4948-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/63/63736_4948-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/63/63736_4948-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambient",
+  "field-recording",
+  "library",
+  "stereo"
+ ],
+ "url": "https://freesound.org/people/NoiseCollector/sounds/63736/",
+ "username": "NoiseCollector"
+}

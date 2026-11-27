@@ -1,0 +1,29 @@
+{
+ "avg_rating": 3.8,
+ "channels": 2,
+ "created": "2012-01-01T20:23:43Z",
+ "description": "People walking around the Zagreb Cathedral, talking silently, etc.",
+ "duration": 108.0,
+ "geotag": "45.8145334012764 15.979785919189453",
+ "id": 140245,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "cathedral_zagreb.wav",
+ "num_downloads": 274,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/140/140245_52655-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/140/140245_52655-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/140/140245_52655-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/140/140245_52655-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "cathedral",
+  "church",
+  "zagreb"
+ ],
+ "url": "https://freesound.org/people/aesqe/sounds/140245/",
+ "username": "aesqe"
+}

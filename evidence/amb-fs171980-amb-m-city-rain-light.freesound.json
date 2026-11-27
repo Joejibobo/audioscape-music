@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.54,
+ "channels": 1,
+ "created": "2012-12-18T15:54:01Z",
+ "description": "This is the sound of light rain falling in the courtyard of my apartment building.\r\n\r\nRecorded with: AT 4073a, Sound Devices 702t",
+ "duration": 206.206,
+ "geotag": null,
+ "id": 171980,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "AMB_M_City_Rain_Light.wav",
+ "num_downloads": 2782,
+ "num_ratings": 50,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/171/171980_221578-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/171/171980_221578-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/171/171980_221578-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/171/171980_221578-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "city",
+  "drip",
+  "drizzle",
+  "light",
+  "rain",
+  "splatter",
+  "water"
+ ],
+ "url": "https://freesound.org/people/conleec/sounds/171980/",
+ "username": "conleec"
+}

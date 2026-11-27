@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.6923076923076925,
+ "channels": 2,
+ "created": "2025-10-11T05:51:30Z",
+ "description": "A short recording of my backyard in the fall of 2025. This is rural northern Arkansas, in the foothills near the Ozark National Forest.",
+ "duration": 242.751,
+ "geotag": "36.071724 -91.928491",
+ "id": 829275,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "midnight in the Ozarks",
+ "num_downloads": 126,
+ "num_ratings": 13,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/829/829275_14234975-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/829/829275_14234975-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/829/829275_14234975-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/829/829275_14234975-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "arkansas",
+  "country",
+  "crickets",
+  "midnight",
+  "night",
+  "owl"
+ ],
+ "url": "https://freesound.org/people/JHazen/sounds/829275/",
+ "username": "JHazen"
+}

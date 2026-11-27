@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.74468085106383,
+ "channels": 2,
+ "created": "2023-03-30T03:32:48Z",
+ "description": "Sound of a campfire in a very quiet setting late at night.\n\n24 Bit / 48 kHz, Sony PCM-D100\nlight compression",
+ "duration": 83.6213,
+ "geotag": null,
+ "id": 681366,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Campfire (Position 1)",
+ "num_downloads": 1135,
+ "num_ratings": 47,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/681/681366_5752443-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/681/681366_5752443-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/681/681366_5752443-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/681/681366_5752443-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "burning",
+  "campfire",
+  "crackle",
+  "crackling",
+  "fire",
+  "sizzle",
+  "wood"
+ ],
+ "url": "https://freesound.org/people/SKrafft/sounds/681366/",
+ "username": "SKrafft"
+}

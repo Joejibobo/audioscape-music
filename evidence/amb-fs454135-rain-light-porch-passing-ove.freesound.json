@@ -1,0 +1,29 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2018-12-17T23:09:26Z",
+ "description": "rain light porch passing over1.flac",
+ "duration": 137.907,
+ "geotag": null,
+ "id": 454135,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "rain light porch passing over1.flac",
+ "num_downloads": 117,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/454/454135_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/454/454135_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/454/454135_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/454/454135_612689-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "light",
+  "over",
+  "passing",
+  "porch",
+  "rain"
+ ],
+ "url": "https://freesound.org/people/kyles/sounds/454135/",
+ "username": "kyles"
+}

@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.777777777777778,
+ "channels": 1,
+ "created": "2019-08-16T23:02:20Z",
+ "description": "Horse slowly walking on hard ground. Long, steady walk. Possibly a loop. Much tape hiss.",
+ "duration": 68.7801,
+ "geotag": null,
+ "id": 479743,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "R14-10-Horse Long Steady Walk.wav",
+ "num_downloads": 331,
+ "num_ratings": 9,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/479/479743_2524442-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/479/479743_2524442-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/479/479743_2524442-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/479/479743_2524442-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Animals",
+  "Horses",
+  "Optical",
+  "Vintage"
+ ],
+ "url": "https://freesound.org/people/craigsmith/sounds/479743/",
+ "username": "craigsmith"
+}

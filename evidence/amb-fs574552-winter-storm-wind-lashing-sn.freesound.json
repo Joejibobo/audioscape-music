@@ -1,0 +1,27 @@
+{
+ "avg_rating": 4.9375,
+ "channels": 2,
+ "created": "2021-06-06T15:13:10Z",
+ "description": "Wind, snow, cold. Sony M10.",
+ "duration": 126.422,
+ "geotag": "43.6507481933 -79.3579099055",
+ "id": 574552,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "WInter storm wind lashing snow DISTILERY 190212.flac",
+ "num_downloads": 1188,
+ "num_ratings": 16,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/574/574552_97550-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/574/574552_97550-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/574/574552_97550-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/574/574552_97550-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "snow",
+  "wind",
+  "winter"
+ ],
+ "url": "https://freesound.org/people/TRP/sounds/574552/",
+ "username": "TRP"
+}

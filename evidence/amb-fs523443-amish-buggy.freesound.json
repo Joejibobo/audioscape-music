@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2020-06-22T21:01:56Z",
+ "description": "Stationary mic on front porch recording an Amish buggy passing by on road.",
+ "duration": 67.837,
+ "geotag": null,
+ "id": 523443,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Amish Buggy.mp3",
+ "num_downloads": 188,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/523/523443_1621586-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/523/523443_1621586-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/523/523443_1621586-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/523/523443_1621586-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Amish",
+  "buggy",
+  "hooves",
+  "horse",
+  "passes-by"
+ ],
+ "url": "https://freesound.org/people/5ound5murf23/sounds/523443/",
+ "username": "5ound5murf23"
+}

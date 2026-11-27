@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.457142857142857,
+ "channels": 2,
+ "created": "2012-02-25T12:26:24Z",
+ "description": "Wind in the trees with other ambient sounds like cockotoos and magpies.",
+ "duration": 73.5,
+ "geotag": "-32.650650422 138.103283644",
+ "id": 147638,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Wind in Pine Trees",
+ "num_downloads": 4530,
+ "num_ratings": 35,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/147/147638_1728127-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/147/147638_1728127-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/147/147638_1728127-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/147/147638_1728127-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "australia",
+  "australian",
+  "cockatoos",
+  "field-recording",
+  "galah",
+  "trees",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/kangaroovindaloo/sounds/147638/",
+ "username": "kangaroovindaloo"
+}

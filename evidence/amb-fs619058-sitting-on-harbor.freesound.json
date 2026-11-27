@@ -1,0 +1,38 @@
+{
+ "avg_rating": 5.0,
+ "channels": 1,
+ "created": "2022-02-11T09:23:22Z",
+ "description": "sitting on harbor",
+ "duration": 166.326,
+ "geotag": null,
+ "id": 619058,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "sitting on harbor.mp3",
+ "num_downloads": 519,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/619/619058_781461-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/619/619058_781461-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/619/619058_781461-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/619/619058_781461-lq.ogg"
+ },
+ "samplerate": 32000.0,
+ "tags": [
+  "bay",
+  "boat",
+  "boats",
+  "dock",
+  "field-recording",
+  "harbor",
+  "marina",
+  "ocean",
+  "port",
+  "river",
+  "sea",
+  "ship",
+  "water",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/mrrap4food/sounds/619058/",
+ "username": "mrrap4food"
+}

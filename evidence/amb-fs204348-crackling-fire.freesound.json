@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.72093023255814,
+ "channels": 2,
+ "created": "2013-10-28T20:45:04Z",
+ "description": "A close perspective of a small backyard fire, crickets in the background.\r\nRecorded in September 2013, on a Zoom H4n's internal mics, in 48KHz, 24bit, in Port St Lucie, FL, USA.",
+ "duration": 95.5,
+ "geotag": "27.24850142248192 -80.38604892790318",
+ "id": 204348,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Crackling Fire",
+ "num_downloads": 3590,
+ "num_ratings": 43,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/204/204348_152878-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/204/204348_152878-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/204/204348_152878-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/204/204348_152878-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "campfire",
+  "crackling",
+  "crickets",
+  "field-recording",
+  "fire"
+ ],
+ "url": "https://freesound.org/people/Sauron974/sounds/204348/",
+ "username": "Sauron974"
+}

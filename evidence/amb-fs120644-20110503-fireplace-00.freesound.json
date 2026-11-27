@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.662162162162162,
+ "channels": 2,
+ "created": "2011-05-15T09:36:51Z",
+ "description": "soft noise from a fireplace, few cracklings. PCM M10 internal mics",
+ "duration": 191.704,
+ "geotag": "28.020672938178873 -15.549860000610352",
+ "id": 120644,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "20110503_fireplace.00.wav",
+ "num_downloads": 2361,
+ "num_ratings": 37,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/120/120644_8043-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/120/120644_8043-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/120/120644_8043-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/120/120644_8043-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "burning",
+  "chimney",
+  "crackling",
+  "field-recording",
+  "fire",
+  "fireplace",
+  "flames"
+ ],
+ "url": "https://freesound.org/people/dobroide/sounds/120644/",
+ "username": "dobroide"
+}

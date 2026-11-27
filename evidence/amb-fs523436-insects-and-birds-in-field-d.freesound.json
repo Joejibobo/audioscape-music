@@ -1,0 +1,38 @@
+{
+ "avg_rating": 4.851851851851852,
+ "channels": 2,
+ "created": "2020-06-22T21:00:26Z",
+ "description": "Field recording of insects and bird calls in a clearing at daytime.",
+ "duration": 121.87,
+ "geotag": null,
+ "id": 523436,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "Insects and Birds in field Day",
+ "num_downloads": 1591,
+ "num_ratings": 27,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/523/523436_11502151-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/523/523436_11502151-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/523/523436_11502151-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/523/523436_11502151-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "ambience",
+  "bird",
+  "birds",
+  "blowing",
+  "calls",
+  "chirping",
+  "crickets",
+  "day",
+  "field-recording",
+  "forest",
+  "insects",
+  "nature",
+  "stereo",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/Clearwavsound/sounds/523436/",
+ "username": "Clearwavsound"
+}

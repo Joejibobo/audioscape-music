@@ -1,0 +1,36 @@
+{
+ "avg_rating": 4.5625,
+ "channels": 2,
+ "created": "2017-03-05T18:16:26Z",
+ "description": "Light rain falling in the forest, with background of ambient rain and the pops and plops as raindrops hit the understory leaves nearby. Uploaded as MP3 but if anyone needs WAV drop me a message. Recorded with an Olympus LS-14.",
+ "duration": 541.708,
+ "geotag": null,
+ "id": 383064,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "ForestRainShower1a.mp3",
+ "num_downloads": 1365,
+ "num_ratings": 48,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/383/383064_5486695-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/383/383064_5486695-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/383/383064_5486695-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/383/383064_5486695-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambience",
+  "ambient",
+  "dripping",
+  "drops",
+  "field-recording",
+  "forest",
+  "leaves",
+  "nature",
+  "rain",
+  "raindrops",
+  "raining",
+  "water"
+ ],
+ "url": "https://freesound.org/people/AlanCat/sounds/383064/",
+ "username": "AlanCat"
+}

@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.555555555555555,
+ "channels": 2,
+ "created": "2017-05-05T04:22:13Z",
+ "description": "Frogs at night croaking in marsh. Recorded in Vernon BC 5/4/17 on a Zoom H6.",
+ "duration": 135.337,
+ "geotag": "50.26388754007493 -119.24506902694702",
+ "id": 391437,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Frogs at night",
+ "num_downloads": 493,
+ "num_ratings": 9,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/391/391437_3168395-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/391/391437_3168395-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/391/391437_3168395-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/391/391437_3168395-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "croak",
+  "croaking",
+  "field-recording",
+  "frog",
+  "frogs",
+  "nature",
+  "night",
+  "pond",
+  "swamp"
+ ],
+ "url": "https://freesound.org/people/spiritvegetable/sounds/391437/",
+ "username": "spiritvegetable"
+}

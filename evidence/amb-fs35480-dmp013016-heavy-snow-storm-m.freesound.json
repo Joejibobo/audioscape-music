@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.425925925925926,
+ "channels": 2,
+ "created": "2007-05-30T22:02:43Z",
+ "description": "snow storm, snow gliding on snow, wind blow and occasionnal rustling",
+ "duration": 213.291,
+ "geotag": null,
+ "id": 35480,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "DMP013016 HEAVY SNOW STORM MS.wav",
+ "num_downloads": 7568,
+ "num_ratings": 81,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/35/35480_85523-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/35/35480_85523-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/35/35480_85523-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/35/35480_85523-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "freq",
+  "high",
+  "snow",
+  "storm",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/martypinso/sounds/35480/",
+ "username": "martypinso"
+}

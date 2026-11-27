@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.857142857142857,
+ "channels": 2,
+ "created": "2021-10-25T20:16:58Z",
+ "description": "Ambience sound of people walking around a quiet library.",
+ "duration": 200.009,
+ "geotag": "-25.8728488237 28.2358680355",
+ "id": 594048,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "Quiet Library Ambience",
+ "num_downloads": 303,
+ "num_ratings": 7,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/594/594048_12675537-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/594/594048_12675537-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/594/594048_12675537-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/594/594048_12675537-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "amb",
+  "library",
+  "owi",
+  "quiet"
+ ],
+ "url": "https://freesound.org/people/TyroneBarr/sounds/594048/",
+ "username": "TyroneBarr"
+}

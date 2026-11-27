@@ -1,0 +1,38 @@
+{
+ "avg_rating": 4.9,
+ "channels": 2,
+ "created": "2025-02-06T21:56:52Z",
+ "description": "Forest daytime, bird calls.\n\nRecorded in Tokai Forest, Cape Town, South Africa.\nRecorded with a Zoom H2n in 4 channel surround mode (M/S pair and X/Y pair 180 degrees apart).",
+ "duration": 105.614,
+ "geotag": null,
+ "id": 788118,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Forest Day - Bird Chirps, Insects",
+ "num_downloads": 311,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/788/788118_12262933-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/788/788118_12262933-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/788/788118_12262933-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/788/788118_12262933-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "ambient",
+  "atmosphere",
+  "background",
+  "background-sound",
+  "bird",
+  "birds",
+  "chirp",
+  "day",
+  "field-recording",
+  "forest",
+  "insect",
+  "soundscape"
+ ],
+ "url": "https://freesound.org/people/RealSquink/sounds/788118/",
+ "username": "RealSquink"
+}

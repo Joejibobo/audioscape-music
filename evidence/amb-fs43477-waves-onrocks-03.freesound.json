@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.285714285714286,
+ "channels": 2,
+ "created": "2007-11-04T08:28:43Z",
+ "description": "small waves on rocks - rec with R1, close to water. +12 db gain",
+ "duration": 170.561,
+ "geotag": "41.1978054712 9.3342000246",
+ "id": 43477,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "waves_onrocks_03.flac",
+ "num_downloads": 1611,
+ "num_ratings": 14,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/43/43477_229898-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/43/43477_229898-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/43/43477_229898-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/43/43477_229898-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "field-recording",
+  "rocks",
+  "sea",
+  "water",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/deleted_user_229898/sounds/43477/",
+ "username": "deleted_user_229898"
+}

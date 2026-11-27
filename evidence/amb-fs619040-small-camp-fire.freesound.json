@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.7611940298507465,
+ "channels": 1,
+ "created": "2022-02-11T09:14:31Z",
+ "description": "camp fire",
+ "duration": 130.093,
+ "geotag": null,
+ "id": 619040,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Small camp fire.mp3",
+ "num_downloads": 4282,
+ "num_ratings": 67,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/619/619040_781461-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/619/619040_781461-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/619/619040_781461-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/619/619040_781461-lq.ogg"
+ },
+ "samplerate": 32000.0,
+ "tags": [
+  "burn",
+  "burning",
+  "camp",
+  "crackle",
+  "crackling",
+  "fire",
+  "fireplace",
+  "flame",
+  "flames",
+  "sparks"
+ ],
+ "url": "https://freesound.org/people/mrrap4food/sounds/619040/",
+ "username": "mrrap4food"
+}

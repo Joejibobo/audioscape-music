@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.739130434782608,
+ "channels": 2,
+ "created": "2012-08-22T14:42:44Z",
+ "description": "Strong wind through rocks",
+ "duration": 302.6,
+ "geotag": "-34.33790819031363 18.955965042114258",
+ "id": 163609,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Wind, strong. through rocks 1.wav",
+ "num_downloads": 1985,
+ "num_ratings": 46,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/163/163609_59982-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/163/163609_59982-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/163/163609_59982-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/163/163609_59982-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Mountain",
+  "Rocks",
+  "South-Africa",
+  "Wind"
+ ],
+ "url": "https://freesound.org/people/Leandros.Ntounis/sounds/163609/",
+ "username": "Leandros.Ntounis"
+}

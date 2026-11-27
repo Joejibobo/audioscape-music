@@ -1,0 +1,32 @@
+{
+ "avg_rating": 4.5,
+ "channels": 2,
+ "created": "2016-02-08T06:06:41Z",
+ "description": "An outside table at a pub beside the Yarra River in Melbourne.",
+ "duration": 108.484,
+ "geotag": null,
+ "id": 335714,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Ambience - Riverland oub by river, noisy bird some seagulls.wav",
+ "num_downloads": 263,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/335/335714_5658680-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/335/335714_5658680-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/335/335714_5658680-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/335/335714_5658680-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "ambience",
+  "crowd",
+  "drinking",
+  "food",
+  "people",
+  "pub",
+  "riverside",
+  "tavern"
+ ],
+ "url": "https://freesound.org/people/dnlburnett/sounds/335714/",
+ "username": "dnlburnett"
+}

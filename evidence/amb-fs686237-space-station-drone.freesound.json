@@ -1,0 +1,28 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2023-05-06T14:57:34Z",
+ "description": "This file captures the ambient droning sound that evokes the atmosphere of a space station. It is a soothing yet eerie sound, created by the constant hum and buzz of the space station's machinery and equipment. The sound is reminiscent of being in a spaceship, surrounded by the vast emptiness of space and the unyielding hum of technology. This file is perfect for creating a space-themed ambience or for adding a touch of realism to any space-related project.",
+ "duration": 120.0,
+ "geotag": null,
+ "id": 686237,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Space Station Drone",
+ "num_downloads": 880,
+ "num_ratings": 33,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/686/686237_9621730-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/686/686237_9621730-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/686/686237_9621730-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/686/686237_9621730-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "scifi",
+  "space",
+  "space-echo",
+  "station"
+ ],
+ "url": "https://freesound.org/people/db3005/sounds/686237/",
+ "username": "db3005"
+}

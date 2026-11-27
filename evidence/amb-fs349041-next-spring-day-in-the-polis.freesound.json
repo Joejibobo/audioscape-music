@@ -1,0 +1,37 @@
+{
+ "avg_rating": 4.142857142857143,
+ "channels": 2,
+ "created": "2016-07-03T19:36:50Z",
+ "description": "next spring day in the polish forest",
+ "duration": 260.401,
+ "geotag": null,
+ "id": 349041,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "next spring day in the polish forest - front",
+ "num_downloads": 612,
+ "num_ratings": 7,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/349/349041_3832471-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/349/349041_3832471-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/349/349041_3832471-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/349/349041_3832471-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "bird",
+  "birds",
+  "birdsong",
+  "countryside",
+  "day",
+  "field-recording",
+  "forest",
+  "morning",
+  "nature",
+  "next",
+  "poland",
+  "polish",
+  "spring"
+ ],
+ "url": "https://freesound.org/people/CRAFTCREST.com/sounds/349041/",
+ "username": "CRAFTCREST.com"
+}

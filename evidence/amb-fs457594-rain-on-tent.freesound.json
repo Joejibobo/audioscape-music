@@ -1,0 +1,32 @@
+{
+ "avg_rating": 2.6666666666666665,
+ "channels": 2,
+ "created": "2019-01-29T12:27:40Z",
+ "description": "Recording of rain at night from inside a small tent with an R-26 stereo recorder.",
+ "duration": 80.9813,
+ "geotag": null,
+ "id": 457594,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Rain on tent",
+ "num_downloads": 309,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/457/457594_5984825-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/457/457594_5984825-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/457/457594_5984825-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/457/457594_5984825-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "camping",
+  "canvas",
+  "drops",
+  "rain",
+  "raining",
+  "storm",
+  "tarp",
+  "tent"
+ ],
+ "url": "https://freesound.org/people/dr19/sounds/457594/",
+ "username": "dr19"
+}

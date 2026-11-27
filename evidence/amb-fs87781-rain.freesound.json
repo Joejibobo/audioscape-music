@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.625,
+ "channels": 2,
+ "created": "2010-01-15T14:25:05Z",
+ "description": "Gentle rain in the country, standing under a metal roof.",
+ "duration": 121.566,
+ "geotag": null,
+ "id": 87781,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "rain.wav",
+ "num_downloads": 417,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/87/87781_43834-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/87/87781_43834-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/87/87781_43834-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/87/87781_43834-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "drizzle",
+  "metal",
+  "rain",
+  "roof"
+ ],
+ "url": "https://freesound.org/people/moxobna/sounds/87781/",
+ "username": "moxobna"
+}

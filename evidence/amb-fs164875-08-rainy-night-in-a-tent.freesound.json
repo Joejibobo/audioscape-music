@@ -1,0 +1,28 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2012-09-04T14:10:51Z",
+ "description": "Recording of rain falling on the tent on a camp-site in Glen Nevis early in the morning. \r\n\r\nRecorded using Marantz PMD660 recorder and Sennheiser MD46 cardioid microphone. Edited in Audacity to create stereo effect by combining mono tracks. ",
+ "duration": 365.3,
+ "geotag": "56.801630250829724 -5.0722503662109375",
+ "id": 164875,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "08.Rainy-Night-in-a-Tent.wav",
+ "num_downloads": 206,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/164/164875_1854719-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/164/164875_1854719-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/164/164875_1854719-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/164/164875_1854719-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "campsite",
+  "field-recording",
+  "rain",
+  "tent"
+ ],
+ "url": "https://freesound.org/people/LolitaPerdurabo/sounds/164875/",
+ "username": "LolitaPerdurabo"
+}

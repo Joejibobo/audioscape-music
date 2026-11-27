@@ -1,0 +1,36 @@
+{
+ "avg_rating": 4.318181818181818,
+ "channels": 1,
+ "created": "2012-10-03T10:43:54Z",
+ "description": "A river flowing nearby.",
+ "duration": 85.4,
+ "geotag": null,
+ "id": 166310,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "River 2.wav",
+ "num_downloads": 4601,
+ "num_ratings": 44,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/166/166310_2104797-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/166/166310_2104797-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/166/166310_2104797-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/166/166310_2104797-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "atmos",
+  "atmosphere",
+  "babbling",
+  "brook",
+  "exterior",
+  "flow",
+  "flowing",
+  "river",
+  "running",
+  "stream",
+  "water"
+ ],
+ "url": "https://freesound.org/people/deleted_user_2104797/sounds/166310/",
+ "username": "deleted_user_2104797"
+}

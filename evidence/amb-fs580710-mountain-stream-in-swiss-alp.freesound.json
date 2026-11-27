@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.0,
+ "channels": 2,
+ "created": "2021-07-18T15:41:43Z",
+ "description": "A small stream in Central Switzerland, about 1700m above sea level",
+ "duration": 68.68,
+ "geotag": "46.8912894636 8.49094748577",
+ "id": 580710,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Mountain Stream in Swiss Alps",
+ "num_downloads": 169,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/580/580710_13027121-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/580/580710_13027121-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/580/580710_13027121-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/580/580710_13027121-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Alps",
+  "Mountain",
+  "River",
+  "Stereo",
+  "Stream",
+  "Swiss",
+  "Water"
+ ],
+ "url": "https://freesound.org/people/1_pull/sounds/580710/",
+ "username": "1_pull"
+}

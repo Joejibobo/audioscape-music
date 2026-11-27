@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2021-06-10T19:04:29Z",
+ "description": "Relaxed athmosphere of rustling leaves in the wind in a forest. Recorded during a short walk.",
+ "duration": 106.0,
+ "geotag": null,
+ "id": 575380,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Leaves rustle in the wind",
+ "num_downloads": 1375,
+ "num_ratings": 24,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/575/575380_5985747-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/575/575380_5985747-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/575/575380_5985747-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/575/575380_5985747-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "birds",
+  "field-recording",
+  "forest",
+  "leaves",
+  "nature",
+  "rustles",
+  "tree",
+  "trees",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/Cinetony/sounds/575380/",
+ "username": "Cinetony"
+}

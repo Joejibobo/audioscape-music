@@ -1,0 +1,36 @@
+{
+ "avg_rating": 4.55,
+ "channels": 2,
+ "created": "2017-11-13T11:17:55Z",
+ "description": "Small fire from the brushwood.\r\nEdited and normalized.",
+ "duration": 72.094,
+ "geotag": "54.9115351382 35.78462909320001",
+ "id": 410728,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "brushwood in the fire 1",
+ "num_downloads": 1234,
+ "num_ratings": 20,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/410/410728_270868-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/410/410728_270868-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/410/410728_270868-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/410/410728_270868-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "brushwood",
+  "burn",
+  "burning",
+  "crackle",
+  "crackling",
+  "crisp",
+  "fire",
+  "firewood",
+  "flame",
+  "flames",
+  "hiss",
+  "outdoors"
+ ],
+ "url": "https://freesound.org/people/Selector/sounds/410728/",
+ "username": "Selector"
+}

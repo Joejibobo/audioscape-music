@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.333333333333333,
+ "channels": 2,
+ "created": "2019-06-28T14:29:10Z",
+ "description": "Ambience of a ruined monastery. Lots of bird sounds.",
+ "duration": 343.074,
+ "geotag": null,
+ "id": 475649,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Monastery ruins_1(birds, pigeons, wings, wind).wav",
+ "num_downloads": 181,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/475/475649_7009965-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/475/475649_7009965-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/475/475649_7009965-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/475/475649_7009965-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambient",
+  "birds",
+  "monastery",
+  "pigeons",
+  "ruins",
+  "wind",
+  "wings"
+ ],
+ "url": "https://freesound.org/people/o_ciz/sounds/475649/",
+ "username": "o_ciz"
+}

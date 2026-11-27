@@ -1,0 +1,38 @@
+{
+ "avg_rating": 4.84,
+ "channels": 2,
+ "created": "2023-01-19T14:12:49Z",
+ "description": "Drops of rain in a silent forest by night. Loud drops are falling on a soil of fallen wet leaves. \n\nFrance, jan 2023\n\nRecorded with schoeps AB ORTF\nrecorded on Sounddevice mixpre6\nwave stereo, 48Khz, 24 bits",
+ "duration": 232.597,
+ "geotag": null,
+ "id": 670303,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "forest drop rain.wav",
+ "num_downloads": 595,
+ "num_ratings": 25,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/670/670303_11519060-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/670/670303_11519060-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/670/670303_11519060-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/670/670303_11519060-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambiance",
+  "ambience",
+  "ambient",
+  "atmosphere",
+  "drop",
+  "field-recording",
+  "forest",
+  "nature",
+  "night",
+  "rain",
+  "trees",
+  "water",
+  "weather",
+  "winter"
+ ],
+ "url": "https://freesound.org/people/bruno.auzet/sounds/670303/",
+ "username": "bruno.auzet"
+}

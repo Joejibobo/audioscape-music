@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.625,
+ "channels": 2,
+ "created": "2022-01-29T14:05:37Z",
+ "description": "Heavy rain pouring with water stream on concrete. Recorded on a zoom h5 handy recorder",
+ "duration": 110.259,
+ "geotag": null,
+ "id": 616446,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Heavy rain pouring with water stream on concrete",
+ "num_downloads": 237,
+ "num_ratings": 8,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/616/616446_6801313-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/616/616446_6801313-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/616/616446_6801313-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/616/616446_6801313-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "downpour",
+  "heavy",
+  "rain",
+  "shower",
+  "storm",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/AdrianoAnjos/sounds/616446/",
+ "username": "AdrianoAnjos"
+}

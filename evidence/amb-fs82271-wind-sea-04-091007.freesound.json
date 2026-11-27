@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.54,
+ "channels": 2,
+ "created": "2009-10-26T14:37:43Z",
+ "description": "Big waves hitting rocky shore, after storm. Some spray. Tascam DR-100",
+ "duration": 69.4553,
+ "geotag": null,
+ "id": 82271,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Wind-sea 04-091007.wav",
+ "num_downloads": 2040,
+ "num_ratings": 25,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/82/82271_94000-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/82/82271_94000-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/82/82271_94000-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/82/82271_94000-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "field-recording",
+  "noise",
+  "sea",
+  "storm",
+  "water",
+  "waves",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/ra_gun/sounds/82271/",
+ "username": "ra_gun"
+}

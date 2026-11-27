@@ -1,0 +1,37 @@
+{
+ "avg_rating": 4.454545454545454,
+ "channels": 2,
+ "created": "2014-12-17T18:19:29Z",
+ "description": "Ambience of a quiet street in Hamburg with light rain, cars passing by frequently, sound of light rain and raindrops from trees, traffic noise in the distance is very audible.\r\n\r\nRecorded with a ~30cm AB pair of Neumann KM183 Microphones on a Zoom H4.",
+ "duration": 373.784,
+ "geotag": null,
+ "id": 258165,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Semi-quiet street in city, cars passing by, Light rain and raindrops from trees, Distant traffic noise",
+ "num_downloads": 1451,
+ "num_ratings": 11,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/258/258165_627541-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/258/258165_627541-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/258/258165_627541-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/258/258165_627541-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "atmo",
+  "atmosphere",
+  "cars",
+  "city",
+  "hamburg",
+  "passing",
+  "quiet",
+  "rain",
+  "raindrops",
+  "semiquiet",
+  "street",
+  "traffic"
+ ],
+ "url": "https://freesound.org/people/Pfannkuchn/sounds/258165/",
+ "username": "Pfannkuchn"
+}

@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.7272727272727275,
+ "channels": 2,
+ "created": "2023-08-02T12:50:12Z",
+ "description": "A large fire burns",
+ "duration": 184.047,
+ "geotag": null,
+ "id": 698209,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Fire Large Roar And Hiss With Crackles.mp3",
+ "num_downloads": 670,
+ "num_ratings": 22,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/698/698209_8307157-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/698/698209_8307157-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/698/698209_8307157-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/698/698209_8307157-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "burn",
+  "burning",
+  "fire",
+  "flame",
+  "flames",
+  "nature"
+ ],
+ "url": "https://freesound.org/people/theoneandtruelybitch/sounds/698209/",
+ "username": "theoneandtruelybitch"
+}

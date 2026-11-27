@@ -1,0 +1,32 @@
+{
+ "avg_rating": 1.0,
+ "channels": 2,
+ "created": "2008-07-06T10:53:05Z",
+ "description": "This track was recorded at Cove Harbour in the South East of Scotland on a windy day in June with those Shure WL 183 microphones, a FEL preamp into an iriver ihp-120.",
+ "duration": 585.831,
+ "geotag": "55.93827087013392 -2.345173358915418",
+ "id": 56609,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Cove Harbour.wav",
+ "num_downloads": 364,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/56/56609_28867-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/56/56609_28867-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/56/56609_28867-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/56/56609_28867-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "beach",
+  "cove",
+  "field-recording",
+  "harbour",
+  "scotland",
+  "sea",
+  "seaside",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/inchadney/sounds/56609/",
+ "username": "inchadney"
+}

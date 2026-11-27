@@ -1,0 +1,35 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2018-12-17T23:06:32Z",
+ "description": "crowd int medium walla wood dining hall quebecois voices2 Montreal, Canada.flac",
+ "duration": 119.167,
+ "geotag": null,
+ "id": 453934,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "crowd int medium walla wood dining hall quebecois voices2 Montreal, Canada.flac",
+ "num_downloads": 49,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/453/453934_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/453/453934_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/453/453934_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/453/453934_612689-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Canada",
+  "Montreal",
+  "crowd",
+  "dining",
+  "hall",
+  "int",
+  "medium",
+  "quebecois",
+  "voices",
+  "walla",
+  "wood"
+ ],
+ "url": "https://freesound.org/people/kyles/sounds/453934/",
+ "username": "kyles"
+}

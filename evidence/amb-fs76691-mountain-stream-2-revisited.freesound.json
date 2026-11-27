@@ -1,0 +1,39 @@
+{
+ "avg_rating": 4.35,
+ "channels": 2,
+ "created": "2009-07-30T12:47:12Z",
+ "description": "A loopable stereo field-recording of a mountain stream, no birds or other sounds. Rode NT-4 &gt; FEL battery pre-amp &gt; Zoom H2 line in. Mastered version of Mountain Stream 2.wav",
+ "duration": 91.196,
+ "geotag": null,
+ "id": 76691,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Mountain Stream 2 Revisited.wav",
+ "num_downloads": 339,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/76/76691_634166-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/76/76691_634166-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/76/76691_634166-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/76/76691_634166-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "babbling",
+  "beck",
+  "brook",
+  "field-recording",
+  "gurgle",
+  "loop",
+  "mountain",
+  "mountain-stream",
+  "nant",
+  "nant-y-mynydd",
+  "stereo",
+  "stream",
+  "tarn",
+  "water",
+  "xy"
+ ],
+ "url": "https://freesound.org/people/Benboncan/sounds/76691/",
+ "username": "Benboncan"
+}
