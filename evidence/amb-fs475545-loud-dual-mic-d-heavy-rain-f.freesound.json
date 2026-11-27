@@ -1,0 +1,38 @@
+{
+ "avg_rating": 4.636363636363637,
+ "channels": 2,
+ "created": "2019-06-26T21:14:20Z",
+ "description": "A heavy downpour in Grimbergen, Belgium. There may be some thunder in there..",
+ "duration": 515.107,
+ "geotag": "50.9277847755 4.40569335631",
+ "id": 475545,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "LOUD - Dual Mic'd - Heavy Rain from Grimbergen with Possible Thunder.wav",
+ "num_downloads": 302,
+ "num_ratings": 11,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/475/475545_531690-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/475/475545_531690-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/475/475545_531690-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/475/475545_531690-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Ambience",
+  "Ambient",
+  "Belgium",
+  "Grimbergen",
+  "Heavy",
+  "Heavy-Rain",
+  "Loud",
+  "Natural",
+  "Nature",
+  "Rain",
+  "Rain-Storm",
+  "Rainstorm",
+  "Storm",
+  "Thunder"
+ ],
+ "url": "https://freesound.org/people/theafterdinnerdialogues/sounds/475545/",
+ "username": "theafterdinnerdialogues"
+}

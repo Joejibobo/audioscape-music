@@ -1,0 +1,27 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2016-08-13T16:45:02Z",
+ "description": "A late afternoon thunderstorm passing by",
+ "duration": 76.115,
+ "geotag": null,
+ "id": 351945,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "rain and distant thunder 3.WAV",
+ "num_downloads": 67,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/351/351945_4930623-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/351/351945_4930623-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/351/351945_4930623-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/351/351945_4930623-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "distant",
+  "rain",
+  "thunder"
+ ],
+ "url": "https://freesound.org/people/paulmessier/sounds/351945/",
+ "username": "paulmessier"
+}

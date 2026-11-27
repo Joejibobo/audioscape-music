@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.846153846153846,
+ "channels": 1,
+ "created": "2013-11-13T18:29:06Z",
+ "description": "A rough sea crashing on the shore.",
+ "duration": 92.1216,
+ "geotag": null,
+ "id": 207143,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "RoughSea.wav",
+ "num_downloads": 1455,
+ "num_ratings": 13,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/207/207143_2568776-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/207/207143_2568776-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/207/207143_2568776-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/207/207143_2568776-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "beach",
+  "crashing",
+  "rough",
+  "sea",
+  "surf"
+ ],
+ "url": "https://freesound.org/people/ahill86/sounds/207143/",
+ "username": "ahill86"
+}

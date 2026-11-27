@@ -1,0 +1,33 @@
+{
+ "avg_rating": 4.833333333333333,
+ "channels": 2,
+ "created": "2020-10-05T14:22:33Z",
+ "description": "Clatter of halyards on masts. Little river port\nVaritions of the wind\nBrittany, France, 2020\n\nrecorded with AB set up of clippy EM127\nrecorded on Sounddevice mixpre6\nwave stereo 24 bits 96KHz",
+ "duration": 271.701,
+ "geotag": "47.5184174503 -2.30608401384",
+ "id": 538010,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "halyards clattering port.wav",
+ "num_downloads": 262,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/538/538010_11519060-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/538/538010_11519060-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/538/538010_11519060-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/538/538010_11519060-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "boat",
+  "boats",
+  "halyards",
+  "masts",
+  "port",
+  "quayside",
+  "river",
+  "riverside",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/bruno.auzet/sounds/538010/",
+ "username": "bruno.auzet"
+}

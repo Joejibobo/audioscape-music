@@ -1,0 +1,35 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2026-04-28T11:55:55Z",
+ "description": "iPhone 16 X/Y stereo recording of Dutch people in a museum. Some murmuring, light chatting.",
+ "duration": 90.4382,
+ "geotag": "52.25925 5.22151",
+ "id": 852099,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Dutch museum walla indoor 1 Singer Laren april 2026",
+ "num_downloads": 3,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/852/852099_123355-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/852/852099_123355-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/852/852099_123355-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/852/852099_123355-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "chatter",
+  "crowd",
+  "dutch",
+  "field-recording",
+  "murmuring",
+  "museum",
+  "people",
+  "talking",
+  "voices",
+  "walla"
+ ],
+ "url": "https://freesound.org/people/hz37/sounds/852099/",
+ "username": "hz37"
+}

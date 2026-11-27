@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.25,
+ "channels": 2,
+ "created": "2019-03-18T16:21:25Z",
+ "description": "general street atmos - pedestrians walk past, traffic in the distance and pneumatic drill and stone cutter noise from road-works. Recorded on a busy junction in Madrid on Tascam DR40 AB stereo 48kHz",
+ "duration": 127.453,
+ "geotag": null,
+ "id": 463901,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "street ambience.wav",
+ "num_downloads": 597,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/463/463901_8044044-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/463/463901_8044044-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/463/463901_8044044-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/463/463901_8044044-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "city",
+  "field-recording",
+  "noise",
+  "people",
+  "street",
+  "traffic"
+ ],
+ "url": "https://freesound.org/people/OutofPhaze/sounds/463901/",
+ "username": "OutofPhaze"
+}

@@ -1,0 +1,36 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2018-09-25T19:04:16Z",
+ "description": "Street ambience before new year in Philippines. \nI made this recording during the afternoon of December 31st of 2016, in a street of Calapan city (Oriental Mindoro, Philippines). \nYou can hear heavy traffic, many people talking, walking, and using horns. \nRecorded with an Olympus LS-3 and a Luhd PM-01M mono microphone (Primo em172). \nFade in/out and high pass filter 120Hz -6dB/oct applied in Audacity.",
+ "duration": 115.735,
+ "geotag": null,
+ "id": 441273,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "LS_33498_PH_Street.wav",
+ "num_downloads": 115,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/441/441273_9034501-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/441/441273_9034501-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/441/441273_9034501-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/441/441273_9034501-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Philippines",
+  "ambience",
+  "city",
+  "field-recording",
+  "horns",
+  "new-year",
+  "people",
+  "street",
+  "talking",
+  "traffic",
+  "vehicles",
+  "voices"
+ ],
+ "url": "https://freesound.org/people/kevp888/sounds/441273/",
+ "username": "kevp888"
+}

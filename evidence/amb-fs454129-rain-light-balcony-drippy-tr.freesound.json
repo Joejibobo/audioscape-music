@@ -1,0 +1,30 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2018-12-17T23:09:21Z",
+ "description": "rain light balcony drippy trickly splats1.flac",
+ "duration": 374.386,
+ "geotag": null,
+ "id": 454129,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "rain light balcony drippy trickly splats1.flac",
+ "num_downloads": 53,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/454/454129_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/454/454129_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/454/454129_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/454/454129_612689-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "balcony",
+  "drippy",
+  "light",
+  "rain",
+  "splats",
+  "trickly"
+ ],
+ "url": "https://freesound.org/people/kyles/sounds/454129/",
+ "username": "kyles"
+}

@@ -1,0 +1,29 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2021-06-27T11:49:12Z",
+ "description": "5 minutes in a small room within a load clock is ticking. Somewhere in the middle there is a soft crack.",
+ "duration": 300.095,
+ "geotag": null,
+ "id": 578144,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "5min-kleinerRaum-lauteUhr.mp3",
+ "num_downloads": 69,
+ "num_ratings": 1,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/578/578144_9957218-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/578/578144_9957218-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/578/578144_9957218-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/578/578144_9957218-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "clock",
+  "indoor",
+  "quiet",
+  "ticking",
+  "watch"
+ ],
+ "url": "https://freesound.org/people/RishkaBee/sounds/578144/",
+ "username": "RishkaBee"
+}

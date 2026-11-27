@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.619047619047619,
+ "channels": 2,
+ "created": "2018-12-17T23:08:49Z",
+ "description": "mountain wind heavy strong gusts Swiss Alps.flac",
+ "duration": 171.223,
+ "geotag": null,
+ "id": 454092,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "mountain wind heavy strong gusts Swiss Alps.flac",
+ "num_downloads": 2502,
+ "num_ratings": 21,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/454/454092_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/454/454092_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/454/454092_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/454/454092_612689-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Alps",
+  "Swiss",
+  "gusts",
+  "heavy",
+  "mountain",
+  "strong",
+  "wind"
+ ],
+ "url": "https://freesound.org/people/kyles/sounds/454092/",
+ "username": "kyles"
+}

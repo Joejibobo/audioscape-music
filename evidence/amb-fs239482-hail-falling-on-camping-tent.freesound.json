@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.4,
+ "channels": 2,
+ "created": "2014-05-31T00:58:39Z",
+ "description": "Hail falling on camping tent on a summer night. Recorded with a Zoom H4n.",
+ "duration": 172.545,
+ "geotag": "39.45316112803002 23.118925094604492",
+ "id": 239482,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Hail falling on camping tent at Pelion.wav",
+ "num_downloads": 515,
+ "num_ratings": 10,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/239/239482_667113-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/239/239482_667113-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/239/239482_667113-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/239/239482_667113-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "field-recording",
+  "hail",
+  "nature",
+  "noise",
+  "rain",
+  "snow",
+  "storm",
+  "tent",
+  "weather",
+  "white-noise"
+ ],
+ "url": "https://freesound.org/people/Daphne_in_Wonderland/sounds/239482/",
+ "username": "Daphne_in_Wonderland"
+}

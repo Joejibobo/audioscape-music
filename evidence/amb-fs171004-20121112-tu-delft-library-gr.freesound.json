@@ -1,0 +1,33 @@
+{
+ "avg_rating": 5.0,
+ "channels": 2,
+ "created": "2012-12-03T15:13:44Z",
+ "description": "The library at Dutch university TU Delft. Recorded close to the information desk. Footsteps, dutch voices and sounds of doors in the background. Recorded with a Zoom H2 (front mikes).\r\nLocation pics:\r\n<a href=\"http://flic.kr/p/dwubdZ\" rel=\"nofollow\">http://flic.kr/p/dwubdZ</a>\n<a href=\"http://flic.kr/p/dwzHWh\" rel=\"nofollow\">http://flic.kr/p/dwzHWh</a>",
+ "duration": 120.213,
+ "geotag": "52.002717004 4.37571287155",
+ "id": 171004,
+ "license": "http://creativecommons.org/licenses/by/3.0/",
+ "name": "20121112 TU Delft Library, ground level - ambience close to information desk, voices.wav",
+ "num_downloads": 157,
+ "num_ratings": 4,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/171/171004_3145017-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/171/171004_3145017-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/171/171004_3145017-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/171/171004_3145017-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "ambience",
+  "big-space",
+  "field-recording",
+  "library",
+  "netherlands",
+  "neutral",
+  "public-building",
+  "university",
+  "zoom-h2"
+ ],
+ "url": "https://freesound.org/people/el_mar/sounds/171004/",
+ "username": "el_mar"
+}

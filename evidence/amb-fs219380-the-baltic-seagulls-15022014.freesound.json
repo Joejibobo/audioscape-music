@@ -1,0 +1,36 @@
+{
+ "avg_rating": 4.8125,
+ "channels": 2,
+ "created": "2014-02-17T16:13:49Z",
+ "description": "15.02.2014: about 15.00 in Miedzyzdroje. The Baltic coast. Sound of seagulls.\r\nrecorded on Martantz PMD661MKII + Shure VP88",
+ "duration": 122.964,
+ "geotag": "53.933738183261475 14.44953739643097",
+ "id": 219380,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "the Baltic seagulls_15022014.wav",
+ "num_downloads": 2519,
+ "num_ratings": 32,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/219/219380_1148115-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/219/219380_1148115-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/219/219380_1148115-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/219/219380_1148115-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Baltic",
+  "Miedzyzdroje",
+  "Poland",
+  "beach",
+  "birds",
+  "field-recording",
+  "nature",
+  "night",
+  "sea",
+  "seagulls",
+  "water",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/miastodzwiekow/sounds/219380/",
+ "username": "miastodzwiekow"
+}

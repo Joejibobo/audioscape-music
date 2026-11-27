@@ -1,0 +1,30 @@
+{
+ "avg_rating": 4.0,
+ "channels": 1,
+ "created": "2014-07-08T09:10:14Z",
+ "description": "Recorded on samsung galaxy ace\r\nHeavy rain and loud overhead thunder",
+ "duration": 195.593,
+ "geotag": null,
+ "id": 242040,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "rainnthunder 260614.mp3",
+ "num_downloads": 162,
+ "num_ratings": 6,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/242/242040_2163926-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/242/242040_2163926-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/242/242040_2163926-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/242/242040_2163926-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Heavy",
+  "ace",
+  "galaxy",
+  "rain",
+  "storm",
+  "thunder"
+ ],
+ "url": "https://freesound.org/people/blinkybob/sounds/242040/",
+ "username": "blinkybob"
+}

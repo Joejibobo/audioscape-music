@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.8,
+ "channels": 2,
+ "created": "2021-04-12T18:28:08Z",
+ "description": "A couple of pretty close thunder claps and some more distant rumbles, light rain. Stereo EM172s. Toronto",
+ "duration": 150.1,
+ "geotag": null,
+ "id": 567746,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "200708 Thunders various, big, med, distant, crack booming, hiss of rain.flac",
+ "num_downloads": 138,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/567/567746_97550-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/567/567746_97550-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/567/567746_97550-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/567/567746_97550-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "rain",
+  "thunder",
+  "thunderclap",
+  "thunderstorm",
+  "weather"
+ ],
+ "url": "https://freesound.org/people/TRP/sounds/567746/",
+ "username": "TRP"
+}

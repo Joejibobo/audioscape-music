@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.8125,
+ "channels": 1,
+ "created": "2023-09-19T14:38:00Z",
+ "description": "Six minutes of field recording from Hove beach in the morning. Iphone. Sound of seagulls and waves. Very calming.",
+ "duration": 365.525,
+ "geotag": "50.82358635114292 -0.1687199828712096",
+ "id": 703035,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Six mins of seaside morning in Hove",
+ "num_downloads": 232,
+ "num_ratings": 16,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/703/703035_12405170-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/703/703035_12405170-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/703/703035_12405170-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/703/703035_12405170-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Seaside",
+  "beach",
+  "field-recording",
+  "ocean",
+  "sea",
+  "seagulls",
+  "shore",
+  "water",
+  "wave",
+  "waves"
+ ],
+ "url": "https://freesound.org/people/SteveBakerSound/sounds/703035/",
+ "username": "SteveBakerSound"
+}

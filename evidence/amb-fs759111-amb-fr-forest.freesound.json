@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2024-10-08T03:33:05Z",
+ "description": "Ambience France day in a forest with birds crickets and insects",
+ "duration": 82.6626,
+ "geotag": null,
+ "id": 759111,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "AMB_FR_Forest",
+ "num_downloads": 117,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/759/759111_2286319-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/759/759111_2286319-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/759/759111_2286319-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/759/759111_2286319-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Forest",
+  "ambience",
+  "animals",
+  "bees",
+  "birds",
+  "day",
+  "field",
+  "field-recording",
+  "france",
+  "nature"
+ ],
+ "url": "https://freesound.org/people/lupalenzuela/sounds/759111/",
+ "username": "lupalenzuela"
+}

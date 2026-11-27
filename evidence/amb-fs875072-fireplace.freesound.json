@@ -1,0 +1,28 @@
+{
+ "avg_rating": 4.666666666666667,
+ "channels": 2,
+ "created": "2026-10-17T12:05:52Z",
+ "description": "Sounds of a fireplace",
+ "duration": 84.125,
+ "geotag": null,
+ "id": 875072,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Fireplace",
+ "num_downloads": 86,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/875/875072_8215516-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/875/875072_8215516-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/875/875072_8215516-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/875/875072_8215516-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Fuego",
+  "crackling",
+  "fireplace",
+  "sound"
+ ],
+ "url": "https://freesound.org/people/ganilder/sounds/875072/",
+ "username": "ganilder"
+}

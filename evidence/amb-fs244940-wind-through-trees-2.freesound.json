@@ -1,0 +1,29 @@
+{
+ "avg_rating": 4.757575757575758,
+ "channels": 2,
+ "created": "2014-08-16T15:13:18Z",
+ "description": "Recorded on a windy day in Thrunton woods, Northumberland, UK.\r\n\r\nZoom h2n left in the middle of the woods.\r\n\r\nYou can hear: \r\n- Wind \r\n- Leaves rustling\r\n- Me whistling at the end when I'm looking for the recorder!",
+ "duration": 412.224,
+ "geotag": "55.38138090482354 -1.886381241733488",
+ "id": 244940,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "Wind Through Trees 2",
+ "num_downloads": 1404,
+ "num_ratings": 33,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/244/244940_263745-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/244/244940_263745-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/244/244940_263745-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/244/244940_263745-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Nature",
+  "Trees",
+  "Weather",
+  "Wind",
+  "Windy"
+ ],
+ "url": "https://freesound.org/people/spoonbender/sounds/244940/",
+ "username": "spoonbender"
+}

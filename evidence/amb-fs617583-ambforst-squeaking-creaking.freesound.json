@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.857142857142857,
+ "channels": 2,
+ "created": "2022-02-05T14:16:33Z",
+ "description": "Squeeking, creaking trees in the wind. Rustling leaves, some birds. Recorded with ZOOM H6, MSH-6.",
+ "duration": 142.201,
+ "geotag": null,
+ "id": 617583,
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "name": "AMBForst_Squeaking-creaking-trees_wind_rustling_leaves_birds_ZOOM_H6_MSH-6.wav",
+ "num_downloads": 443,
+ "num_ratings": 7,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/617/617583_13589881-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/617/617583_13589881-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/617/617583_13589881-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/617/617583_13589881-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "Ambiance",
+  "Birds",
+  "Creak",
+  "Field-Recording",
+  "Forest",
+  "Leaves",
+  "Squeek",
+  "Trees",
+  "Wind",
+  "Wood"
+ ],
+ "url": "https://freesound.org/people/DBS_Sounds/sounds/617583/",
+ "username": "DBS_Sounds"
+}

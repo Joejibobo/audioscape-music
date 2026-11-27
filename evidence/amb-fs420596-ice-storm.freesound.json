@@ -1,0 +1,38 @@
+{
+ "avg_rating": 4.785714285714286,
+ "channels": 2,
+ "created": "2018-03-03T14:30:59Z",
+ "description": "Recording of an ice storm",
+ "duration": 163.116,
+ "geotag": "66.52703337612176 -86.24314785003662",
+ "id": 420596,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "ice storm",
+ "num_downloads": 1340,
+ "num_ratings": 28,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/420/420596_8167110-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/420/420596_8167110-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/420/420596_8167110-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/420/420596_8167110-lq.ogg"
+ },
+ "samplerate": 44100.0,
+ "tags": [
+  "Canada",
+  "Naujaat",
+  "Nunavut",
+  "blizzard",
+  "field-recording",
+  "hale",
+  "ice",
+  "nature",
+  "outside",
+  "sleet",
+  "storm",
+  "weather",
+  "wind",
+  "winter"
+ ],
+ "url": "https://freesound.org/people/tammarpokk/sounds/420596/",
+ "username": "tammarpokk"
+}
