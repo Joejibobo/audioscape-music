@@ -1,0 +1,33 @@
+{
+ "id": 53457,
+ "url": "https://freesound.org/people/digifishmusic/sounds/53457/",
+ "name": "Newdegate_Cave_4.mp3",
+ "tags": [
+  "binaural",
+  "cave",
+  "cave-tour",
+  "field-recording",
+  "hastings-caves",
+  "newdegate-cave",
+  "tasmania",
+  "tunnel",
+  "underground"
+ ],
+ "description": "In the Newdegate cave (Hastings, Tasmania). Recording chain: Panasonic WM61-A capsules (mics) - Edirol R09  (digital recorder)",
+ "geotag": "-43.3809104414 146.841888428",
+ "created": "2008-05-13T11:58:55Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 435.057,
+ "samplerate": 44100.0,
+ "username": "digifishmusic",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/53/53457_29541-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/53/53457_29541-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/53/53457_29541-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/53/53457_29541-lq.ogg"
+ },
+ "num_downloads": 109,
+ "avg_rating": 0.0,
+ "num_ratings": 0
+}

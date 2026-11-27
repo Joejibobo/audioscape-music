@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "baseURL": null,
   "beds": [
     {
@@ -2036,33 +2036,6 @@
       }
     },
     {
-      "id": "fs322565-askeleet-kadulla-mukulakivet",
-      "bed": "town",
-      "title": "Old town street 3",
-      "duration": 200.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "medium",
-      "world": [
-        "medieval",
-        "fantasy",
-        "rural"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs322565-askeleet-kadulla-mukulakivet.m4a",
-        "sha256": "b1b259926f91858e0f43503dbfdfa88f10a6be9a3e424377bed5b120b02d9156",
-        "bytes": 3244107
-      },
-      "licence": {
-        "licence": "CC-BY-4.0",
-        "source": "https://freesound.org/people/YleArkisto/sounds/322565/",
-        "author": "YleArkisto",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs322565-askeleet-kadulla-mukulakivet.html",
-        "retrieved": "2026-11-27T03:21:00Z",
-        "attribution": "Askeleet kadulla, mukulakivet / Footsteps, sedate, a man walking on cobblestones, a close sound by YleArkisto, freesound.org/s/322565, CC BY 4.0"
-      }
-    },
-    {
       "id": "fs118897-frogs",
       "bed": "night",
       "title": "Frogs at night",
@@ -2896,31 +2869,6 @@
         "source": "https://freesound.org/people/szelestamas/sounds/620100/",
         "author": "szelestamas",
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs620100-field-ambience-02.html",
-        "retrieved": "2026-11-27T03:21:00Z"
-      }
-    },
-    {
-      "id": "fs529692-walking-on-dry-dirt-road-wit",
-      "bed": "wind",
-      "title": "Wind over open ground 3",
-      "duration": 82.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "medium",
-      "world": [
-        "wilderness",
-        "rural"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs529692-walking-on-dry-dirt-road-wit.m4a",
-        "sha256": "ec8c222fda5f54c169caaef630f1b982e81e9996712436950bf62bf95f985fae",
-        "bytes": 1336280
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/Simonus18/sounds/529692/",
-        "author": "Simonus18",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs529692-walking-on-dry-dirt-road-wit.html",
         "retrieved": "2026-11-27T03:21:00Z"
       }
     },
@@ -4045,32 +3993,6 @@
         "author": "DefySolipsis",
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs531328-hum-7.html",
         "retrieved": "2026-11-27T04:33:20Z"
-      }
-    },
-    {
-      "id": "fs868862-walking-through-cayenne-mark",
-      "bed": "crowd",
-      "title": "Market crowd 3",
-      "duration": 220.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "medium",
-      "world": [
-        "medieval",
-        "ancient",
-        "urban"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs868862-walking-through-cayenne-mark.m4a",
-        "sha256": "98f742c6ee547f4f5a35ce9841aa1db13e992ac9217f2af85fc2700eb20e368c",
-        "bytes": 3568468
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/felix.blume/sounds/868862/",
-        "author": "felix.blume",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs868862-walking-through-cayenne-mark.html",
-        "retrieved": "2026-11-27T07:16:55Z"
       }
     },
     {
@@ -7603,32 +7525,6 @@
       }
     },
     {
-      "id": "fs673484-rain-from-hut-interior-cabin",
-      "bed": "rain",
-      "title": "Rain on a roof 9",
-      "duration": 126.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "medium",
-      "world": [
-        "domestic",
-        "rural",
-        "medieval"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs673484-rain-from-hut-interior-cabin.m4a",
-        "sha256": "a37c27dfd6bee4ba49ffe5350d8c72a2bb7b60494912cfeea7eb02438077fc7b",
-        "bytes": 2047285
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/felix.blume/sounds/673484/",
-        "author": "felix.blume",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs673484-rain-from-hut-interior-cabin.html",
-        "retrieved": "2026-11-27T08:09:22Z"
-      }
-    },
-    {
       "id": "fs158690-rain-from-half-open-window-1",
       "bed": "rain",
       "title": "Rain on a window 4",
@@ -10300,32 +10196,6 @@
       }
     },
     {
-      "id": "fs521815-room-tone-wind-rain-04-20021",
-      "bed": "rain",
-      "title": "Rain on a window 6",
-      "duration": 240.0,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "light",
-      "world": [
-        "domestic",
-        "urban"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs521815-room-tone-wind-rain-04-20021.m4a",
-        "sha256": "53ee243af8b44b224cb1e919aa0f0319777ebb324840fb84637a7c634adae0ae",
-        "bytes": 3883448
-      },
-      "licence": {
-        "licence": "CC-BY-4.0",
-        "source": "https://freesound.org/people/klankbeeld/sounds/521815/",
-        "author": "klankbeeld",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs521815-room-tone-wind-rain-04-20021.html",
-        "retrieved": "2026-11-27T11:18:59Z",
-        "attribution": "room-tone wind rain 04 200216_0114.wav by klankbeeld, freesound.org/s/521815, CC BY 4.0"
-      }
-    },
-    {
       "id": "fs736280-rain-water-drop-drizzle-fore",
       "bed": "rain",
       "title": "Rain in the forest 10",
@@ -10986,56 +10856,6 @@
       }
     },
     {
-      "id": "fs450994-crickets-night-field-diverse",
-      "bed": "night",
-      "title": "Crickets at night 8",
-      "duration": 105.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "light",
-      "world": [
-        "rural",
-        "wilderness"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs450994-crickets-night-field-diverse.m4a",
-        "sha256": "0efd91e93b99bd9ab12369c3ff363788859d5e0c1b999ae772ccba3a5dda14a2",
-        "bytes": 1708440
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/kyles/sounds/450994/",
-        "author": "kyles",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs450994-crickets-night-field-diverse.html",
-        "retrieved": "2026-11-27T08:09:22Z"
-      }
-    },
-    {
-      "id": "fs450995-crickets-night-field-diverse",
-      "bed": "night",
-      "title": "Crickets at night 9",
-      "duration": 137.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "light",
-      "world": [
-        "rural",
-        "wilderness"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs450995-crickets-night-field-diverse.m4a",
-        "sha256": "63f345657c9490d8e180acc6843d74a7c6c27ddc3b2b7cf10b9715177a6d0771",
-        "bytes": 2225964
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/kyles/sounds/450995/",
-        "author": "kyles",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs450995-crickets-night-field-diverse.html",
-        "retrieved": "2026-11-27T09:46:09Z"
-      }
-    },
-    {
       "id": "fs697270-wisconsin-frogs-short2",
       "bed": "night",
       "title": "Frogs at night 9",
@@ -11138,32 +10958,6 @@
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs170796-20121112-tu-delft-library-ge.html",
         "retrieved": "2026-11-27T08:09:22Z",
         "attribution": "20121112 TU Delft Library - general ambience from high stairs.wav by el_mar, freesound.org/s/170796, CC BY 3.0"
-      }
-    },
-    {
-      "id": "fs171004-20121112-tu-delft-library-gr",
-      "bed": "interior",
-      "title": "Library 11",
-      "duration": 89.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "light",
-      "world": [
-        "domestic",
-        "urban"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs171004-20121112-tu-delft-library-gr.m4a",
-        "sha256": "a139320f0ee4950f6242d8d6d09fc2e37afdc5b71044ecd361b6097dbb0ea5e4",
-        "bytes": 1449134
-      },
-      "licence": {
-        "licence": "CC-BY-3.0",
-        "source": "https://freesound.org/people/el_mar/sounds/171004/",
-        "author": "el_mar",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs171004-20121112-tu-delft-library-gr.html",
-        "retrieved": "2026-11-27T09:46:09Z",
-        "attribution": "20121112 TU Delft Library, ground level - ambience close to information desk, voices.wav by el_mar, freesound.org/s/171004, CC BY 3.0"
       }
     },
     {
@@ -12837,32 +12631,6 @@
       }
     },
     {
-      "id": "fs715680-130818-creaky-wood-rattles-s",
-      "bed": "ship",
-      "title": "Wooden ship at sea 23",
-      "duration": 103.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "medium",
-      "world": [
-        "maritime",
-        "fantasy",
-        "medieval"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs715680-130818-creaky-wood-rattles-s.m4a",
-        "sha256": "a9b13dc3ef67a5cab878c5cd2158a843e5cc700ce1714d125acbafa03fe296d7",
-        "bytes": 1675668
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/TRP/sounds/715680/",
-        "author": "TRP",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs715680-130818-creaky-wood-rattles-s.html",
-        "retrieved": "2026-11-27T12:14:34Z"
-      }
-    },
-    {
       "id": "fs250288-se-horse-wagon-coming-forwar",
       "bed": "travel",
       "title": "Horses on a dirt road 9",
@@ -13015,31 +12783,6 @@
         "source": "https://freesound.org/people/markystar/sounds/79086/",
         "author": "markystar",
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs79086-akasakahiejinjacicadas-4mics.html",
-        "retrieved": "2026-11-27T12:14:34Z"
-      }
-    },
-    {
-      "id": "fs637118-church-with-few-people",
-      "bed": "temple",
-      "title": "Temple 14",
-      "duration": 133.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "light",
-      "world": [
-        "sacred",
-        "ancient"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs637118-church-with-few-people.m4a",
-        "sha256": "8b8604fddce958c569fa583d3f1f6451d8caf4647967fed4a240ff483ebe0f0e",
-        "bytes": 2161305
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/xkeril/sounds/637118/",
-        "author": "xkeril",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs637118-church-with-few-people.html",
         "retrieved": "2026-11-27T12:14:34Z"
       }
     },
@@ -13353,33 +13096,6 @@
         "author": "Cinetony",
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs560739-ambience-of-smaller-district.html",
         "retrieved": "2026-11-27T12:14:34Z"
-      }
-    },
-    {
-      "id": "fs271003-entisajan-kaupunki-vanha-kat",
-      "bed": "travel",
-      "title": "Horses on a dirt road 17",
-      "duration": 199.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "medium",
-      "world": [
-        "medieval",
-        "fantasy",
-        "rural"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs271003-entisajan-kaupunki-vanha-kat.m4a",
-        "sha256": "a18c4a1b7e30301ee3d509c48c336be0673cc77809f36b62a9939e29620ebc22",
-        "bytes": 3228464
-      },
-      "licence": {
-        "licence": "CC-BY-4.0",
-        "source": "https://freesound.org/people/YleArkisto/sounds/271003/",
-        "author": "YleArkisto",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs271003-entisajan-kaupunki-vanha-kat.html",
-        "retrieved": "2026-11-27T12:14:34Z",
-        "attribution": "Entisajan kaupunki, vanha, katuhäly / Old-time street in a town, horses, carriages, people talking, footsteps, sparrows, mix  by YleArkisto, freesound.org/s/271003, CC BY 4.0"
       }
     },
     {
@@ -15099,31 +14815,6 @@
       }
     },
     {
-      "id": "fs466836-waves-mediterranean-sea-rock",
-      "bed": "sea",
-      "title": "Gulls over the shore 17",
-      "duration": 207.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "medium",
-      "world": [
-        "maritime"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs466836-waves-mediterranean-sea-rock.m4a",
-        "sha256": "2092cf016dc0671b7fb5b51c6b56518d89345556812478ab0e1989f02ac87928",
-        "bytes": 3357511
-      },
-      "licence": {
-        "licence": "CC-BY-3.0",
-        "source": "https://freesound.org/people/FreeToUseSounds/sounds/466836/",
-        "author": "FreeToUseSounds",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs466836-waves-mediterranean-sea-rock.html",
-        "retrieved": "2026-11-27T08:09:22Z",
-        "attribution": "Waves, Mediterranean Sea, Rocky Beach, Crushing, Seagulls, Birds, Tourists, Powerful Waves, Rolling Rocks, Splashing, Distance 50m Above Beach, Aphrodites Rock, Cyprus, Zoom F8n, Usi Pro, 19224, 05.WAV by FreeToUseSounds, freesound.org/s/466836, CC BY 3.0"
-      }
-    },
-    {
       "id": "fs60507-waves",
       "bed": "sea",
       "title": "Waves on rocks 12",
@@ -15970,31 +15661,6 @@
         "source": "https://freesound.org/people/kyles/sounds/177682/",
         "author": "kyles",
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs177682-thailand-jungle-night-cricke.html",
-        "retrieved": "2026-11-27T14:45:43Z"
-      }
-    },
-    {
-      "id": "fs450996-crickets-night-village-birds",
-      "bed": "night",
-      "title": "Crickets at night 14",
-      "duration": 111.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "light",
-      "world": [
-        "rural",
-        "wilderness"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs450996-crickets-night-village-birds.m4a",
-        "sha256": "6274a5afa14bd2e0bb2a782353fd270a3537da1ef37f491d57054abb78b8861e",
-        "bytes": 1804705
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/kyles/sounds/450996/",
-        "author": "kyles",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs450996-crickets-night-village-birds.html",
         "retrieved": "2026-11-27T14:45:43Z"
       }
     },
@@ -17651,31 +17317,6 @@
       }
     },
     {
-      "id": "fs407099-baha-temple-3-story-dome-qui",
-      "bed": "temple",
-      "title": "Temple 25",
-      "duration": 240.0,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "light",
-      "world": [
-        "sacred",
-        "ancient"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs407099-baha-temple-3-story-dome-qui.m4a",
-        "sha256": "552ea64ff956bc8e433bff9c5e6e98ceaf6ea5b7fb9b1e7c7628b86d4af04c4b",
-        "bytes": 3882828
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/kyles/sounds/407099/",
-        "author": "kyles",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs407099-baha-temple-3-story-dome-qui.html",
-        "retrieved": "2026-11-27T14:45:43Z"
-      }
-    },
-    {
       "id": "fs437422-atmo-church-2",
       "bed": "temple",
       "title": "Temple 27",
@@ -17928,31 +17569,6 @@
         "author": "shaunhillyard",
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs610766-fireplace-fire.html",
         "retrieved": "2026-11-27T09:46:09Z"
-      }
-    },
-    {
-      "id": "fs450556-crickets-night-south-america",
-      "bed": "night",
-      "title": "Crickets at night 13",
-      "duration": 119.5,
-      "gainDB": 0,
-      "era": "timeless",
-      "intensity": "light",
-      "world": [
-        "rural",
-        "wilderness"
-      ],
-      "remote": {
-        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs450556-crickets-night-south-america.m4a",
-        "sha256": "7fa81b6e0270ddcfa17dfab88cc704aeadab64a757abcdddbbc0f3159a4d28da",
-        "bytes": 1934929
-      },
-      "licence": {
-        "licence": "CC0-1.0",
-        "source": "https://freesound.org/people/kyles/sounds/450556/",
-        "author": "kyles",
-        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs450556-crickets-night-south-america.html",
-        "retrieved": "2026-11-27T08:09:22Z"
       }
     },
     {
@@ -18705,6 +18321,1104 @@
         "author": "i_o_i",
         "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs867938-montana-summer-evening-light.html",
         "retrieved": "2026-11-27T11:18:59Z"
+      }
+    },
+    {
+      "id": "fs414375-heavy-rain-on-plastic-roof",
+      "bed": "rain",
+      "title": "Rain on a roof 9",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "domestic",
+        "rural",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs414375-heavy-rain-on-plastic-roof.m4a",
+        "sha256": "ad50faab9a784063abbbc436eef2e07c73c02594ed3212371638fc10e4740b2e",
+        "bytes": 3883529
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/richwise/sounds/414375/",
+        "author": "richwise",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs414375-heavy-rain-on-plastic-roof.html",
+        "retrieved": "2026-11-27T14:45:43Z"
+      }
+    },
+    {
+      "id": "fs82614-wind-and-rain-on-window-shor",
+      "bed": "rain",
+      "title": "Rain on a window 6",
+      "duration": 86.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "domestic",
+        "urban"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs82614-wind-and-rain-on-window-shor.m4a",
+        "sha256": "7ca06be2a5c9001229cb142d92b6fe02cebd304a0e32c21d81d8c3eaae29c184",
+        "bytes": 1401069
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/Benboncan/sounds/82614/",
+        "author": "Benboncan",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs82614-wind-and-rain-on-window-shor.html",
+        "retrieved": "2026-11-27T14:45:43Z",
+        "attribution": "Wind And Rain On Window Short.wav by Benboncan, freesound.org/s/82614, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs532662-seagulls-cry-baltic-sea",
+      "bed": "sea",
+      "title": "Gulls over the shore 17",
+      "duration": 119.6,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs532662-seagulls-cry-baltic-sea.m4a",
+        "sha256": "06372b3363eed015f2b86fb5c7436923fefca5a6e404e3765618777a8d777110",
+        "bytes": 1936504
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/Geenburg/sounds/532662/",
+        "author": "Geenburg",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs532662-seagulls-cry-baltic-sea.html",
+        "retrieved": "2026-11-27T08:09:22Z",
+        "attribution": "seagulls cry Baltic sea by Geenburg, freesound.org/s/532662, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs809833-camp-fire-1",
+      "bed": "fire",
+      "title": "Torch flame 13",
+      "duration": 76.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "fantasy",
+        "medieval",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs809833-camp-fire-1.m4a",
+        "sha256": "3fd5b991ea5fd26994619edd4155387d161529812b39f6c1070b90544d029f4d",
+        "bytes": 1238829
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/rozhkovkirill/sounds/809833/",
+        "author": "rozhkovkirill",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs809833-camp-fire-1.html",
+        "retrieved": "2026-11-27T09:46:09Z"
+      }
+    },
+    {
+      "id": "fs480725-r08-24-large-crowd-screaming",
+      "bed": "crowd",
+      "title": "Crowd cheering 16",
+      "duration": 70.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "heavy",
+      "world": [
+        "medieval",
+        "ancient",
+        "military"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs480725-r08-24-large-crowd-screaming.m4a",
+        "sha256": "96cd8051b4607b2c58fd3b211199f5d40f06690b2b5f1c098904581d5778ded7",
+        "bytes": 1141982
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/craigsmith/sounds/480725/",
+        "author": "craigsmith",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs480725-r08-24-large-crowd-screaming.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs813291-spring-morning-village-bokho",
+      "bed": "town",
+      "title": "Old town street 7",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs813291-spring-morning-village-bokho.m4a",
+        "sha256": "292a3a654e85ec0c3a4b99a8a8dcc4c8302c7a7bc5a103d1329b81a003e6b513",
+        "bytes": 3882922
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/813291/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs813291-spring-morning-village-bokho.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "spring morning village Bokhoven Netherlands 0947 am 150405_0586 by klankbeeld, freesound.org/s/813291, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs755122-early-hamlet-bokhoven-nl-093",
+      "bed": "town",
+      "title": "Old town street 10",
+      "duration": 224.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs755122-early-hamlet-bokhoven-nl-093.m4a",
+        "sha256": "9015e610558bdbb3d52832b1647b97d1aa2d75fae4a61ab06849d0851aa2e578",
+        "bytes": 3632795
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/755122/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs755122-early-hamlet-bokhoven-nl-093.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "early hamlet Bokhoven NL 0933 AM150405_0586 by klankbeeld, freesound.org/s/755122, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs577080-village-wind-march-1-34pm-21",
+      "bed": "town",
+      "title": "Old town street 13",
+      "duration": 128.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs577080-village-wind-march-1-34pm-21.m4a",
+        "sha256": "b6fbb587be2509c637c7ac0f586df89b53641a5b5e08ba0a6533a0706d9f27a0",
+        "bytes": 2080593
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/577080/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs577080-village-wind-march-1-34pm-21.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "Village wind March 1.34PM 210314_0270.wav by klankbeeld, freesound.org/s/577080, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs331442-village-ambience-rooster-and",
+      "bed": "town",
+      "title": "Old town street 14",
+      "duration": 190.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs331442-village-ambience-rooster-and.m4a",
+        "sha256": "a1e8c1f07197485e844db641bb9a01db8a0be0c7ea20af23fac91ba5cb52f6c1",
+        "bytes": 3083233
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/The_Sound_Side/sounds/331442/",
+        "author": "The_Sound_Side",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs331442-village-ambience-rooster-and.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs582426-210721-1649-fr-village",
+      "bed": "town",
+      "title": "Old town street 16",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs582426-210721-1649-fr-village.m4a",
+        "sha256": "16f55bbedf12147e890f587b68f3d0b077b8d987e4993547bb20a959363f8f9e",
+        "bytes": 3883593
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/kevp888/sounds/582426/",
+        "author": "kevp888",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs582426-210721-1649-fr-village.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "210721_1649_FR_Village.wav by kevp888, freesound.org/s/582426, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs649384-old-courtyard-down-town-nl-1",
+      "bed": "town",
+      "title": "Old town street 29",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs649384-old-courtyard-down-town-nl-1.m4a",
+        "sha256": "4ad5b4dcb8b72ca89a10c73def2da6f83154b105afbd0fa908d32126825c660f",
+        "bytes": 3883504
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/649384/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs649384-old-courtyard-down-town-nl-1.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "old courtyard down-town NL 1413PM 220620_0421.wav by klankbeeld, freesound.org/s/649384, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs450230-village-winter-ambience-nigh",
+      "bed": "town",
+      "title": "Old town street 31",
+      "duration": 169.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs450230-village-winter-ambience-nigh.m4a",
+        "sha256": "d1de42d4dd7025526383316f6126255b0cc09bf7d5825d737204cc111e265736",
+        "bytes": 2743169
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/kyles/sounds/450230/",
+        "author": "kyles",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs450230-village-winter-ambience-nigh.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs151151-ext-distance-village-light-w",
+      "bed": "town",
+      "title": "Old town street 32",
+      "duration": 111.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs151151-ext-distance-village-light-w.m4a",
+        "sha256": "1f266a90dfe23ab1f63d197bc1a5167d260481d9b9466ef2ca5fc23ac1a6c584",
+        "bytes": 1804794
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/YevgVerh/sounds/151151/",
+        "author": "YevgVerh",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs151151-ext-distance-village-light-w.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "Ext, distance village, light wind in tree-01.wav by YevgVerh, freesound.org/s/151151, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs638070-old-fountain-on-large-town-s",
+      "bed": "town",
+      "title": "Old town street 33",
+      "duration": 105.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs638070-old-fountain-on-large-town-s.m4a",
+        "sha256": "9ec65dffaa2a85ae6f1df702fd9d9321b2b5ea542590892c441739042f54dbdc",
+        "bytes": 1708444
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/Garuda1982/sounds/638070/",
+        "author": "Garuda1982",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs638070-old-fountain-on-large-town-s.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "old fountain on large town square by Garuda1982, freesound.org/s/638070, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs637303-slomsek-square-fountain",
+      "bed": "town",
+      "title": "Old town street 34",
+      "duration": 125.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs637303-slomsek-square-fountain.m4a",
+        "sha256": "087f753dad50094990ad17b6f90a1b67cef1df05fecd19c52ad42d3a4a116e80",
+        "bytes": 2031231
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/dibko/sounds/637303/",
+        "author": "dibko",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs637303-slomsek-square-fountain.html",
+        "retrieved": "2026-11-27T17:47:58Z",
+        "attribution": "Slomšek Square - Fountain.wav by dibko, freesound.org/s/637303, CC BY 4.0"
+      }
+    },
+    {
+      "id": "montpezat-sous-bauzon-france-riviere-champ-g",
+      "bed": "night",
+      "title": "Crickets at night 8",
+      "duration": 134.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "rural",
+        "wilderness"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/montpezat-sous-bauzon-france-riviere-champ-g.m4a",
+        "sha256": "d3bb3e184b7839e047c1154bdcdfd08cd8c2d57a02595bacfc724b5c21ee0634",
+        "bytes": 2176859
+      },
+      "licence": {
+        "licence": "PD",
+        "source": "https://archive.org/details/aporee_13697_15972",
+        "author": "erreur auditive",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-montpezat-sous-bauzon-france-riviere-champ-g.ia.json",
+        "retrieved": "2026-11-26T19:50:15Z"
+      }
+    },
+    {
+      "id": "fs454661-cicadas-and-crickets-at-nigh",
+      "bed": "night",
+      "title": "Crickets at night 9",
+      "duration": 106.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "rural",
+        "wilderness"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs454661-cicadas-and-crickets-at-nigh.m4a",
+        "sha256": "cdfe81bade100f967559dc328228cbecb2ba10469ba0e67ed95e844e153692d2",
+        "bytes": 1724591
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/EduFigueres/sounds/454661/",
+        "author": "EduFigueres",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs454661-cicadas-and-crickets-at-nigh.html",
+        "retrieved": "2026-11-27T14:45:43Z",
+        "attribution": "Cicadas and crickets at night near a river in Emei Shan (China) by EduFigueres, freesound.org/s/454661, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs451556-crickets-night-heavy-backyar",
+      "bed": "night",
+      "title": "Crickets at night 13",
+      "duration": 193.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "rural",
+        "wilderness"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs451556-crickets-night-heavy-backyar.m4a",
+        "sha256": "5c6af39711a8694122a8aeaa1a73b759289bf9eeccc9b4f4cd393c50f31630af",
+        "bytes": 3131080
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/kyles/sounds/451556/",
+        "author": "kyles",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs451556-crickets-night-heavy-backyar.html",
+        "retrieved": "2026-11-27T09:46:09Z"
+      }
+    },
+    {
+      "id": "fs177622-thailand-kata-hillside-crick",
+      "bed": "night",
+      "title": "Crickets at night 14",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "rural",
+        "wilderness"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs177622-thailand-kata-hillside-crick.m4a",
+        "sha256": "b76f859838d02e64168673608240e41081277ca59bf58e4f44fdf86d6af672cf",
+        "bytes": 3883536
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/kyles/sounds/177622/",
+        "author": "kyles",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs177622-thailand-kata-hillside-crick.html",
+        "retrieved": "2026-11-27T09:46:09Z"
+      }
+    },
+    {
+      "id": "fs333114-ames-room-423",
+      "bed": "interior",
+      "title": "Library 11",
+      "duration": 108.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "domestic",
+        "urban"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs333114-ames-room-423.m4a",
+        "sha256": "3f8230f0e0f73efba73787dab751ced0554d5822703d0f45623d0db58001c81d",
+        "bytes": 1756371
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/m_cherry/sounds/333114/",
+        "author": "m_cherry",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs333114-ames-room-423.html",
+        "retrieved": "2026-11-27T14:45:43Z"
+      }
+    },
+    {
+      "id": "fs737614-day-morning-bird-ambiance-gh",
+      "bed": "forest",
+      "title": "Forest birds by day 15",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "wilderness",
+        "rural",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs737614-day-morning-bird-ambiance-gh.m4a",
+        "sha256": "ec65f4940528cc56fdd9710cefc3d808e099cf8d1a0caf3f2e64c15e2e68e746",
+        "bytes": 3882898
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/AshruKumarsEye/sounds/737614/",
+        "author": "AshruKumarsEye",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs737614-day-morning-bird-ambiance-gh.html",
+        "retrieved": "2026-11-27T11:18:59Z"
+      }
+    },
+    {
+      "id": "fs674929-winter-fens-nl-1015am-kampin",
+      "bed": "forest",
+      "title": "Swamp 10",
+      "duration": 134.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "wilderness",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs674929-winter-fens-nl-1015am-kampin.m4a",
+        "sha256": "b395f39b7889e788c534f78fdc6296c9e44efaf20168d8bcf0c14ff1a7511559",
+        "bytes": 2177551
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/674929/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs674929-winter-fens-nl-1015am-kampin.html",
+        "retrieved": "2026-11-27T17:47:58Z",
+        "attribution": "Winter fens NL 1015AM Kampina Kogelvangersven 230214_0559.wav by klankbeeld, freesound.org/s/674929, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs751268-park-fens-winter-nl-1034-am",
+      "bed": "forest",
+      "title": "Swamp 12",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "wilderness",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs751268-park-fens-winter-nl-1034-am.m4a",
+        "sha256": "c2b5eab54fd8594c37ac7fd32c0a7ba9850f8d82d0f6736845726a9f9e0a0165",
+        "bytes": 3882852
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/751268/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs751268-park-fens-winter-nl-1034-am.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "park fens winter NL 1034 AM 230214_0559 by klankbeeld, freesound.org/s/751268, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs404152-bats-squeak-in-the-small-cav",
+      "bed": "cave",
+      "title": "Cave 6",
+      "duration": 100.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "wilderness",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs404152-bats-squeak-in-the-small-cav.m4a",
+        "sha256": "bf51ba3a74f5240d29687220c94e715a1db0b96c0151a6a37da20a570ae7608f",
+        "bytes": 1627402
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/Selector/sounds/404152/",
+        "author": "Selector",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs404152-bats-squeak-in-the-small-cav.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs53457-newdegate-cave-4",
+      "bed": "cave",
+      "title": "Cave 23",
+      "duration": 72.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "wilderness",
+        "fantasy"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs53457-newdegate-cave-4.m4a",
+        "sha256": "53b48d260edd900d74ad89b05becdc00023536352907c97e1d7957b54b163c06",
+        "bytes": 1174631
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/digifishmusic/sounds/53457/",
+        "author": "digifishmusic",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs53457-newdegate-cave-4.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "Newdegate_Cave_4.mp3 by digifishmusic, freesound.org/s/53457, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs101921-rowing2",
+      "bed": "ship",
+      "title": "Wooden ship at sea 13",
+      "duration": 90.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime",
+        "fantasy",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs101921-rowing2.m4a",
+        "sha256": "22c4f830dce87aaa295d16480caaab4476becbf1ee36b0354efef3519858bf22",
+        "bytes": 1465227
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/juskiddink/sounds/101921/",
+        "author": "juskiddink",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs101921-rowing2.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "Rowing2.wav by juskiddink, freesound.org/s/101921, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs796428-paddling-through-a-rapid",
+      "bed": "ship",
+      "title": "Wooden ship at sea 14",
+      "duration": 79.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime",
+        "fantasy",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs796428-paddling-through-a-rapid.m4a",
+        "sha256": "aebb42993f8d1a814f7d2192f6d1accc4dcbead11167108aeed8595a3d09615a",
+        "bytes": 1287308
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/fran_marenco/sounds/796428/",
+        "author": "fran_marenco",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs796428-paddling-through-a-rapid.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs648655-boat-anchoring-and-dinghy-pa",
+      "bed": "ship",
+      "title": "Wooden ship at sea 16",
+      "duration": 85.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime",
+        "fantasy",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs648655-boat-anchoring-and-dinghy-pa.m4a",
+        "sha256": "16f9573609f16a5024c1d57b5bebb16713d61ff1e49b3a72349ce351cd4ef312",
+        "bytes": 1384532
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/Elenalostale/sounds/648655/",
+        "author": "Elenalostale",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs648655-boat-anchoring-and-dinghy-pa.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs371171-sailboat-cockpit-at-17kn-win",
+      "bed": "ship",
+      "title": "Wooden ship at sea 17",
+      "duration": 121.3,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime",
+        "fantasy",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs371171-sailboat-cockpit-at-17kn-win.m4a",
+        "sha256": "f2919919482ff24fe489a7fef1133980783f2385f6ce75eddf4c19cc115355be",
+        "bytes": 1962867
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/borralbi/sounds/371171/",
+        "author": "borralbi",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs371171-sailboat-cockpit-at-17kn-win.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs253163-soutuvene-koskenlasku-a-wood",
+      "bed": "ship",
+      "title": "Wooden ship at sea 18",
+      "duration": 107.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime",
+        "fantasy",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs253163-soutuvene-koskenlasku-a-wood.m4a",
+        "sha256": "cd4a0528dd59d5ae212087b891faeab8d628d7c74a601ae49802b4a26af8ea84",
+        "bytes": 1740135
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/YleArkisto/sounds/253163/",
+        "author": "YleArkisto",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs253163-soutuvene-koskenlasku-a-wood.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "Soutuvene, koskenlasku / A wooden rowing boat approaching a foaming torrent, rafting, calming down  by YleArkisto, freesound.org/s/253163, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs251522-kirkkovene-soutu-rowing-boat",
+      "bed": "ship",
+      "title": "Wooden ship at sea 19",
+      "duration": 73.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime",
+        "fantasy",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs251522-kirkkovene-soutu-rowing-boat.m4a",
+        "sha256": "c998d4bb07bb12cd6437c2504ef8edf214610b284f2988edfccdc11fd9786c9a",
+        "bytes": 1190706
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/YleArkisto/sounds/251522/",
+        "author": "YleArkisto",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs251522-kirkkovene-soutu-rowing-boat.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "Kirkkovene, soutu / Rowing boat, several, eight pairs of oars, so called churchboat, rowing by YleArkisto, freesound.org/s/251522, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs554439-sailboat-sail-flapping-with",
+      "bed": "ship",
+      "title": "Wooden ship at sea 22",
+      "duration": 117.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime",
+        "fantasy",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs554439-sailboat-sail-flapping-with.m4a",
+        "sha256": "d78b833a33500131aeb7e7cdf8547d05ad4673db0e968980f8d4d9b86e637b26",
+        "bytes": 1901956
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/maryhelena.clark/sounds/554439/",
+        "author": "maryhelena.clark",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs554439-sailboat-sail-flapping-with.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs585313-2021-08-30-rowing-boat-007",
+      "bed": "ship",
+      "title": "Wooden ship at sea 24",
+      "duration": 119.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "maritime",
+        "fantasy",
+        "medieval"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs585313-2021-08-30-rowing-boat-007.m4a",
+        "sha256": "692926574b6f68e349ee6675b02520b8cfc6b0c16218ff285e37162ba06c595c",
+        "bytes": 1934850
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/ilmari_freesound/sounds/585313/",
+        "author": "ilmari_freesound",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs585313-2021-08-30-rowing-boat-007.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs139325-trotting-horse-in-rural-road",
+      "bed": "travel",
+      "title": "Horses on a dirt road 17",
+      "duration": 86.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs139325-trotting-horse-in-rural-road.m4a",
+        "sha256": "4710b2a5da3193ed0802d53803ab3f8740a289edf96546ac67f48ecb5fddda5a",
+        "bytes": 1400762
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/Oscar%20de%20%C3%81vila/sounds/139325/",
+        "author": "Oscar de Ávila",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs139325-trotting-horse-in-rural-road.html",
+        "retrieved": "2026-11-27T20:09:30Z"
+      }
+    },
+    {
+      "id": "fs735352-240415-2716-it-cathedral-of",
+      "bed": "temple",
+      "title": "Temple 12",
+      "duration": 192.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "sacred",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs735352-240415-2716-it-cathedral-of.m4a",
+        "sha256": "7d0ccf129319096e6d788a9fa909e68761c1be3cd5c412bc1900d65b5e70249b",
+        "bytes": 3115167
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/kevp888/sounds/735352/",
+        "author": "kevp888",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs735352-240415-2716-it-cathedral-of.html",
+        "retrieved": "2026-11-27T17:47:58Z",
+        "attribution": "240415_2716_IT_Cathedral_of_Pisa by kevp888, freesound.org/s/735352, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs648415-sagrada-ambience",
+      "bed": "temple",
+      "title": "Temple 14",
+      "duration": 115.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "sacred",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs648415-sagrada-ambience.m4a",
+        "sha256": "ae2a6f452152c57b73b3821bece7fc3c0203fd583d6cb781ba0f1c8f44ae37cc",
+        "bytes": 1869661
+      },
+      "licence": {
+        "licence": "CC0-1.0",
+        "source": "https://freesound.org/people/noisymichael/sounds/648415/",
+        "author": "noisymichael",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs648415-sagrada-ambience.html",
+        "retrieved": "2026-11-27T17:47:58Z"
+      }
+    },
+    {
+      "id": "fs343237-southwark-cathedral-quiet-pr",
+      "bed": "temple",
+      "title": "Temple 20",
+      "duration": 129.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "sacred",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs343237-southwark-cathedral-quiet-pr.m4a",
+        "sha256": "af2a8c8129b8088d3d930d5dd4da8529f9d7ab49f8b69b373daec67e055a9b60",
+        "bytes": 2096100
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/Kalou/sounds/343237/",
+        "author": "Kalou",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs343237-southwark-cathedral-quiet-pr.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "Southwark Cathedral - Quiet prayer room.wav by Kalou, freesound.org/s/343237, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs343243-southwark-cathedral-ambience",
+      "bed": "temple",
+      "title": "Temple 22",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "sacred",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs343243-southwark-cathedral-ambience.m4a",
+        "sha256": "483edc398de8dec46c357fe63202fd88a5fdee21126f6896927cd060a78f8eae",
+        "bytes": 3883325
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/Kalou/sounds/343243/",
+        "author": "Kalou",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs343243-southwark-cathedral-ambience.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "Southwark Cathedral - Ambience of church.wav by Kalou, freesound.org/s/343243, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs733328-240410-2692-it-santa-maria-d",
+      "bed": "temple",
+      "title": "Temple 23",
+      "duration": 240.0,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "sacred",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs733328-240410-2692-it-santa-maria-d.m4a",
+        "sha256": "6c178142eb78404989534650246b3b8ab283195c2b2a7e6a9fc349d53a8a07c4",
+        "bytes": 3882852
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/kevp888/sounds/733328/",
+        "author": "kevp888",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs733328-240410-2692-it-santa-maria-d.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "240410_2692_IT_Santa_Maria_del_Fiore_Cathedral_in_Florence by kevp888, freesound.org/s/733328, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs789078-february-morning-village-bok",
+      "bed": "town",
+      "title": "Old town street 23",
+      "duration": 81.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "fantasy",
+        "rural"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs789078-february-morning-village-bok.m4a",
+        "sha256": "86d611fccb5014c15e374b5386511bd465267e4d29915f9c78bc6bb172ba0fb7",
+        "bytes": 1320181
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/klankbeeld/sounds/789078/",
+        "author": "klankbeeld",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs789078-february-morning-village-bok.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "February morning Village Bokhoven Netherlands 1041 AM 250217_0996 by klankbeeld, freesound.org/s/789078, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs343236-southwark-cathedral-more-chu",
+      "bed": "temple",
+      "title": "Temple 33",
+      "duration": 161.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "light",
+      "world": [
+        "sacred",
+        "ancient"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs343236-southwark-cathedral-more-chu.m4a",
+        "sha256": "063e575d0091c95465b82a593157f4de7729d9b8597baaf66a6c768bb0e34d49",
+        "bytes": 2613581
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/Kalou/sounds/343236/",
+        "author": "Kalou",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs343236-southwark-cathedral-more-chu.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "Southwark Cathedral - More church Ambience.wav by Kalou, freesound.org/s/343236, CC BY 4.0"
+      }
+    },
+    {
+      "id": "fs462719-20180523-kyoto-market-02",
+      "bed": "crowd",
+      "title": "Market crowd 23",
+      "duration": 74.5,
+      "gainDB": 0,
+      "era": "timeless",
+      "intensity": "medium",
+      "world": [
+        "medieval",
+        "ancient",
+        "urban"
+      ],
+      "remote": {
+        "url": "https://github.com/Joejibobo/audioscape-music/releases/download/ambience-v2/fs462719-20180523-kyoto-market-02.m4a",
+        "sha256": "3f94776e1b4f35df9d17a79f96b68a6b81e5ef289b59be8292ff613d3603ace7",
+        "bytes": 1207140
+      },
+      "licence": {
+        "licence": "CC-BY-4.0",
+        "source": "https://freesound.org/people/LG/sounds/462719/",
+        "author": "LG",
+        "evidenceURL": "https://github.com/Joejibobo/audioscape-music/blob/main/evidence/amb-fs462719-20180523-kyoto-market-02.html",
+        "retrieved": "2026-11-27T20:09:30Z",
+        "attribution": "20180523 - Kyoto market 02.wav by LG, freesound.org/s/462719, CC BY 4.0"
       }
     }
   ]

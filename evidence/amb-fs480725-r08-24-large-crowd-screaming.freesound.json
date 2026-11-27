@@ -1,0 +1,28 @@
+{
+ "avg_rating": 5.0,
+ "channels": 1,
+ "created": "2019-08-18T20:11:32Z",
+ "description": "Screaming, cheering, whistling. Very large crowd murmur. Some applause. Could be indoors or outside.",
+ "duration": 77.3194,
+ "geotag": null,
+ "id": 480725,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "R08-24-Large Crowd Screaming and Whistling.wav",
+ "num_downloads": 481,
+ "num_ratings": 5,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/480/480725_2524442-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/480/480725_2524442-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/480/480725_2524442-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/480/480725_2524442-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "Crowds",
+  "Optical",
+  "Reactions",
+  "Vintage"
+ ],
+ "url": "https://freesound.org/people/craigsmith/sounds/480725/",
+ "username": "craigsmith"
+}

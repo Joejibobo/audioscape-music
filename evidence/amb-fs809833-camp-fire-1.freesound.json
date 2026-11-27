@@ -1,0 +1,34 @@
+{
+ "avg_rating": 4.0,
+ "channels": 2,
+ "created": "2025-05-30T07:03:35Z",
+ "description": "sound of a campfire in nature made of raw wood",
+ "duration": 83.264,
+ "geotag": null,
+ "id": 809833,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "Camp fire #1",
+ "num_downloads": 79,
+ "num_ratings": 3,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/809/809833_9900733-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/809/809833_9900733-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/809/809833_9900733-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/809/809833_9900733-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "burn",
+  "burning",
+  "campfire",
+  "crackle",
+  "crackling",
+  "fire",
+  "fireplace",
+  "flame",
+  "flames",
+  "sparks"
+ ],
+ "url": "https://freesound.org/people/rozhkovkirill/sounds/809833/",
+ "username": "rozhkovkirill"
+}

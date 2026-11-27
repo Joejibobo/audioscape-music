@@ -1,0 +1,27 @@
+{
+ "id": 151151,
+ "url": "https://freesound.org/people/YevgVerh/sounds/151151/",
+ "name": "Ext, distance village, light wind in tree-01.wav",
+ "tags": [
+  "ambience",
+  "village",
+  "wind"
+ ],
+ "description": "Light wind in the tree. Village with bird on background.",
+ "geotag": null,
+ "created": "2012-04-09T16:12:16Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 118.044,
+ "samplerate": 48000.0,
+ "username": "YevgVerh",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/151/151151_2718606-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/151/151151_2718606-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/151/151151_2718606-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/151/151151_2718606-lq.ogg"
+ },
+ "num_downloads": 274,
+ "avg_rating": 4.8,
+ "num_ratings": 5
+}

@@ -1,0 +1,28 @@
+{
+ "avg_rating": 0.0,
+ "channels": 2,
+ "created": "2018-12-09T00:34:35Z",
+ "description": "crickets night heavy backyard1.flac",
+ "duration": 200.581,
+ "geotag": null,
+ "id": 451556,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "crickets night heavy backyard1.flac",
+ "num_downloads": 71,
+ "num_ratings": 0,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/451/451556_612689-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/451/451556_612689-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/451/451556_612689-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/451/451556_612689-lq.ogg"
+ },
+ "samplerate": 48000.0,
+ "tags": [
+  "backyard",
+  "crickets",
+  "heavy",
+  "night"
+ ],
+ "url": "https://freesound.org/people/kyles/sounds/451556/",
+ "username": "kyles"
+}

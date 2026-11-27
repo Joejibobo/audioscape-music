@@ -1,0 +1,30 @@
+{
+ "id": 82614,
+ "url": "https://freesound.org/people/Benboncan/sounds/82614/",
+ "name": "Wind And Rain On Window Short.wav",
+ "tags": [
+  "glass",
+  "rain",
+  "stereo",
+  "wind",
+  "window",
+  "xy"
+ ],
+ "description": "A stereo recording of wind and rain on a window. Rode NT-4 &gt; FEL battery pre-amp &gt; Zoom H2 line in.",
+ "geotag": null,
+ "created": "2009-11-04T18:23:53Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 171.122,
+ "samplerate": 44100.0,
+ "username": "Benboncan",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/82/82614_634166-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/82/82614_634166-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/82/82614_634166-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/82/82614_634166-lq.ogg"
+ },
+ "num_downloads": 1160,
+ "avg_rating": 4.647058823529412,
+ "num_ratings": 17
+}

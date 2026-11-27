@@ -1,0 +1,31 @@
+{
+ "avg_rating": 4.5,
+ "channels": 2,
+ "created": "2022-08-28T20:38:49Z",
+ "description": "Atmosphere in the interior of the Sagrada Familia, or more formally, the Basílica i Temple Expiatori de la Sagrada Família, in Barcelona, Spain. Antonio Gaudi's as-yet unfinished masterwork, begun in 1882, and set to be completed around 2026.  It's an awe-inspiring building, with soaring, tree-like pillars and flooded with color from the stained-glass windows.  This is a recording, made 2022 June 14, of the hubbub of sound inside the nave with multi-lingual tourists milling about, taking selfies, and gazing upward in awe.\n\n(Try playing it back pitched down by and octave or more too!)\n\n<img src=\"https://pub-b53a72fb8269499ebcb58bc5a038b086.r2.dev/sagrada_2.jpg\">",
+ "duration": 122.402,
+ "geotag": "41.403785 2.174327",
+ "id": 648415,
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "name": "sagrada_ambience.wav",
+ "num_downloads": 62,
+ "num_ratings": 2,
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/648/648415_13563349-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/648/648415_13563349-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/648/648415_13563349-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/648/648415_13563349-lq.ogg"
+ },
+ "samplerate": 96000.0,
+ "tags": [
+  "Barcelona",
+  "Sagrada-Familia",
+  "ambience",
+  "cathedral",
+  "church",
+  "crowd",
+  "field-recording"
+ ],
+ "url": "https://freesound.org/people/noisymichael/sounds/648415/",
+ "username": "noisymichael"
+}

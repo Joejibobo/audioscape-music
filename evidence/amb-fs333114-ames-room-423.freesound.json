@@ -1,0 +1,29 @@
+{
+ "id": 333114,
+ "url": "https://freesound.org/people/m_cherry/sounds/333114/",
+ "name": "Ames Room 423.mp3",
+ "tags": [
+  "binders",
+  "books",
+  "library",
+  "paper",
+  "pens"
+ ],
+ "description": "A collection of sounds taken while studying at the library.",
+ "geotag": "39.86300847683629 -88.95195664062493",
+ "created": "2016-01-14T21:51:34Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 1,
+ "duration": 115.217,
+ "samplerate": 44100.0,
+ "username": "m_cherry",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/333/333114_5873093-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/333/333114_5873093-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/333/333114_5873093-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/333/333114_5873093-lq.ogg"
+ },
+ "num_downloads": 107,
+ "avg_rating": 4.5,
+ "num_ratings": 2
+}

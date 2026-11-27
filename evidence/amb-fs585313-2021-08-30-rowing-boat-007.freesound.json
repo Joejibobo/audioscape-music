@@ -1,0 +1,27 @@
+{
+ "id": 585313,
+ "url": "https://freesound.org/people/ilmari_freesound/sounds/585313/",
+ "name": "2021-08-30-rowing-boat-007.wav",
+ "tags": [
+  "binaural",
+  "boat",
+  "water"
+ ],
+ "description": "Rowing on an old row boat on Lake Saimaa (Finland).\n\nEquipment: Zoom H5 + Soundman OKM II",
+ "geotag": null,
+ "created": "2021-08-30T12:46:56Z",
+ "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "channels": 2,
+ "duration": 126.79,
+ "samplerate": 96000.0,
+ "username": "ilmari_freesound",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/585/585313_12458758-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/585/585313_12458758-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/585/585313_12458758-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/585/585313_12458758-lq.ogg"
+ },
+ "num_downloads": 109,
+ "avg_rating": 4.666666666666667,
+ "num_ratings": 3
+}

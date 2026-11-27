@@ -1,0 +1,33 @@
+{
+ "id": 101921,
+ "url": "https://freesound.org/people/juskiddink/sounds/101921/",
+ "name": "Rowing2.wav",
+ "tags": [
+  "boat",
+  "dip",
+  "freshwater",
+  "lake",
+  "oars",
+  "row",
+  "rowing",
+  "splash",
+  "water"
+ ],
+ "description": "Rowing a four meter fibre-glass boat on a freshwater lake. ",
+ "geotag": "61.7420724503 29.1684865952",
+ "created": "2010-07-22T21:45:18Z",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "channels": 2,
+ "duration": 97.4084,
+ "samplerate": 44100.0,
+ "username": "juskiddink",
+ "previews": {
+  "preview-hq-mp3": "https://cdn.freesound.org/previews/101/101921_649468-hq.mp3",
+  "preview-hq-ogg": "https://cdn.freesound.org/previews/101/101921_649468-hq.ogg",
+  "preview-lq-mp3": "https://cdn.freesound.org/previews/101/101921_649468-lq.mp3",
+  "preview-lq-ogg": "https://cdn.freesound.org/previews/101/101921_649468-lq.ogg"
+ },
+ "num_downloads": 9542,
+ "avg_rating": 4.61875,
+ "num_ratings": 80
+}
